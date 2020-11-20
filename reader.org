@@ -1,0 +1,1700 @@
+#+TITLE: Corona - Anregungen zum Reden
+#+SUBTITLE: Aktuelle Version: http://corona.koch.ro
+#+EMAIL: thomas+corona@koch.ro
+#+OPTIONS: toc:tl author:t creator:nil email:t
+#+LATEX_HEADER: \usepackage[margin=3cm]{geometry}
+#+LATEX_HEADER: \usepackage{verse}
+#+LATEX_HEADER: \setcounter{tocdepth}{2}
+
+* Vorwort
+
+Diese Zusammenstellung ist nicht vollständig, nicht abgeschlossen und
+vielleicht fehlerhaft. Das Ziel dieser Sammlung von Gedanken und Verweisen ist
+es, Menschen zum Gespräch anzuregen.
+
+Der Anlass für diese Zusammenstellung war ein klärendes Gespräch zu Corona in
+der Familie. Glücklicherweise stellte es sich heraus, dass die Ansichten gar
+nicht so weit auseinander lagen: Die Maßnamen sind überzogen und das Virus
+wahrscheinlich eine mehr oder minder gewöhnliche Grippe. Nur die politischen
+Hintergründe sind unklar.
+
+Bei einem Gespräch über Corona ist es wichtig davon auszugehen, dass alle
+Gesprächspartner wahrscheinlich gutherzige Menschen sind. Es ist aber gar
+nicht immer so einfach zu erkennen, was gut und richtig ist. Wenn über das
+Gute und Richtige nicht diskutiert wird sondern Zweifel diskreditiert wird,
+dann handelt es sich um Propaganda.
+
+Ein großer kommerzieller Propagandaerfolg von Edward Berney war es zum
+Beispiel, Frauen das Rauchen schmackhaft zu machen. Er nannte Zigaretten die
+"Fackeln der Freiheit". Rauchende Frauen seien ein Zeichen der
+Emanzipation. Im Rückblick ist es einfacher, Gut von Böse zu unterscheiden.
+
+** Einleitung
+
+Wahrscheinlich hat kein Ereignis seit dem 2. Weltkrieg so viele Mensch auf so
+dramatische Weise betroffen, wie die von der Weltgesundheitsorganisation (WHO)
+ausgerufene Covid-19 Pandemie. Keine Entscheidung, sei es im großen wie im
+privaten kann zur Zeit getroffen werden ohne die Pandemie und ihre Folgen zu
+berücksichtigen.
+
+Viele Menschen leider unter den Schutzmaßnahmen. Das Spektrum reicht von
+leichten aber massenweisen Beeinträchtigungen des täglichen Lebens, über
+zerstörte Existenzen, verschobene dringende Behandlungen, Vereinsamung, Panik
+bis zu tatsächlichen Todesfällen durch die Schutzmaßnahmen. Auch die Panik
+widerum hat negative Folgen.
+
+Es ist daher berechtigt, sich Zeit zu nehmen, über diese Pandemie
+nachzudenken.
+
+Auf der anderen Seite gibt es natürlich Todes- oder schwere Krankheitsfälle
+von Covid-19. Es ist mir niemand bekannt, der die Existenz des Virus leugnet
+oder nicht bereit ist, Rücksicht auf Risikogruppen zu nehmen. Auch Angehörige
+von Verstorbenen verdienen Respekt ihrer Trauer. Covid-19 ist wahrscheinlich
+eine schwere Krankheit. Es darf aber nicht vergessen werden, dass Krankheit,
+Sterben und Tod zum Leben gehören. Auch die normale Grippe ist eine schwere
+Krankheit.
+
+Im folgenden wird das Wort "Pandemie" der Einfachheit halber benutzt, ohne
+damit eine Wertung vorwegzunehmen, ob Covid-19 tatsächlich als Pandemie
+bezeichnet werden sollte.
+
+** Die Wahrheit suchen
+
+Wissenschaft geht immer davon aus, dass man Wahrheit nicht beweisen kann. Es
+ist lediglich möglich, falsche Aussagen zu identifizieren und somit
+Falschaussagen zu widerlegen. Eine Theorie, die trotz redlichem Bemühens nicht
+widerlegt werden kann und die sich als nützlich herausstellt in dem Sinne,
+dass sie Vorhersagen und Erklärungen ermöglicht, wird dann als Annäherung an
+die Wahrheit benutzt.
+
+Grundlage aller Erkenntnis ist also der redliche Zweifel.
+
+Neue Erkenntnisse in Wissenschaft und Gesellschaft mussten sich oft gegen den
+erbitterten Widerstand der mächtigen Mehrheit durchsetzen.
+
+Es ist mir bewusst, dass Faktenfinder die Legitimität der Berufung auf den
+Zweifel bereits in Zweifel ziehen. Die interlektuelle Qualität dieser
+Argumentation ist offensichtlich.
+
+** Unvoreingenommenheit
+
+Jedes Nachdenken über die Pandemie steht vor der Herausforderung, sich von der
+Übermacht und Eindeutigkeit der vorherrschenden Sichtweise unabhängig zu
+machen. Es müssen zwei Fragen streng unabhängig voneinander betrachtet werden:
+
+ 1. Gibt es hinreichende Evidenz für eine hochgefährliche Jahrhundertpandemie?
+ 2. Wenn die Antwort auf den ersten Punkt "Nein" ist, wie kann dann das
+    gleichgeschaltete und agressive Handeln und Kommunizieren so vieler
+    Akteure erklärt werden?
+
+Falls man diese Fragen nicht voneinander trennt, bleibt man in einem
+Zirkelschluß gefangen:
+
+ 1. Weil die Pandemie so gefährlich ist, deswegen handeln und reden alle
+    gleich.
+ 2. Alle reden und handeln gleich, deswegen muss die Pandemie gefährlich sein.
+
+* Zweifel
+
+Bevor die beiden Fragen nach der Evidenz und der Erklärung für die
+Gleichschaltung beantwortet werden, sollen zunächst Gründe für berechtigten
+Zweifel an der offiziellen Geschichte betrachtet werden.
+
+Besonders wichtig sind die letzten beiden Abschnitte über die Nichteignung von
+PCR Tests für den Nachweis von Infektionen und über angebliche asymptomatische
+Übertragung. Diese beiden Aussagen sind die tragenden Säulen für die
+Behauptung einer weltweiten Pandemie und für die Begründung von Lockdowns.
+
+** Vergleich mit anderen Gefahren
+
+Politiker und Medien behaupten, im Interesse der allgemeinen Gesundheit zu
+handeln. Jedem kritischen Zeitgenossen fällt aber sofort auf, dass bisherige
+Bedrohungen der Gesundheit nicht zu entsprechenden Reaktionen führten.
+
+Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=60198][Den Gesundheitsschutz in den Mittelpunkt stellen? Na, dann
+fangen wir doch mal damit an …]]
+
+*** Krankenhauskeime
+
+https://norberthaering.de/die-regenten-der-welt/krankenhauskeime-lockdown
+
+An Krankenhauskeimen sterben nach Informationen des RKI in Deutschland Jahr
+für Jahr 10.000 bis 20.000 Menschen: [[https://www.rki.de/SharedDocs/FAQ/Krankenhausinfektionen-und-Antibiotikaresistenz/FAQ_Liste.html][Antworten auf häufig gestellte Fragen zu
+Krankenhausinfektionen und Antibiotikaresistenz]]
+
+Tödliche Krankenhauskeime könnten durch Mehrausgaben sowie das Verbot von
+Antibiotika in der Tierhaltung bekämpft werden. Im Vergleich zu den Maßnahmen
+gegen Corona, sind dies kleine Maßnahmen.
+
+Kommentar von Norbert Häring: [[https://norberthaering.de/die-regenten-der-welt/krankenhauskeime-lockdown][Tote durch Corona, Krankenhauskeime und Tabak:
+Hier retten auf Teufel komm raus, da Achselzucken]]
+
+Siehe auch: [[https://www.aerzte-gegen-massentierhaltung.de][Ärzte gegen Massentierhaltung e.V.]]
+
+*** Rauchen
+
+- Das tödlichste Artefakt https://www.nachdenkseiten.de/?p=48256
+- Das tödlichste Artefakt – Gedanken zu Robert Proctors Buch über die
+  Zigarettenkatastrophe https://www.nachdenkseiten.de/?p=47523
+- Hauptsache nikotinabhängig. Über die Gesundheitsgefahren des Tabakrauchens
+  und des Gebrauchs von E-Inhalationsprodukten und Tabakerhitzern.
+  https://www.nachdenkseiten.de/?p=44820
+
+*** Alkohol
+
+Alkoholmissbrauch wird nicht konsequent bekämpft. Stattdessen gibt es
+Alkopops.
+
+WHO: "In 2016, the harmful use of alcohol resulted in some 3 million deaths
+(5.3% of all deaths) worldwide" - [[https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf?ua=1][Global status report on alcohol and health
+2018]]
+
+*** Feinstaub
+
+Deutsche Welle: "Feinstaub, Stickstoffdioxid, bodennahes Ozon und andere
+Luftschadstoffe haben im Jahr 2016 mehr als 400.000 vorzeitige Todesfälle in
+Europa verursacht." - [[https://www.dw.com/de/studie-feinstaub-f%C3%BChrt-zu-zahlreichen-vorzeitigen-todesf%C3%A4llen/a-50855047][Studie: Feinstaub führt zu zahlreichen vorzeitigen
+Todesfällen]].
+
+*** Pflegenotstand
+
+Pflegenotstand herrscht seit Jahren. Außer Beifall zu klatschen ist auch in
+Folge der "Pandemie" nichts geschehen. Dabei war die drohende Überlastung des
+Gesundheitssystems das Hauptargument für die Maßnahmen: "Flatten the
+curve". Spätestens im April hätte es Notfallprogramme geben müssen zur
+Ausbildung von Pflegehelfern und zur Anwerbung bereits ausgebildeter
+Pflegekräfte.
+
+Statt in diesem Bereich Notstände zu beseitigen, werden angeblich
+unverantwortliche Maskenverweigerer oder feiernde Jugendliche diffamiert.
+
+Gerade dieser Bereich zeigt deutlich, dass der Schutz der Bevölkerung nicht
+das Hauptmotiv der Maßnahmen sein kann.
+
+André Tautenhahn auf TauBlog.de, 3.11.2020: [[https://www.taublog.de/201103der-karren-wird-seit-jahren-vor-die-wand-gefahren][Der Karren wird seit Jahren vor
+die Wand gefahren]] - "[...] die Höchstarbeitszeit für Beschäftigte in Kliniken
+und Pflegeheimen erneut auf bis zu 60 Stunden pro Woche erhöht."
+
+Nachdenkseiten, 3.11.2020: [[https://www.nachdenkseiten.de/?p=66470][Personalengpass auf den Intensivstationen – das
+Versagen der Politik wird abgewälzt]].
+
+*** Zivilisationskrankheiten: Diabetes, Übergewicht, Bluthochdruck
+
+Wichtigste Todesursachen in Industriestaaten nach Manfred Spitzer: Diabetes,
+Übergewicht, Bluthochdruck. Wird etwas gegen Zucker getan?
+
+Interessant ist, dass die Bill und Melinda Gates Foundation (BMGF) mindestens
+bis 2015 über 2 Milliarden US-Dollar in Coca-Cola und McDonald's investierte:
+[[https://philanthropynewsdigest.org/news/gates-foundation-divests-from-mcdonald-s-coca-cola-exxon][Gates Foundation Divests From McDonald's, Coca-Cola, Exxon]].
+
+*** Digitalisierung und Kinder
+
+Die Folgen des Digitalkonsums sind gravierend, werden aber nicht bekämpft
+sondern noch durch Steuergelder unterstützt, siehe Manfred Spitzer. Dies
+zeigt auch, dass die Digitalkonzerne, die sich jetzt mit Apps als Helfer
+gegen das Virus andienen, nicht an der Gesundheit der Bevölkerung
+interessiert sind.
+
+Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=49485][Der Digitalpakt wird unseren Kindern sehr schaden. Eigentlich
+unverantwortlich.]]
+
+** Glaubwürdigkeit der Protagonisten
+
+*** Correctiv
+
+Correctiv ist eine Faktenchecker Organisation, die z.B. für Facebook
+entscheidet, was wahr und unwahr ist. Zum Thema Corona ist für Correctiv alles
+unwahr, was der WHO oder der Bundeskanzlerin widerspricht.
+
+Auf der [[https://correctiv.org/ueber-uns][Über uns]] Seite von Correctiv findet man unter Zuwendungen und dann
+noch ein Klick, um "Zuwendungen nach Jahren" aufzuklappen, die Hauptgeldgeber:
+
+- Luminate – Omidyar Network Foundation. Stiftung des eBay Gründers Pierre
+  Omidyar, ein großspender der Demokratischen Partei in den USA. Omidyar ist
+  auch Geldgeber der Zeitung "The Intercept". Der Journalist Glenn Greenwald
+  hat sich vom Intercept getrennt nachdem dieser einen kritischen Artikel über
+  Joe Biden nicht veröffentlichte.
+- Schöpflin Stiftung - Badische Unternehmerfamilie
+- Stiftung Mercator GmbH - Duisburger Unternehmerfamilie (Metro)
+- Deutsche Telekom
+- Rudolf Augstein Stiftung
+- Open Society Stiftung - George Soros
+- Brost-Stiftung - Anneliese Brost, WAZ-Mediengruppe
+- DNI - Hier wird nur die Abkürzung angegeben. Wahrscheinlich ist hier das
+  [[https://de.wikipedia.org/wiki/Director_of_National_Intelligence][Director of National Intelligence]], ein Zusammenschluß der US-Geheimdienste
+  gemeint.
+- Bundeszentrale für politische Bildung, also eine Einrichtung der Deutschen
+  Regierung
+- Konrad Adenauer Stiftung, RTL Television GmbH, Deutsche Bank AG, Facebook,
+  Google mit kleineren Beträgen
+
+[[https://meinungsfreiheit.steinhoefel.de/2020/10/29/fall-35-achse-des-guten-triumphiert-ueber-correctiv-oberlandesgericht-karlsruhe-untersagt-rechtswidrigen-faktencheck][Fall 35: „Achse des Guten“ triumphiert über Correctiv: Oberlandesgericht
+Karlsruhe untersagt rechtswidrigen „Faktencheck“]]
+
+*** Bill Gates
+
+- 2016-01-31, Telepolis: [[https://www.heise.de/tp/features/Bill-Gates-zwischen-Schein-und-Sein-3378037.html][Bill Gates zwischen Schein und Sein]]
+- 19.12.2018, Netfrauen.org: [[https://netzfrauen.org/2018/12/19/who/][Ein gefährliches Netzwerk und unsägliche Allianz
+  – Bill Gates und die WHO]]
+- 2019. FR: [[https://www.fr.de/wirtschaft/privatisierung-weltrettung-11077887.html][Die Privatisierung der Weltrettung]]
+- 2020-05-23, finanzmarktwelt: [[https://finanzmarktwelt.de/bill-gates-stiftung-in-der-kritik-wie-gesund-ist-seine-macht-faktencheck-168318][Bill Gates Stiftung in der Kritik: Wie gesund
+  ist seine Macht? Faktencheck]]
+
+*** Christian Drosten
+
+Drosten zur Schweinegrippe 2009: "Es gebe eine dramatische Zunahme der
+Erkrankungen in Süddeutschland, stellte der Leiter des Instituts für Virologie
+der Universitätsklinik Bonn, Prof. Christian Drosten, am Montag (02.11.2009)
+fest. Er gehe davon aus, dass die Grippewelle in etwa fünf bis sechs Wochen
+über den restlichen Teil des Landes hinwegziehen werde." - Deutsche Welle,
+[[https://www.dw.com/de/schweinegrippe-auf-dem-vormarsch/a-4850220][Schweinegrippe auf dem Vormarsch]]
+
+Es gibt große Zweifel, ob Drosten tatsächlich promoviert hat. Es ist
+allerdings auch möglich, die bisherigen Unstimmigkeiten damit zu erklären,
+dass Promotionen in der Medizin generell nicht so streng sind wie in anderen
+Fachbereichen.
+
+"Aber zum Glück werden wir unterstützt durch öffentliche Forschungsmittel von
+der Europäischen Union und neuerdings auch von der Bill Gates Foundation, Bill
+& Melinda Gates Foundation" - [[https://www.ndr.de/nachrichten/info/16-Coronavirus-Update-Wir-brauchen-Abkuerzungen-bei-der-Impfstoffzulassung,podcastcoronavirus140.html][ndr, 18.03.2020]] ([[https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2019/11/OPP1216026][$253,000 in 2019]])
+
+*** Neil Ferguson
+
+Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=66244][Corona und gekaufte Wissenschaft – Wie falsche Wissenschaft
+die Welt in einen Abgrund stürzt]].
+
+Ferguson sagte im März 550.000 Tote für Großbritannien, 2,2 Millionen für die
+USA und 85.000 für Schweden voraus. Dies ist auch in Schweden nicht
+eingetreten. Ferguson hat sich selber nicht an Ausgangsbeschränkungen
+gehalten. Das Imperial College London wo er arbeitet erhielt seit 2010 190
+Millionen US-Dollar von der BMGF.
+
+*** Karl Lauterbach
+
+[[https://www.welt.de/politik/deutschland/article218800984/Corona-Regeln-Lauterbach-fordert-Kontrollen-in-Privatwohnungen.html][Lauterbach fordert Kontrollen in Privatwohnungen]]
+
+*** Wikipedia
+
+Das Thema Wikipedia bedarf eines eigenen langen Dokuments. Besonders Markus
+Fiedler hat auf seiner Seite [[https://wikihausen.de][Geschichten aus Wikihausen]] umfangreiches Material
+gesammelt. Sein Dokumentarfilm [[https://www.nachdenkseiten.de/?p=28035][Die dunkle Seite der Wikipedia]] wird auf Youtube
+anscheinend zensiert. Zur Zeit funktioniert dieser [[https://www.youtube.com/watch?v=6L8iVhCLJyU][Link]].
+
+Es gibt eine enge Zusammenarbeit zwischen Google und Wikipedia. Google benutzt
+die Daten von Wikipedia und spendet an die Wikimedia Foundation.
+
+Im "[[https://wikimediafoundation.org/role/board][Board of Trustees]]" der Wikimedia Foundation sieht man bereits an den
+Biografien die enge Anbindung an das liberale amerikanische
+Establishment. Weniger sichtbar ist die enge Zusammenarbeit mit der
+amerikanischen Organisation "[[https://www.newsguardtech.com/de/][NewsGuard]]". Jedoch sitzt der Wikipedia-Gründer
+[[https://de.wikipedia.org/wiki/Jimmy_Wales][Jimmy Wales]] im [[https://www.newsguardtech.com/de/unser-beirat/][Beirat von Newsguard]].
+
+Nicht nur sind etliche Mitglieder des NewsGuard Beirats direkt mit dem
+amerikanischen Militär verbunden. Newsguard bewirbt seine Zusammenarbeit mit
+dem U.S. Department of Defense und Department of State auch auf seiner
+[[https://www.newsguardtech.com][Homepage]].
+
+Wikipedia bevorzugt als [[https://de.wikipedia.org/wiki/Wikipedia:Belege#Was_sind_zuverl%C3%A4ssige_Informationsquellen?][Informationsquellen]] Zeitungen. Zeitungen arbeiten mit
+Faktencheckern zusammen. Die Faktenchecker orientieren sich an NewsGuard. Am
+Ende benutzen dann Journalisten die Wikipedia als Informationsquelle und Leser
+bekommen von Google die Wikipedia als erstes Suchergebnis präsentiert.
+
+** Art der Kommunikation
+
+- Diffamierung
+- Unlaute Methoden, z.B. Vergleich mit Chemtrails, Echsenmenschen
+- Keine saubere Verwendung von Begriffen: Testpositiv, infiziert, krank
+- Absolutzahlen
+- Massive Zensur auf YouTube
+  - https://nypost.com/2020/05/16/youtube-censors-epidemiologist-knut-wittkowski-for-opposing-lockdown
+
+*** False Flag, Operationen unter falscher Flagge
+
+Die gezielte Inszenierung von Fernsehbildern zur Diskreditierung einer
+Bewegung gehört zum kleinen Einmaleins der Propaganda. Im Zusammenhang mit
+Querdenken-Demonstrationen sind zwei Ereignisse gut dokumentiert:
+
+- Sturm auf den Reichstag: https://www.kritische-polizisten.de
+- Gewalt in Leipzig
+  - [[https://www.reitschuster.de/post/leipzig-wie-die-gewalt-in-die-demo-kam][Leipzig: Wie die Gewalt in die Demo kam]] - Boris Reitschuster
+  - [[https://www.youtube.com/watch?v=E1mzryUeoTI][Provokateure von Leipzig]] - Rechtsanwalt Frank Hannig
+
+*** Strafen statt diskutieren
+
+- Dr. Friedrich Pürner - Facharzt, Epidemiologe und Chef des Gesundheitsamts
+  Aichach-Friedberg bei Augsburg. Leiter Gesundheitsamt, Strafversetzt. Anfang
+  November, merkur.de: [[https://www.merkur.de/bayern/coronavirus-bayern-markus-soeder-friedrich-puerner-gesundheitsamt-kritik-strategie-strafe-beamter-zr-13922061.html][Er kritisierte öffentlich Söders Corona-Politik:
+  Gesundheitsamt-Chef wird strafversetzt]].
+- Rainer Schregel - Amtsarzt Kanton St. Gallen, kritisierte Maßnahmen, wurde
+  [[https://www.medinside.ch/de/post/entlassener-arzt-rainer-schregel-wieder-eingestellt][unrechtmäßig gefeuert]]
+- [[https://www.rnd.de/panorama/schulleiterin-auf-querdenkern-demo-in-leipzig-amt-verbietet-kontakt-zu-ihren-schulern-Z7AHULP5OBGE3EVDRMAEPHKY4U.html][Schulleiterin demonstriert mit „Querdenkern“ – Amt verbietet ihr Kontakt zu
+  ihren Schülern]]
+
+*** Manipulation
+
+[[https://www.t-online.de/nachrichten/panorama/id_87686578/corona-in-new-york-drohnenvideo-zeigt-massengrab-auf-insel-hart-island.html][Bilder von Massengräbern aus New York]] wirken besonders auf Deutsche
+schockierend da sie Assoziationen mit dem Holocaust aufrufen. Es wird
+allerdings verschwiegen, dass solche Massengräber an diesem Ort schon immer
+für Obdachlose ausgehoben werden, wie die Dokumentation "[[https://www.youtube.com/watch?v=pwN_rfOoIuA][The Potter's Field]]" zeigt.
+
+Es werden Bilder von Italienischen Militärfahrzeugen gezeigt, die Särge
+transportieren. Es wird aber verschwiegen, dass ein großer Teil der
+Bestattungsunternehmen wegen der Quarantäne nicht arbeiten kann: 24.3.2020
+[[https://www.adnkronos.com/fatti/cronaca/2020/03/24/coronavirus-federazione-onoranze-funebri-problema-gestionale-smaltimento-defunti_Nmzs6lQ3x2ZApN2FzDAG3H.html][Coronavirus, Federazione Onoranze Funebri: "Emergenza crea problema
+gestionale"]]
+
+Daniele Ganser beschreibt weitere Manipulationen in einem Vortrag vom 11.9.:
+[[https://www.youtube.com/watch?v=3gertJ5VFfM][Corona und die Medien]], wie z.B.:
+
+- Verwendung absoluter Zahlen oder Bezug
+- Gleichsetzung von Testpositiven mit Infizierten mit Hospitalisierten
+- Verwendung von suggestiven Bildern, teilweise ohne Bezug zur Meldung
+- Verschweigen von beruhigenden Informationen
+- Deklaration von Toten Verstorbenen Covid-Tote trotz abweichender oder
+  unbekannter Todesursache
+
+*** Panikpapier aus Deutschland und Österreich
+
+ Ein internes Strategiepapier des Deutschen Bundesinnenministerium erklärt
+ ([[https://www.abgeordnetenwatch.de/blog/informationsfreiheit/das-interne-strategiepapier-des-innenministeriums-zur-corona-pandemie][abgeordnetenwatch.de]]), dass eine "Schockwirkung" beabsichtigt sei:
+
+ "Um die gewünschte Schockwirkung zu erzielen, müssen die konkreten
+ Auswirkungen einer Durchseuchung auf die menschliche Gesellschaft verdeutlicht
+ werden:
+
+ 1. Viele Schwerkranke werden von ihren Angehörigen ins Krankenhaus gebracht,
+    aber abgewiesen, und sterben qualvoll um Luft ringend zu Hause. [...]
+
+ 2. [...] Wenn sie [Die Kinder] dann ihre Eltern anstecken, und einer davon
+    qualvoll zu Hause stirbt und sie das Gefühl haben, Schuld daran zu sein,
+    weil sie z.B. vergessen haben, sich nach dem Spielen die Hände zu waschen,
+    ist es das Schrecklichste, was ein Kind je erleben kann.
+
+ 3. Folgeschäden: [...]"
+
+Auch in Österreich ist Angst anscheinend bewusst als Mittel eingesetzt worden:
+
+- meinbezirk.at: [[https://www.meinbezirk.at/wieden/c-politik/bevoelkerung-soll-angst-vor-ansteckung-haben_a4046607][Bevölkerung soll "Angst vor Ansteckung" haben]]
+- Die Presse: [[https://www.diepresse.com/5805870/regierungsprotokoll-angst-vor-ansteckung-erwunscht][Regierungsprotokoll: Angst vor Ansteckung erwünscht?]]
+
+** Keine ausreichende Diskussion
+
+Das Land Bayern hat keine Akten über die Grundlagen der Verordnungen:
+https://www.heise.de/tp/features/Bayerische-Regierung-hat-angeblich-keine-Akten-zu-Corona-Beschluessen-4903549.html
+https://www.ckb-anwaelte.de/corona-update-17-august-2020
+
+Das Österreichische Verfassungsgericht hat die Corona-Verordnungen für
+ungültig erklärt, weil nicht ersichtlich war, auf welcher Basis die Maßnahmen
+beschlossen wurden.
+
+*** Experten
+
+Viele Experten würden gerne an einer öffentlichen Debatte mitwirken und
+bekommen diese Möglichkeit nicht. Stattdessen wird ihre Reputation angegriffen
+oder sogar Druck ausgeübt. Die folgenden Experten sind eine kleine,
+alphabetische Auswahl derjenigen, die sich bereits sehr früh kritisch über die
+angebliche extrem hohe Gefährlichkeit des Virus oder Angemessenheit der
+Maßnahmen geäußert haben.
+
+1. [[https://profiles.stanford.edu/eran-bendavid][Prof. Dr Eran Bendavid]] - Prof. für Medizin und öffentliche Gesundheit,
+   Stanford
+2. [[https://de.wikipedia.org/wiki/Sucharit_Bhakdi][Prof. Dr. Sucharit Bhakdi]] - Facharzt für Mikrobiologie und
+   Infektionsepidemiologie und ehem. Leiter des Instituts für Medizinische
+   Mikrobiologie und Hygiene, Autor des Spiegel Bestsellers "Corona
+   Fehlalarm?"
+3. [[https://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya][Prof. Dr. Jay Bhattacharya]], Stanford
+4. [[https://de.wikipedia.org/wiki/Gerd_Gigerenzer][Prof. Dr. Gerd Gigerenzer]] - Psychologe, kritisiert die Panikmache
+5. [[https://de.wikipedia.org/wiki/Peter_C._G%C3%B8tzsche][Prof. Peter C. Gøtzsche]] - Professor für klinisches Forschungsdesign und
+   Analyse, Mitbegründer der Cochrane Collaboration
+6. [[https://de.wikipedia.org/wiki/Sunetra_Gupta][Prof. Dr. Sunetra Gupta]] - Professorin der Epidemiologie
+7. Dr. Yoram Lass - ehem. Generaldirektor des Israelitischen
+   Gesundheitsministeriums
+8. [[https://de.wikipedia.org/wiki/Stefan_Hockertz][Prof. Dr. Stefan Hockertz]] - ehem. Direktor des Instituts für Experimentelle
+   und Klinische Pharmakologie und Toxikologie am Universitätskrankenhaus
+   Eppendorf
+9. [[https://medmaldoctors.ca/dr-roger-hodkinson][Dr. Roger Hodkinson]] - Pathologe, Virologe, CEO eines Herstellers von
+   Covid-19 Tests, bezeichnet die Coronavirus Panik als "[[https://lockdownsceptics.org/2020/11/19/latest-news-198/#youre-being-led-down-the-garden-path-by-the-chief-medical-officer-of-hell][the greatest hoax
+   ever perpetrated on an unsuspecting public]]"
+10. [[https://de.wikipedia.org/wiki/John_Ioannidis][Prof. Dr. John Ioannidis]] - Prof. für Medizin und Professor für
+    Epidemiologie und Bevölkerungsgesundheit an der Stanford University School
+    of Medicine, sowie prof. by courtesy für biomedizinische Datenwissenschaft
+    an der Stanford University School of Medicine, prof.  by courtesy für
+    Statistik an der Stanford University School of Humanities and Sciences, und
+    Kodirektor des Innovationszentrum für Meta-Forschung in Stanford, ebenfalls
+    Stanford University School of Medicine. Er gehört zu den meist-zitierten
+    Wissenschaftlern weltweit.
+11. [[https://en.wikipedia.org/wiki/Tom_Jefferson_(epidemiologist)][Tom Jefferson]] - Epidemiologe, Berater der Italienischen Staatsagentur für
+    regionale Gesundheitsdienste
+12. [[https://www.ukw.de/frauenklinik/team/detail/name/kaemmerer-ulrike][Prof. Dr. Ulrike Kämmerer]] - Virologin und Immunologin, bestreitet die
+    Eignung von PCR Tests zum Nachweis einer Infektion in der 4. Sitzung des
+    Corona-Ausschuss
+13. Prof. Dr. Ines Kappstein - Fachärztin für Mikrobiologie, Virologie und
+    Infektionsepigemiologie, Kritisierte die Masken, [[https://www.pnp.de/lokales/stadt-und-landkreis-passau/passau-stadt/Klinikum-distanziert-sich-von-seiner-Hygienikerin-3836110.html][Klinikleitung distanziert
+    sich]] und kündigt "personellen Wechsel" an
+14. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington
+    Declaration"
+15. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie
+    und Virologie an die Martin-Luther-Universität Halle-Wittenberg
+16. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
+    University of Manitoba
+17. Dr. med. Claus Köhnlein - Internist, Autor des Buches "Virus-Wahn" (2009)
+18. Prof. Dr. Brigitte König - stellv. Direktorin des Institutes für
+    Medizinische Mikrobiologie und Infektionsepidemiologie am
+    Universitätsklinikum Leipzig, Interview: [[https://www.youtube.com/watch?v=rU28CfwCBx8][Genauigkeit der PCR- und
+    Antikörper-Tests beim Coronavirus]]
+19. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
+    Helmholtz-Zentrum für Infektionsforschung in Braunschweig
+20. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
+21. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
+    Disease Research and Policy an der University of Minnesota
+22. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
+23. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
+24. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
+25. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
+    Entzündungserkrankungen, Autorin des Spiegel Bestsellers "Corona
+    Fehlalarm?"
+26. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
+    Spitz zu Immunonutrition]]
+27. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
+    und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
+28. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
+    Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
+    der Universität Bonn
+29. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
+    öffentliche Gesundheit
+30. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
+    Kantonsspital St. Gallen
+31. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+    Université Pierre et Marie Curie in Paris
+32. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
+    Epidemiologie und Forschungsdesign an der Rockefeller-Universität
+33. [[https://de.wikipedia.org/wiki/Wolfgang_Wodarg][Dr. Wolfgang Wodarg]] - Lungen Facharzt, Initiator des
+    Untersuchungsausschusses zur Schweinegrippe 2009. [[https://de.wikipedia.org/wiki/Martin_Schwab_(Jurist)][Prof. Dr. Martin Schwab]],
+    Juraprofessor Bielefeld hat ein umfangreiches [[http://www.jura.uni-bielefeld.de/lehrstuehle/schwab/Prof.-Schwab-zu-Wodarg.pdf][Dosier]] zur Verteidigung von
+    Wodarg erstellt. Das Dossier enthält auch Analysen, welche Aussagen nach
+    jetzigem Wissensstand als belegt angesehen werden können.  Nach Wodarg
+    eignet sich die Grippe in jedem Jahr, um eine Pandemie auszurufen: [[https://www.youtube.com/watch?v=jKaRvpTW8sE][Wodarg:
+    Industrieverbände bestimmen, ob man eine Pandemie ausruft (2013)]]
+
+Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
+Webseite [[https://off-guardian.org/category/covexperts][off Guardian]]. Dort findet man auch Hinweise auf die verschiedenen
+Formen des Drucks, der auf Experten ausgeübt wurde anstatt mit ihnen zu
+debatieren.
+
+Es liegt natürlich die Vermutung nahe, dass auch für die gegenteilige Meinung
+eine Reihe von Experten aufgelistet werden kann. Tatsächlich listed z.B. die
+[[https://www.handelszeitung.ch/panorama/long-read/propheten-der-pandemie-die-wichtigsten-corona-experten][Handelszeitung]] 12 Experten, die sich besorgt über die Pandemie oder zustimmend
+zu den Maßnahmen äußern:
+
+- Prof. Dr. Christian Drosten, Virologe
+- Nicola Low, Epidemiologin, Uni Bern
+- Dr. Lothar Wieler, Präsident Robert Koch-Institut, Tierarzt
+- Dr. Isabella Eckerle, Leiterin Infektiologie Unispital Genf, Studentin bei
+  Drosten
+- Pietro Vernazza, ist eigentlich ein Kritiker der Maßnahmen, gehört also
+  nicht in diese Liste
+- Prof. Tanja Stadler, Mathematikerin, Mitglied des Covid-19-Taskforce des
+  Bundes (Schweiz)
+- [[https://de.wikipedia.org/wiki/Marcel_Salath%C3%A9][Marcel Salathé]], Epidemiologe, ETH Lausanne, Leiter des "Digital Epidemiology
+  Lab" und Teamleiter der Organisation "[[https://en.wikipedia.org/wiki/AI_for_Good][AI for Good]]". AI for Good wird von
+  Amazon, Microsoft und zahlreichen UN Organisationen gesponsort. Salathés
+  Arbeitsschwerpunkt der Künstlichen Intelligenz bringt ihn in direkte
+  Verbindung oder sogar Abhängigkeit zu den großen Datenkonzernen und ihren
+  Datensammlungen.
+- [[https://de.wikipedia.org/wiki/Emma_Hodcroft][Dr. Emma Hodcroft]], Forscherin am Biozentrum in Basel. Sie mag eine gute
+  Wissenschaftlerin sein, ist aber einfach zu jung um als Expertin bezeichnet
+  werden zu können.
+- Beda Stadler, er gehört auch in die Liste der scharfen Kritiker.
+- Anthony Fauci, US-Chef-Virologe
+- [[https://de.wikipedia.org/wiki/Christian_Althaus][Christian Althaus]], Epidemiologe, Universität Bern. Kommentar von
+  [[https://corona-transition.org/die-2000-tweets-eines-nachwuchsprofessors][Corona-Transition]]. Er hat eigentlich Bioinformatik studiert. Sein [[https://www.ispm.unibe.ch/about_us/staff/althaus_christian/index_eng.html#pane200095][Lebenslauf]]
+  ist noch sehr kurz. Für [[https://www.google.com/search?q=Christian+Althaus&source=lnt&tbs=cdr%3A1%2Ccd_min%3A%2Ccd_max%3A11%2F1%2F2019&tbm=][Google ist er vor November 2019]] völlig unbekannt.
+- Adriano Aguzzi, Neuropathologe, Unispital Zürich
+
+Von den 12 Experten äußern sich zwei kritisch zur Panik und den Maßnahmen. Es
+bleiben also 10 Experten, von denen mindestens einer einen klaren
+Interessenskonflikt hat. Unter den 9 Experten ist ein Tierarzt und eine
+Mathematikerin. Keiner der sogenannten Experten spielt in der gleichen Liga
+wie die aufgeführten kritischen Experten.
+
+Auf [[https://www.t-online.de/gesundheit/krankheiten-symptome/id_87815006/coronavirus-pandemie-das-sind-die-fuehrenden-experten-in-deutschland.html][t-online]] findet man 8 Experten. Zwei davon sind Kritiker der übertriebenen
+Maßnahmen: Alexander Kekulé und Hendrik Streeck. Drosten wurde bereits
+diskutiert, es bleiben fünf neue Namen:
+
+- [[https://de.wikipedia.org/wiki/Marylyn_Addo][Prof. Dr. Marylyn Addo]] - Infektiologin, arbeitet an einem Covid Impfstoff
+- [[https://de.wikipedia.org/wiki/Stephan_Becker_(Virologe)][Prof. Dr. Stephan Becker]] - Virologe, beteilig an der Entwicklung eines
+  Impfstoffes
+- [[https://de.wikipedia.org/wiki/Melanie_Brinkmann][Prof. Dr. Melanie Brinkmann]] - Virologin
+- [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Epidemiologe, ist für ausbalancieren von Maßnahmen
+  und Schutz von Risikogruppen [[https://www.merkur.de/welt/coronavirus-krause-epidemiologe-helmholtz-zentrum-pandemie-stoppen-nicht-moeglich-zr-90065443.html][Merkur]], kritisiert Druck auf Forscher [[https://www.zdf.de/nachrichten/panorama/coronavirus-krause-interview-100.html][ZDF]],
+  forderte schnelle Öffnung von Schulen [[https://www.zdf.de/nachrichten/panorama/coronavirus-krause-interview-100.html][ZDF]]
+- [[https://de.wikipedia.org/wiki/Jonas_Schmidt-Chanasit][Prof. Dr. Jonas Schmidt-Chanasit]] - äußert sich auf [[https://twitter.com/ChanasitJonas][Twitter]] sehr modarat und
+  fordert eher weniger Maßnahmen
+
+Also auch in der t-online Liste von Experten gibt es nur vier von acht, auf
+die sich die Politik berufen kann. Von diesen sind mindestens zwei eng mit
+Impfstoffentwicklung verbunden und alle vier sind Virologen.
+
+Die Leopoldina hat eine [[https://www.leopoldina.org/publikationen/detailansicht/publication/expertinnen-und-experten-zur-coronavirus-pandemie-2020][Liste von Experten]] veröffentlicht die ernstzunehmender
+aussieht. Allerdings ist nicht ersichtlich, welche Meinung diese Experten
+vertreten. Die Nachdenkseiten über die [[https://www.nachdenkseiten.de/?p=60193][Leopoldina]] und [[https://www.nachdenkseiten.de/?p=60325][Leserbriefe]] dazu.
+
+*** Positionspapiere, Gruppen, Verbände
+
+TODO: [[https://de.wikipedia.org/wiki/Great-Barrington-Erkl%C3%A4rung][Great Barrington Declaration]]
+
+**** 2020-04-14 Aerzte/innen mit blick aufs ganze (AMBAG)
+
+Positionspapier dokumentier im Film "Unerhört!", 25:00. Forderung nach
+Lockerungen des Lockdowns. Unterschrieben von 89 namentlich genannten Ärzten,
+21 anoynmen Unterzeichnenden.
+
+Nur ein Schweizer Medium berichtet: [[https://www.tagesanzeiger.ch/die-gefahr-fuer-die-patienten-wird-immer-groesser-954912313492][Tagesanzeiger]]
+
+**** 2020-05-07 Ein Aufruf für die Kirche und für die Welt
+
+https://veritasliberabitvos.info/aufruf
+
+"Die Fakten haben gezeigt, dass unter dem Vorwand der Covid-19-Epidemie in
+vielen Fällen unveräußerliche Rechte der Bürger verletzt und ihre
+Grundfreiheiten unverhältnismäßig und ungerechtfertigt eingeschränkt werden
+[...]. Die öffentliche Gesundheit darf und kann kein Alibi werden, um die
+Rechte von Millionen von Menschen auf der ganzen Welt zu verletzen
+[...]. Viele maßgebliche Stimmen aus der Welt der Wissenschaft und der Medizin
+bestätigen, dass der Alarmismus der Medien wegen Covid-19 in keiner Weise
+gerechtfertigt zu sein scheint.
+
+[...]
+
+Das Auferlegen dieser unfreiheitlichen Maßnahmen ist ein beunruhigendes
+Vorspiel zur Schaffung einer Weltregierung, die sich jeder Kontrolle
+entzieht."
+
+Der Aufruf ist nicht nur von hohen katholischen Würdenträgern [[https://veritasliberabitvos.info/signatories][unterzeichnet]]
+sondern auch von Journalisten, Medizinern, Rechtsanwälten und
+Wissenschaftlern. Offizielle katholische Institutionen [[https://de.wikipedia.org/wiki/Carlo_Maria_Vigan%C3%B2#Verschw%C3%B6rungsmythen_zur_Corona-Krise][distanzieren]] sich von
+dem Aufruf.
+
+Der Initiator des Aufrufs ist bekannt als Kritiker von Papst Franziskus. Der
+Papst selbst hat am 4.11. dazu aufgerufen, auf die Vorschriften der Behörden
+streng zu achten, "seien es politische oder Gesundheitsbehörden. Wir müssen
+uns vor der Pandemie schützen“. ([[https://volksblatt.at/coronavirus-papst-ruft-zu-einhaltung-der-anti-covid-massnahmen-auf][Artikel Volksblatt]], [[https://www.youtube.com/watch?v=D6PZX3uD8RQ][Video]])
+
+
+**** 2020-09-05 Doktoren für offene Debatte (Belgien)
+
+Titel [[https://docs4opendebate.be/de/offener-brief][Offener Brief von Ärzten und Fachleuten aus dem Gesundheitsbereich an
+alle belgischen Behörden und alle belgischen Medien]].
+
+Unterschrieben von 673 medizinischen Doktoren, 2187 ausgebildeten
+Gesundheitsmitarbeitern und 16781 Bürgern. Die Webseite enthält Links zu
+ähnlichen Initiativen aus anderen Ländern.
+
+**** 2020-09-08 COVID-19: Wo ist die Evidenz?
+
+https://www.ebm-netzwerk.de/de/veroeffentlichungen/covid-19
+
+"Die mediale Berichterstattung sollte unbedingt die von uns geforderten
+Kriterien einer evidenzbasierten Risikokommunikation beherzigen und die
+irreführenden Meldungen von Absolutzahlen ohne Bezugsgröße beenden.
+
+[...]
+
+Es gibt insgesamt noch sehr wenig belastbare Evidenz, weder zu COVID-19 selbst
+noch zur Effektivität der derzeit ergriffenen Maßnahmen, aber es ist nicht
+auszuschließen, dass die trotz weitgehend fehlender Evidenz ergriffenen
+Maßnahmen inzwischen größeren Schaden anrichten könnten als das Virus
+selbst. Jegliche Maßnahmen sollten entsprechend wissenschaftlich begleitet
+werden, um den Nutzen und Schaden bzw. das Verhältnis von Nutzen und Schaden
+zu dokumentieren."
+
+**** 2020-10-28 Positionspapier von Wissenschaft und Ärzteschaft zur Strategieanpassung im Umgang mit der Pandemie
+
+[[https://www.kbv.de/html/48910.php][Kassenärztliche Bundesvereinigung]]
+
+Zusammenfassung der Kernthesen:
+
+- Abkehr von der Eindämmung alleine durch Kontaktpersonennachverfolgung.
+- Einführung eines bundesweit einheitlichen Ampelsystems anhand dessen sowohl
+  auf Bundes- als auch auf Kreisebene die aktuelle Lage auf einen Blick
+  erkennbar wird.
+- Fokussierung der Ressourcen auf den spezifischen Schutz der
+  Bevölkerungsgruppen, die ein hohes Risiko für schwere Krankheitsverläufe
+  haben.
+- Gebotskultur an erste Stelle in die Risikokommunikation setzen.
+
+"Der Rückgang der Fallzahlen ist politisch zwar eine dringende Aufgabe, aber
+nicht um jeden Preis. Wir erleben bereits die Unterlassung anderer dringlicher
+medizinischer Behandlungen, ernstzunehmende Nebenwirkungen bei Kindern und
+Jugendlichen durch soziale Deprivation und Brüche in Bildungs- und
+Berufsausbildungsgängen, den Niedergang ganzer Wirtschaftszweige, vieler
+kultureller Einrichtungen und eine zunehmende soziale Schieflage als Folge."
+
+Beteiligte:
+
+- Kassenärztliche Bundesvereinigung
+- Prof. Hendrik Streeck, Direktor des Instituts für Virologie der Universität
+  Bonn
+- Prof. Jonas Schmidt-Chanasit, Leiter der Abteilung Arbovirologie am
+  Bernhard-Nocht-Institut für Tropenmedizin in Hamburg
+
+Unterstützt von 30 Verbänden und Vereinen.
+
+**** 2020-11-05 Offener Brief der Anwälte für Aufklärung
+
+Über 60 Anwälte verurteilen in einem [[https://www.afa.zone/wp-content/uploads/2020/11/Offener-Brief-AfA.pdf][offenem Brief]] die massiven Verstöße gegen
+Recht und Gesetz durch Corona-Maßnahmen. [[https://www.youtube.com/watch?v=6Y67uTHL6Jk][Ankündigungsvideo]]
+
+Die Sprecherin im Video ist die Rechtsanwältin Beate Bahner, die im April
+bereits gegen die Corona Maßnahmen geklagt hat und deswegen in die Psychatrie
+zwangseingewießen wurde. ([[https://www.lto.de/recht/hintergruende/h/rechtsanwaeltin-bahner-heidelberg-corona-skepsis-grdunrechte-psychiatrie-verschwoerung][Artikel]])
+
+** Prominente Kritiker, aber keine Experten
+
+Die Liste prominenter Kritiker der Coronamaßnahmen ist sehr lang. Dieser
+Abschnitt enthält nur Personen, die mir während der Recherche aufgefallen
+sind.
+
+*** Christoph Wonneberger
+
+[[https://de.wikipedia.org/wiki/Christoph_Wonneberger][Christoph Wonneberger]] war der Pfarrer, der in Leipzig die Friedensgebete
+initiierte aus denen später die Montagsdemonstrationen hervorgingen. Er sprach
+am 7.11.2020 auf der Großdemonstration der Querdenker in Leipzig.
+
+Wonneberger war einer der führenden Oppositionellen in der DDR, wie Unterlagen
+der Stasi bestätigen.
+
+*** Uwe Steimle
+
+[[https://de.wikipedia.org/wiki/Uwe_Steimle][Uwe Steimle]] tratt in seiner Rolle als Erich Honecker am 7.11.2020 auf der
+Querdenker Demonstration in Leipzig auf: [[https://www.youtube.com/watch?v=39o9EfJV-0Q&t=990][YT]]. Eine ähnliche Nummer hat er
+vorher auch schon im Fernsehen gespielt: [[https://www.youtube.com/watch?v=olcuJKYdv-0][YT]].
+
+*** Vera Lengsfeld
+
+[[https://de.wikipedia.org/wiki/Vera_Lengsfeld][Lengsfeld]] ruft zum Widerstand auf: [[https://vera-lengsfeld.de/2020/11/06/stoppt-das-gesetz-zur-aushebelung-unserer-grundrechte][Stoppt das Gesetz zur Aushebelung unserer
+Grundrechte!]] (6.11.2020).
+
+Lengsfeld ist Trägerin des Aachener Friedenspreises und
+Bundesverdienstkreuzes, ehemaliges MdB, war Oppositionelle in der DDR
+([[https://vera-lengsfeld.de/biografie][Biografie]]).
+
+*** Heribert Prantl
+
+2.11.2020, SZ: Corona-Maßnahmen - Die Grenzen des Erträglichen. [[https://www.sueddeutsche.de/politik/corona-massnahmen-die-grenzen-des-ertraeglichen-1.5100174][Videokommentar
+von Heribert Prantl]].
+
+*** David Claudio Siber
+
+Grünenpolitiker aus Flensburg, wurde aus der Ratsfraktion ausgeschlossen
+nachdem er auf der Demonstration in Berlin gesprochen hat. Er hat versucht
+innerhalb der Grünen Partei ein offene Diskussion zu bewirken. Er erfuhr auch,
+dass die Grüne Bundestagsfraktion sich ausschließlich von Drosten über Corona
+informieren ließ und keine zweite Meinung einholte.
+
+https://www.ndr.de/nachrichten/schleswig-holstein/coronavirus/Nach-Corona-Demo-Flensburgs-Gruenen-Politiker-Siber-wehrt-sich,siber100.html
+
+https://david-claudio-siber.de/studien
+
+*** Thomas Berthold, Fußballer, Ex-Nationalspieler
+
+https://www.youtube.com/watch?v=3p41XxbwZP0
+https://www.youtube.com/watch?v=lO3-SKBu6VM
+https://www.swr.de/sport/fussball/thomas-berthold-corona-skeptiker-100.html
+
+Bild-Zeitung kündigt Zusammenarbeit nach Rede auf Demo in
+Berlin. Wikipedia-Artikel wird verändert und bezeichnet Berthold als
+Antisemiten.
+
+Er erlebt aber viele Zustimmung von Menschen die ihn auf der Straße
+ansprechen.
+
+*** Wolfgang Kubicki
+
+2020-10-29 „Der Lockdown light atmet einen undemokratischen Geist“
+
+https://www.tagesspiegel.de/politik/neue-corona-regeln-der-lockdown-light-atmet-einen-undemokratischen-geist/26567648.html
+
+*** Robert F. Kennedy
+
+Neffe von JFK.
+
+24.10.2020 [[https://www.youtube.com/watch?v=NpMWDCX1yMI][Robert F. Kennedy, Jr.: Int'l. Message for Freedom and Hope]] (Youtube)
+
+Calls Corona epidemic a global Coup d'etat by Big Data and other companies led
+by Bill Gates.
+
+** Die Maßnahmen
+
+*** Ignorieren von Gerichtsurteilen
+
+Von Gerichten gekippte Maßnahmen werden in gleicher Form wieder verabschiedet.
+
+- [[https://www.tagesschau.de/inland/beherbergungsverbot-brandenburg-103.html][Beherbergungsverbot]]
+- [[https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/gericht_kippt_sperrstunde_saarland_100.html][Sperrstunden]]
+
+*** Lockdown / Quarantine
+
+Film "Unerhört!", Prof. Michael Levitt, Nobelpreisträger für Chemie, Stanford
+Universität [ab Minute 29, transkribiert]: “Es gibt ein weiteres Risiko:
+Rezessionen töten Menschen. Bei einer Rezession steigt die Sterberate. Eine
+harte Rezession ist sicher gefährlicher als Covid-19. […] Lockdown klingt gut,
+aber die WHO hat ihn nie empfohlen. Es ist eine mittelalterliche Maßnahme,
+recht primitiv. Besser ist, den Menschen zu sagen, haltet Abstand, mindestens
+drei Meter. Und wenn sich die Lage verbessert, zwei Meter, eineinhalb…”
+
+[[https://www.nachdenkseiten.de/?p=67017][Taugen Lockdowns als Mittel, um die Sterblichkeit mit Covid-19 zu verringern?]]
+
+In einer Studie ([[https://www.nejm.org/doi/full/10.1056/NEJMoa2029717][SARS-CoV-2 Transmission among Marine Recruits during
+Quarantine]]) mit über 3.000 Rekruten der US-Marine wurden diese zunächst einer
+zweiwöchigen strikten Quarantäne zu Hause unterzogen. Daran anschließend
+wurden sie 14 Tage unter strengen Hygienevorschriften, Distanzregeln,
+Maskenpflicht und Vorgaben zur Kontaktminimierung einkaserniert und dabei
+penibel überwacht. Das Resultat nach einen Monat: Sowohl unter den anfangs
+negativ getesteten Soldaten als auch denen ohne Vorabtest zeigte sich am Ende
+eine Positivrate von etwa zwei Prozent. Das besagt entweder, dass die
+Vermeidung einer Einschleppung und Übertragung des Erregers praktisch ein Ding
+der Unmöglichkeit ist oder der gängige PCR-Test nicht die behauptete
+Verlässlichkeit bietet.
+
+*** Maskenpflicht
+
+Es gibt große Variationen in der Wirksamkeit zwischen Stoffmasken und
+medizinischen Masken. Trotzdem wird ohne weitere Differenzierung nur eine
+Mund-Nasen-Bedeckung gefordert. Ein Infektionsschutz kann also nicht der
+Hauptzweck der Maskenpflicht sein.
+
+Das Bundesinstitut für Arzneimittel und Medizinprodukte [[https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/schutzmasken.html][schreibt]] über
+nicht-medizinische Stoffmasken: "Träger der beschriebenen
+Mund-Nasen-Bedeckungen können sich nicht darauf verlassen, dass diese sie oder
+andere vor einer Übertragung von SARS-CoV-2 schützen, da für diese Masken
+keine entsprechende Schutzwirkung nachgewiesen wurde." und weiter: "Trotz
+dieser Einschränkungen können geeignete Masken als Kleidungsstücke dazu
+beitragen, die Geschwindigkeit des Atemstroms oder Tröpfchenauswurfs z.B. beim
+Husten zu reduzieren. Auf diese Weise können sie bzw. ihre Träger einen
+Beitrag zur Reduzierung der weiteren Ausbreitung von SARS-CoV-2 leisten."
+
+Die Masken könnten also eventuell andere schützen obwohl dies zwei Absätze
+vorher als nicht nachgewiesen erklärt wurde.. Die gleiche, nicht nachgewiesene
+aber vielleicht theoretisch denkbare Schutzwirkung ist aber wahrscheinlich
+auch erreicht, wenn man einfach in seine Armbeuge hustet. Es ist absolut nicht
+nachvollziehbar, dass die Maske bei ruhig auf ihrem Stuhl sitzenden Schülern
+mit ruhigem Atem irgendeine messbare Wirkung hätte.
+
+- [[https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1174-6591][Mund-Nasen-Schutz in der Öffentlichkeit: Keine Hinweise für eine
+  Wirksamkeit]]. Krankenhaushygiene up2date 2020; 15(03): 279-295
+- Prof. Dr. Christian Drosten am 30.1.2020, [[https://www.youtube.com/watch?v=Z3Zth7KYVHY&t=1556][Youtube, ab 25:56]]:
+  - Interviewer: "Sie können die Maske aufsetzen"
+  - Drosten: "Damit hält man das nicht auf. [...] Können wir noch einmal
+    separat drüber reden, aber die technischen Daten dazu sind nicht gut, für
+    das Aufhalten mit der Maske."
+- Vizepräsident des Robert-Koch-Instituts, Prof. Dr. Lars Schaade, am
+  28.02.2020, [[https://www.youtube.com/watch?v=AsQW0AVbTNo&t=300][Youtube, ab 5:00]]:
+  - 5:00 Masken werden nicht empfohlen, auch Desinfektionsmittel nicht
+  - 14:00 "Meine Einschätzung wäre, dass sich das in etwa bewegt in der Stärke
+    wie eine starke bis sehr starke Grippewelle.
+  - 17:45 "Die Masken… das ist mehrfach untersucht worden. Es gibt einfach
+    keine wissenschaftliche Evidenz, dass das irgendeinen Sinn hätte"
+- Eine interne Hausmitteilung des Deutschen Bundestages warnt vor der
+  signifikanten CO2-Anreicherung im Blut bei längerem Maskentragen. Selbst
+  correctiv muss weit ausholen, um das zu [[https://correctiv.org/faktencheck/2020/09/24/mund-nasen-bedeckung-nein-der-bundestag-hat-mitarbeiter-nicht-vor-gesundheitsgefahren-durch-hohe-co2-werte-im-blut-gewarnt][erklären]].
+- [[https://www.acpjournals.org/doi/10.7326/M20-6817][Effectiveness of Adding a Mask Recommendation to Other Public Health
+  Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers]] - Masken
+  haben keinen Effekt, (Bericht im [[https://www.spectator.co.uk/article/do-masks-stop-the-spread-of-covid-19-][spectator]])
+
+Betriebsleiter und Schulleiter in Deutschland sind persönlich haftbar für
+Schäden durch Maskentragen: Rechtsanwalt Ralf Ludwig über die Haftung der
+Arbeitgeber, die Masken anordnen [[https://www.youtube.com/watch?v=NKrlcel6FSA][YT]] ([[https://www.youtube.com/watch?v=TZFW4ERAARg][ausführliche Version]], [[https://www.youtube.com/watch?v=RF5jaRT-36g][Bittel TV
+Interview]]).
+
+- Stellungnahme des Koordinierungskreises für Biologische Arbeitsstoffe
+  (KOBAS) der DGUV vom 27.5.2020, aktualisierte Fassung 7.10.2020 [[https://www.dguv.de/medien/inhalt/praevention/themen_a_z/biologisch/kobas/tragezeitbegrenzung_kobas_27_05_2020.pdf][Link]]
+- HINWEISE DES BFARM ZUR VERWENDUNG VON MUND–NASEN-BEDECKUNGEN (Z.B. SELBST
+  HERGESTELLTEN MASKEN, „COMMUNITY- ODER DIY-MASKEN“), MEDIZINISCHEN
+  GESICHTSMASKEN SOWIE PARTIKELFILTRIERENDEN HALBMASKEN (FFP1, FFP2 UND FFP3)
+  IM ZUSAMMENHANG MIT DEM CORONAVIRUS (SARS-COV-2 / COVID-19) [[https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/schutzmasken.html][Link]]
+
+Die Schweizerische Unfallversicherungsanstalt empfiehlt eine maximale
+Maskentragedauer von drei Stunden: [[https://www.suva.ch/de-CH/material/Factsheets/atemschutz][Factsheet Atemschutz]]: "Es wird empfohlen,
+keinesfalls mehr als 3 Stunden mit Filtermasken ohne Gebläseunterstützung zu
+arbeiten. Bei Arbeiten mit Atemschutz sind feste Pausen einzuplanen. Die
+Arbeitsunterbrüche sollen mindestens eine halbe Stunde betragen."
+
+*** Schulschließungen
+
+*** Reisebeschränkungen
+
+*** Corona-App
+
+Es war von Anfang an klar, dass gerade ältere Menschen nicht über geeignete
+Mobiltelefone verfügen. Die folgenden Beispiele lassen eher befürchten, dass
+die Pandemie ein willkommener Anlaß war um eine neue Stufe der
+Totalüberwachung zu etablieren.
+
+"Die Corona-Warn-App bleibt weit unter ihren Möglichkeiten, sie muss weiter
+entwickelt werden und müsse bussgeldbewährt zur Pflicht werden." - Thomas
+Röwekamp, Fraktionsvorsitzender CDU, Bremen. [[https://www.weser-kurier.de/bremen/bremen-stadt_artikel,-bremer-cdu-fordert-pflicht-fuer-coronawarnapp-_arid,1941891.html][Weser Kurier]], 31.10.2020
+
+Drosten geht eine Pflicht zur Corona App noch nicht weit genug. Er empfiehlt
+auch eine App für ein Kontakttagebuch.  RT Deutsch, 5.11.2020: [[https://deutsch.rt.com/inland/108777-kommt-corona-pflicht-app-bremer][Kommt die
+Corona-Pflicht-App? Bremer CDU will das allgemeine Persönlichkeitsrecht
+einschränken]]
+
+Euronews, 18.10.2020: [[https://de.euronews.com/2020/10/18/bisher-kaum-hilfreich-corona-app-bald-obligatorisch][Was bringen die Corona-Apps? Portugal will sie
+verpflichtend machen]]
+
+*** Impfung
+
+Es gibt verschiedene Arten von Impfstoffen. Traditinonelle Impfstoffe beruhen
+auf deaktivierten Viren. Neuartige Impfstoffe basieren auf genetischer
+Manipulation von Zellen des geimpften.
+
+Der Schweinegrippe-Impfstoff Pandemrix wird für mehr als 1300 Fälle von
+unheilbarer Narkolepsie verantwortlich gemacht: Ärzteblatt 2.7.2015
+"[[https://www.aerzteblatt.de/nachrichten/63356/Grippeimpfung-Wie-Pandemrix-eine-Narkolepsie-ausloest][Grippeimpfung: Wie Pandemrix eine Narkolepsie auslöst]]. [[https://de.wikipedia.org/wiki/Schweinegrippe-Impfung#Narkolepsie][Wikipedia]]
+
+Siehe auch S.17 in "Wie-soll-es-weitergehen" (Links).
+
+Es gab in der Humanmedizin bisher noch keinen zugelassenen Impfstoff gegen ein
+Virus aus der Corona-Familie. Trotzdem sollen nun Impfstoffe in extrem
+verkürzten Verfahren zugelassen werden.
+
+Zum Thema Impfstoffe äußern sich z.B. [[https://www.clemensarvay.com][Clemens Arvay]], Sucharit Bhakdi, siehe
+für beide auch die Literaturhinweise.
+
+Russland hat inzwischen einen Impfstoff entwickelt, von dem keine
+schwerwiegenden Nebenwirkungen bekannt sind. Ungarn bereitet den Kauf dieses
+Impfstoffes vor, was die EU aber versucht zu verhindern. Wenn es wirklich um
+den Schutz der Bevölkerung ginge, sollte es doch egal sein, woher der
+Impfstoff kommt? Zumindest könnte man den Russischen Impfstoff testen.
+
+Radio München, 24.7.2020: [[https://www.youtube.com/watch?v=kWpzfqW34lA][Prof. Stephan Hockertz warnt vor millionenfach
+vorsätzlicher Körperverletzung]].
+
+Die Verabreichung der Impfung nicht durch den Hausarzt sondern durch
+spezialisierte Impfzentren birgt die Gefahr, dass nicht ausreichend über
+mögliche Nebenwirkungen aufgeklärt wird.
+
+12.11.2020, KenFM: [[https://kenfm.de/genmanipulationen-2020-nahrung-nicht-gut-impfstoff-egal-von-bernhard-loyen][Genmanipulationen 2020: Nahrung – nicht gut / Impfstoff –
+egal?]]
+
+*** Maßnahmen die nicht diskutiert wurden
+
+- Maßnahmen zur Stärkung des Immunsystems, z.B. Arbeitszeitreduktion
+- Erhöhung des Pflegepersonals
+- Spaziergänge an der frischen Luft
+- Besondere Ladenöffnungszeiten für Risikogruppen
+
+** Die Nebenwirkungen
+
+Der Oberregierungsrat Stephan Kohn aus der Abteilung Krisenmanagement und
+Bevölkerungsschutz des Innenministeriums ist bereits im Mai seiner Pflicht
+nachgekommen und hat in dem Gutachten "[[https://www.freidenker.org/fw17/wp-content/uploads/2020/05/200508-BMI_KM4.pdf][Coronakrise 2020 aus Sicht des Schutzes
+Kritischer Infrastrukturen]]" ausführlich die schädlichen Folgen der
+Coronamaßnahmen beschrieben. Er ist für seine Pflicherfüllung diszipliniert
+worden. Eine Diskussion fand nicht statt, obwohl Kohn für sein Papier
+hochrangige Experten konsultiert hat.
+
+Die Webseite https://kollateral.news sammelt Beispiele von Leid, das durch die
+Maßnahmen ausgelöst wird.
+
+Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=67088][Risiken und Nebenwirkungen, aber keine Packungsbeilage. Die
+Corona-Eindämmung droht mehr Leid zu verursachen, als sie verhindert.]]
+
+*** Tote in Entwicklungsländern
+
+23.9.2020, Reuters: [[https://de.reuters.com/article/afrika-virus-m-ller-idDEKCN26E0MN][Entwicklungsminister - An Lockdown-Folgen sterben mehr
+Menschen als am Virus]]: "Allein auf dem afrikanischen Kontinent rechnen wir
+dieses Jahr mit zusätzlich 400.000 Malaria-Toten und HIV-Opfern sowie einer
+halben Million mehr, die an Tuberkulose sterben werden."
+
+*** Notstandsgesetze
+
+Gerade Deutsche sollten ein großes Misstrauen gegenüber Notstandsgesetzen
+haben. Erinnert sei an die [[https://de.wikipedia.org/wiki/Verordnung_des_Reichspr%C3%A4sidenten_zum_Schutz_von_Volk_und_Staat][Verordnung des Reichspräsidenten zum Schutz von
+Volk und Staat]] vom 28. Februar 1933.
+
+- Der Deutsche Bundestag entscheidet am 6.11. über ein Notstandsgesetz das
+  erneut, wie bereits 1933, erlaubt Demonstrationen zu verbieten: [[https://www.faz.net/aktuell/politik/union-und-spd-einig-infektionsschutzgesetz-wird-schnell-neu-gefasst-17034341.html][Artikel FAZ]],
+  [[https://dip21.bundestag.de/dip21/btd/19/239/1923944.pdf][Gesetzentwurf]]. Die kritischte Passage ist: "Untersagung sowie dies zwingend
+  erforderlich ist oder Erteilung von Auflagen für das Abhalten von
+  Versammlungen oder religiösen Zusammenkünften"
+- In der Schweiz gibt es die Initiative [[https://notrecht-referendum.ch][Notrecht Referendum]] zur Beendigung des
+  Notstandes.
+
+*** Impfzwang
+
+1:20:00 https://www.youtube.com/watch?v=HrOYvb7uuRY
+
+In Polen und Australien gäbe es bereits eine Impfpflicht. In Australien mit
+hohen Geldstrafen oder Gefängnis bei Nichtbefolgung.
+
+Ein indirekter Impfzwang ist im Infektionsschutzgesetzt vom 6.11.2020
+vorgesehen. [[https://www.nachdenkseiten.de/?p=66594][Nachdenkseiten]]: Ohne Impfnachweis kann die Einreise nach
+Deutschland untersagt werden.
+
+Die Deutsche Bischofskonferenz übt moralischen Druck aus ([[https://www.dbk.de/de/nc/presse/aktuelles/meldung/entwicklung-und-verteilung-von-impfstoffen-in-der-corona-pandemie/detail][6.11.2020,
+Pressemeldung]]): "Die Bereitschaft zur eigenen Impfung ist konkreter Ausdruck
+dieser Solidarität."
+
+Sebastian Friebel kommentiert:
+
+#+BEGIN_QUOTE
+Die Bundeskanzlerin betont, dass es keine Impfpflicht geben wird. Das ist
+korrekt. Man wird auf "Freiwilligkeit" setzen. Wenn sich dann nicht genug
+Menschen "freiwillig" impfen lassen, wird man die Corona-Maßnahmen fortsetzen
+und die Schuld dafür denjenigen geben, die sich nicht "freiwillig" geimpft
+haben. Auf diese Weise wird ein derartiger gesellschaftlicher Druck aufgebaut,
+dass eine Impfpflicht nicht erforderlich sein wird. Man wird den gleichen
+Effekt ganz einfach durch gesellschaftliche Ächtung erzielen. Das ist
+einkalkuliert und genau deswegen kann sich die Kanzlerin bereits jetzt
+festlegen."
+#+END_QUOTE
+
+** PCR Tests
+
+Am 11.11.2020 entschied das Berufungsgericht Lissabon, dass PCR Tests nicht
+geeignet seien, eine Infektion festzustellen und somit auch nicht geeignet als
+Basis für Verwaltungsentscheidungen: [[http://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/79d6ba338dcbe5e28025861f003e7b30?OpenDocument][Urteil]] ([[https://drive.google.com/file/d/1t1b01H0Jd4hsMU7V1vy70yr8s3jlBedr/view][PDF]]). Anlaß war eine Klage gegen
+eine Zwangsquarantäne alleine auf Basis eines positiven PCR Tests. Die
+Urteilsbegründung verweist auf wissenschaftliche Studien zur Nichteignung des
+Tests, siehe dazu diesen [[https://tkp.at/2020/11/17/portugiesisches-berufungsgericht-haelt-pcr-tests-fuer-unzuverlaessig-und-hebt-quarantaene-auf/][Kommentar]].
+
+Drosten hat seinen PCR Test entwickelt ohne eine Probe des Virus zu haben. Er
+nahm stattdessen aus seiner Datenbank typische Genfragmente eines Coronavirus,
+entwickelte für diesen einen Test und schickte den Test nach Wuhan. Weil der
+Test bei Patienten in Wuhan positiv war, behauptete er, dass der Test geeignet
+sei, das neue SARS CoV-2 Virus nachzuweisen.
+
+Er behauptet, dass dieses Verfahren gerechtfertigt sei, weil seit Jahren keine
+SARS Viren mehr bei Menschen zirkulieren würden.
+
+Das Virus ist bis heute von niemandem isoliert worden.
+
+Das [[https://dejure.org/gesetze/IfSG/2.html][Infektionsschutzgesetz]] definiert eine Infektion wie folgt: "die Aufnahme
+eines Krankheitserregers und seine nachfolgende Entwicklung oder Vermehrung im
+menschlichen Organismus".
+
+Der PCR Test ist allerhöchstens gegeignet, die Aufnahme eines
+Krankheitserregers nachzuweisen. Trotzdem wird irreführenderweise von
+Infizierten gesprochen, wenn es eigentlich PCR-Test-Positive heißen müsste.
+
+- Drosten 2014, [[https://www.wiwo.de/technologie/forschung/virologe-drosten-im-gespraech-2014-die-who-kann-nur-empfehlungen-aussprechen/9903228-2.html][Wirtschaftwoche]], PCR Tests viel zu empfindlich: "Ja, aber die
+  Methode ist so empfindlich, dass sie ein einzelnes Erbmolekül dieses Virus
+  nachweisen kann. Wenn ein solcher Erreger zum Beispiel bei einer
+  Krankenschwester mal eben einen Tag lang über die Nasenschleimhaut huscht,
+  ohne dass sie erkrankt oder sonst irgend etwas davon bemerkt, dann ist sie
+  plötzlich ein Mers-Fall. Wo zuvor Todkranke gemeldet wurden, sind nun
+  plötzlich milde Fälle und Menschen, die eigentlich kerngesund sind, in der
+  Meldestatistik enthalten. Auch so ließe sich die Explosion der Fallzahlen in
+  Saudi-Arabien erklären. Dazu kommt, dass die Medien vor Ort die Sache
+  unglaublich hoch gekocht haben."
+- Es ist nicht klar, mit welchen Verfahren und Parametern getestet wird. Jedes
+  Labor macht sein eigenes Testverfahren.
+  https://correctiv.org/faktencheck/2020/07/02/nein-die-who-empfahl-keine-voellig-unspezifischen-corona-tests
+- PCR Tests sind für Diagnosen nicht zugelassen. Das steht auf allen
+  Beschreibungen von PCR Tests.
+- Es wird mit viel zu hoher Sensibilität getestet, z.B. [[https://www.bioscientia.de/home/aktuelles/2020/07/was-bedeuten-die-begriffe-dual-target-pcr-und-ct-wert][bioscientia]]
+  - "Nach unseren Erfahrungen beurteilen wir daher auch den isolierten
+    Nachweis eines einzelnen Gens je nach Spezifität als positiv für
+    SARS-CoV-2, empfehlen aber bei unklaren Fällen eine Kontrolle."  "Wir
+    empfehlen, weitere Maßnahmen unabhängig vom Ct-Wert einzuleiten."
+- Selbst die Tagesschau bestätigt, dass ein hoher CT Wert problematisch sei:
+  6.9.2020 [[https://www.tagesschau.de/investigativ/ndr-wdr/gesundheitsaemter-corona-tests-101.html][Wie ansteckend sind die Patienten?]]
+- Eine humoristische Erklärung des CT-Werts: [[https://www.youtube.com/watch?v=meArNRzMiPw][Was bedeutet der CT-Wert?]]
+
+Ein großes Problem der PCR Tests ist ihre hohe Sensitivität. Es muss darum
+sehr große Sorgfalt darauf verwendet werden, das Labor, Probenträger, Geräte
+und alle anderen Materialien nicht mit dem Virus zu verunreinigen. Bei der
+hohen Anzahl von Tests ist es umso schwieriger, Fehler zu vermeiden.
+
+Ein bekanntes Beispiel einer Laborverunreinigun ist das "[[https://de.wikipedia.org/wiki/Heilbronner_Phantom][Heilbronner
+Phantom]]". Wattestäbchen in einem Labor waren mit dem Genmaterial einer Frau
+verunreinigt. Die Nachrichten berichteten mehrere Jahre von einer
+geheimnisvollen Serienmörderin, die in ganz Deutschland Morde beginge.
+
+Eine kurze Internetsuche nach "PCR" und "Kontaminierung" oder "contamination"
+führt zu vielen Ergebnissen: [[https://bitesizebio.com/20773/clean-up-your-act-how-to-clean-up-pcr-contamination][1]] [[https://eu.idtdna.com/pages/education/decoded/article/could-your-pcr-be-affected-by-contamination][2]] [[https://www.labclinics.com/en/six-ways-to-minimize-contamination-during-pcr][3]]. Es ist demnach sehr schwer, ein Labor
+nicht zu verunreinigen.
+
+Es gibt inzwischen zahlreiche Beispiele von Spitzensportlern, die zunächst
+positiv und kurz darauf negativ getestet wurden: [[https://www.kicker.de/ad-absurdum-sechs-salzburger-erst-positiv-und-am-ende-doch-negativ-789296/artikel][1]]
+
+** Asymptomatische Übertragung
+
+Die umfangreihen Schutzmaßnahmen werden mit der Annahme begründet, dass selbst
+Menschen ohne Krankheitssymptome die Covid-19 Erkrankung verbreiten
+könnten. Auch das Massenweise Testen von gesunden Menschen kann nur mit der
+Idee der asymptomatischen Übertragung begründet werden.
+
+Prof. Kämmerer erklärt in [[https://www.youtube.com/watch?v=3mZ8TsO8ot0][Corona-Ausschuß Sitzung 26]], dass es in der
+wissenschaftlichen Literatur bisher keinen Beweis für die Möglichkeit einer
+asymptomatischen Übertragung gibt. Die ursprüngliche Behauptung Drosten's
+beruht auf der chinesischen Mitarbeiterin (Patient 0), die das Virus nach
+Deutschland gebracht habe. Es stellte sich jedoch später heraus, dass diese
+Mitarbeiterin Paracetamol genommen habe und Schüttelfrost hatte.
+
+Prof. Stadler widerspricht prinzipiell der Möglichkeit einer symptomlosen
+Übertragung in signifikanter Häufigkeit. Eine Infektiösität setzt voraus, dass
+das Virus bereits in die Zellen eingedrungen ist und sich dort vermehrt. In
+diesem Moment gibt es aber bereits eine starke Antwort des Immunsystems mit
+entsprechenden Symptomen: "[[https://corona-transition.org/die-meisten-menschen-sind-gegen-das-virus-sowieso-immun][Es gibt keine Infektion ohne Entzündung]]".
+
+Auch der frühere Forschungsleiter beim Pharmakonzern Pfizer, Dr. Mike Yeadon,
+erklärt in der Corona Ausschuß Sitzung 27, dass eine signifikante
+asymptomatische Übertragung unlogisch sei. Denn wer asymptomatisch ist, hustet
+nicht, sonst hätte er ja ein Symptom. Darüber hinaus, habe der Mensch in
+seiner Evolution ein feines Gespür dafür entwickelt, erkrankte Menschen zu
+erkennen und zu meiden. Dies bestätigt auch eine Studie des
+Karolinska-Instituts in Stockholm von 2018: [[https://royalsocietypublishing.org/doi/10.1098/rspb.2017.2430][Identification of acutely sick
+people and facial cues of sickness]].
+
+[[https://www.corodok.de/die-legende-uebertragung][Die Legende von der asymptomatischen Übertragung]]
+
+* Ist es eine Pandemie?
+** Letalität von Covid-19
+
+Die WHO erklärt selber Anfang Oktober, dass bisher etwa 10% aller Menschen
+weltweit inifziert wurden. ([[https://off-guardian.org/2020/10/08/who-accidentally-confirms-covid-is-no-more-dangerous-than-flu][Artikel offGuardian]], [[https://www.rubikon.news/artikel/die-unerwunschte-wahrheit][Übersetzung]])
+
+"Our current best estimates tell us that about ten percent of the global
+population may have been infected by this virus. This varies depending on
+country, it varies from urban to rural, it varies between different groups." -
+Dr. Michael Ryan, Executive Director, WHO Health Emergencies Programme
+
+Global Deaths, 29.10.2020 gemäß Dashboard der Johns Hopkins Universität:
+1,176,726
+https://coronavirus.jhu.edu/map.html
+
+Weltbevölkerung: 7,8 Milliarden Menschen
+
+Dreisatz: 1.176.726 / (7,8E9 * 10%) = 0,15%
+
+Letalität der gewöhnlichen Grippe [[https://de.wikipedia.org/wiki/Influenza#Todesf%C3%A4lle][nach Wikipedia]] (Influenza): 0,1% - 0,2%
+
+Siehe auch: [[https://www.helios-gesundheit.de/magazin/corona/news/corona-versus-grippe-was-ist-gefaehrlicher][Corona versus Grippe, was ist gefährlicher]]
+
+Ioan Ioannidis [[https://www.who.int/bulletin/online_first/BLT.20.265892.pdf][bestimmt die Sterblichkeitsrate von Covid-19]] mit maximal 0,31%
+mit großen regionalen Unterschieden. Dies liegt im Bereich der gewöhnlichen
+Grippe. Zusammenfassung der Studie bei [[https://www.heise.de/tp/features/Ioannidis-Mehr-als-500-Millionen-sollen-bereits-mit-Covid-19-infiziert-gewesen-sein-4938011.html][Telepolis]]. Ioannidis Studie wurde von
+der WHO selber im Oktober veröffentlicht.
+
+** Positivrate
+
+Das Robert-Koch Institut veröffentlicht jeden Mittwoch die bundesweiten
+Ergebnisse der PCR-Tests. Bericht vom [[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-08-26-de.pdf][2020-08-26]].
+
+Die Positivenquoten seit der Kalenderwoche 22 (25. Mai) sind:
+1,06 0,94 0,86 1,37 0,79 0,61 0,59 0,65 0,79 0,98 1,00 0,97 0,88
+
+Nach meinen Informationen liegt die Rate der falschen Positiven Testergebnisse
+auch im Bereich von einem Prozent. Es ist also sehr abenteuerlich, mit solchen
+Zahlen von einer Pandemie zu sprechen.
+
+** Übersterblichkeit
+
+*** Deutschland
+
+Die Auswertung des Statistischen Bundesamtes zu [[https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/sterbefallzahlen.html][Sterbefällen und
+Lebenserwartung]] für das Jahr 2020 lässt keine besondere Übersterblichkeit für
+2020 erkennen. In der [[https://www.destatis.de/DE/Themen/Querschnitt/Corona/_Grafik/_Interaktiv/woechentliche-sterbefallzahlen-jahre.html?nn=209016][Übersicht der Einzeljahre]] sieht man deutlich, dass die
+Sterblichkeit in Deutschland im Jahr 2018 höher war als im Jahr 2020.
+
+Eine Studie des Klinikums Hochrhein in Waldshut-Tiengen sieht allerdings eine
+signifikante Übersterblichkeit als Folge der Coronamaßnahmen: [[https://www.n-tv.de/wissen/Angst-vor-Corona-koennte-toedlich-sein-article22165148.html][ntv]], [[https://deutsch.rt.com/inland/109105-studie-zur-corona-ubersterblichkeit][RT Deutsch]].
+
+*** Italien
+
+Alte Menschen mit Infektionen wurden in Altenheime zurückgeschickt:
+https://www.bernerzeitung.ch/und-jetzt-kommt-die-justiz-990930157202
+
+Im Januar 2020 gab es in Bergamo eine Impfkampagne gegen Meningitis mit 34000
+Teilnehmern. Diese Impfung ist dafür bekannt, dass sie das Immunsystem
+schwächt.
+https://www.bsnews.it/2020/01/18/meningite-vaccinate-34mila-persone-tra-brescia-e-bergamo
+
+*** Schweden
+
+- https://www.heise.de/tp/features/Macht-es-noch-einmal-Schweden-4944159.html
+- https://sebastianrushworth.com/2020/10/31/a-history-of-the-swedish-covid-response
+- https://www.nachdenkseiten.de/?p=66378
+- https://www.nachdenkseiten.de/?p=65143#h01
+- https://www.nachdenkseiten.de/?tag=schweden
+
+*** Weißrussland
+
+Weißrussland hat keinerlei besondere Maßnahmen getroffen. Wenn es eine
+Übersterblichkeit gäbe, würde die Opposition sie gegen den Präsidenten
+verwenden. Von einem solchen Vorwurf ist allerdings nichts bekannt.
+
+Der Weißrussische Präsident Lukaschenko [[https://corona-transition.org/weissrussland-ohne-lockdown-soll-das-land-keine-nothilfekredite-erhalten][behauptet]], der Internationale
+Währungsfond (IMF) hätte dem Land einen Kredit nur bewilligen wollen, falls es
+dort ebenfalls einen Lockdown gäbe. Dies sehen die Faktenchecker von [[https://correctiv.org/faktencheck/2020/08/27/nein-der-iwf-und-die-who-haben-belarus-keine-92-millionen-dollar-fuer-einen-lockdown-angeboten][Correctiv]]
+und [[https://dpa-factchecking.com/germany/200819-99-222978][DPA]] anders.
+
+Immerhin heißt es auf [[https://www.imf.org/en/About/FAQ/imf-response-to-covid-19][einer Webseite des IMF]]: "There are some requirements for
+support [...], that it is pursuing broadly appropriate policies to address the
+crisis (including safeguards to ensure that IMF funds are used for intended
+purposes)." Das Wort "broadly" und die Klammer sind erst um den [[https://web.archive.org/web/20201102084407/https://www.imf.org/en/About/FAQ/imf-response-to-covid-19][2.11.2020]]
+hinzugefügt worden.
+
+
+*** USA
+
+- [[https://www.youtube.com/watch?v=x6ak7n0zZdA][Krankenschwester aus New York enthüllt: "COVID-Patienten hätten nicht
+  sterben müssen"]]
+
+#+BEGIN_COMMENT
+- US Staaten, in denen Behandlung mit Hydroxychloroquin untersagt wurde:
+  ([[https://www.nashp.org/wp-content/uploads/2020/03/State-covid-drug-chart-3-27-2020.pdf][National Academy for State Health Policy]]): New York, Nevada, Ohio, Idaho,
+  Kentucky, North Carolina, Texas. In Louisiana, Kansas und Missouri wurde
+  emfohlen, das Medikament nicht zu verschreiben.
+- [[https://www.statista.com/statistics/1109011/coronavirus-covid19-death-rates-us-by-state][Death rates from coronavirus (COVID-19) in the United States by state]]
+- Coronavirus Maßnahmen der US Bundesstaaten [[https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html][NY Times]], [[https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic][Wikipedia]]
+
+| Bundesstaat          | Tote p. 100000 | Hydroxychloroquin |
+|----------------------+----------------+-------------------|
+| New Jersey           |         185185 |                   |
+| New York             |         173173 | Verboten          |
+| Massachusetts        |         148148 |                   |
+| Connecticut          |         132132 |                   |
+| Louisiana            |         130130 | Eingeschränkt     |
+| Rhode Island         |         117117 |                   |
+| Mississippi          |         117117 |                   |
+| District of Columbia |           9393 |                   |
+| North Dakota         |           8888 | Verboten          |
+| Arizona              |           8585 |                   |
+| Illinois             |           8484 |                   |
+| Michigan             |           8181 |                   |
+| Florida              |           8080 |                   |
+| South Carolina       |           7979 |                   |
+| Georgia              |           7878 |                   |
+| Delaware             |           7474 |                   |
+| Pennsylvania         |           7171 |                   |
+| Arkansas             |           7070 |                   |
+| Maryland             |           7070 |                   |
+| Indiana              |           7070 |                   |
+| Texas                |           6767 | Verboten          |
+| Alabama              |           6464 |                   |
+| South Dakota         |           6161 |                   |
+| Iowa                 |           6060 |                   |
+| Nevada               |           6060 | Verboten          |
+| New Mexico           |           5555 |                   |
+| Missouri             |           5454 | Eingeschränkt     |
+| Tennessee            |           5454 |                   |
+| Minnesota            |           4949 |                   |
+| Ohio                 |           4747 | Verboten          |
+| California           |           4646 |                   |
+| North Carolina       |           4444 |                   |
+| Virginia             |           4444 |                   |
+| Montana              |           4343 |                   |
+| Colorado             |           4242 |                   |
+| Wisconsin            |           4141 |                   |
+| Idaho                |           4040 | Verboten          |
+| Kansas               |           3939 | Eingeschränkt     |
+| Nebraska             |           3838 |                   |
+| Oklahoma             |           3737 |                   |
+| Kentucky             |           3636 | Verboten          |
+| New Hampshire        |           3636 |                   |
+| Washington           |           3333 |                   |
+| West Virginia        |           3030 |                   |
+| Puerto Rico          |           2828 |                   |
+| Wyoming              |           2222 |                   |
+| Utah                 |           2121 |                   |
+| Oregon               |           1717 |                   |
+| Hawaii               |           1616 |                   |
+| Alaska               |           1313 |                   |
+| Maine                |           1212 |                   |
+| Vermont              |             99 |                   |
+#+END_COMMENT
+
+*** Andere Länder
+
+Die Grafiken der [[https://ourworldindata.org/excess-mortality-covid#excess-mortality-using-raw-death-counts]["Excess Mortality" auf ourworldindata.org]] zeigen, dass nur
+eine Minderheit der Länder eine erhöhte Sterblichkeit in 2020 aufweisen.
+
+10 Länder haben eine deutlich höhere Sterblichkeit für 2020: Belgium, Chile,
+England & Wales, France, Italy, Netherlands, Scotland, Spain, Sweden, United
+States
+
+19 Länder haben keine höhere Sterblichkeit für 2020: Austria, Bulgaria,
+Croatia, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary,
+Iceland, Israel, Latvia, Lithuania, Norway, Poland, Slovakia, Slovenia, South
+Korea,
+
+Für Portugal und die Schweiz ist der Graph nicht eindeutig. Wichtige Länder
+fehlen auf der Seite: China, Russia, Belarus, Brasil, Venezuela, Australia.
+
+Der Rubikon Artikel [[https://www.rubikon.news/artikel/die-medikamenten-tragodie][Die Medikamenten-Tragödie]] (29.9.2020) dokumentiert, dass
+zum einen die Zeitverläufe der Sterblichkeiten mit ihrer kurzen Dauer und
+hohem Ausschlag in den Ländern mit Übersterblichkeit nicht typisch sind für
+eine Viruserkrankung. Vielmehr seien Empfehlungen der WHO gefolgt worden und
+Patienten mit hohen Dosen Nebenwirkungsreicher Medikamente zu Tode terapiert
+worden. Auch die Empfehlung zur Intubation (künstliche Beatmung) trage eine
+Mitschuld.
+
+* Was ist es dann?
+
+** Das World Economic Forum
+
+Das World Economic Forum (WEF) ist eine Art Dachverband der reichsten und
+mächtigsten Menschen der Erde. Wichtige und bekannte Mitglieder sind vor
+allem:
+
+- Bill Gates, lange reichster Mensch, nun die Nr. 2 nach Jeff Bezos. 98
+  Milliarden US-Dollar
+- Warren Buffet, 67,5 Milliarden. Unterstützer der Bill und Melinda Gates
+  Foundation
+- George Soros, nur 8,6 Milliarden aber Gründer der einflußreichen Open
+  Society Foundation
+
+Weitere Gönner des WEF:
+https://www.weforum.org/agenda/2015/10/the-20-most-generous-people-in-the-world
+
+Das WEF versteht sich als Netzwerk zur Verbesserung der Welt. So hat man dort
+auch Greta Thunberg eingeladen. Die Reichen sind sich der vielfältigen
+Probleme der Welt sehr bewusst und wollen diese auch lösen. Allerdings wollen
+sie diejenigen sein, die über die Lösung entscheiden. Dann können sie auch
+sicherstellen, dass ihnen die Lösung nicht wehtut. Besser noch, sie können
+Lösungen umsetzen, von denen sie profitieren.
+
+Das Thema der Weltrettung ist "Stakeholder Value statt Shareholder Value". In
+der alten Vorstellung des Shareholder Values (Interessen der Aktienbesitzer)
+orientiert sich ein Unternehmen ausschließlich am finanziellen Gewinn.
+
+Ein Stakeholder ist dagegen jeder, der ein Interesse an dem Unternehmen und
+dessen Geschäftsfeld hat. Das schließt die Mitarbeiter und Kunden ein. Bei
+internationalen Großkonzernen wie Amazon, Google oder Facebook dagegen sind
+alle Menschen die Stakeholder.
+
+Man könnte sich nun naiv darüber freuen, dass Unternehmen sich nicht mehr nur
+am finanziellen Gewinn orientieren wollen. In der Realität allerdings
+beanspruchen die Unternehmen nun die Entscheidungsbefugnis über alle Bereiche
+der Gesellschaft, weit über ihr eigenes Unternehmen hinaus.
+
+Siehe den Bericht des Deutschlandfunk zur Eröffnung des WEF in Davos am
+20.1.2020: "[[https://www.deutschlandfunkkultur.de/stakeholder-value-und-shareholder-value-sind-kein.1008.de.html?dram:article_id=161716][Von der Verantwortung der Unternehmen Allgemeinwohl
+vs. Aktionärswohl]]"
+
+Das WEF hat eine umfangreiche Webseite unter dem Titel "[[https://www.weforum.org/great-reset][The Great Reset]]" (Der
+große Neustart) veröffentlicht, dass für viele Bereiche aufzeigt, wie die neue
+Welt aussehen soll. Die Ankündigung vom 3.6.2020 trägt den Titel "[[https://www.weforum.org/agenda/2020/06/now-is-the-time-for-a-great-reset][Jetzt ist
+die Zeit für den großen Neustart]]". Es ist erstaunlich, dass das WEF in so
+kurzer Zeit bereits ein Programm entwickelt, abgestimmt und mit einer extra
+programmierten Webseite veröffentlicht hat. Schließlich konnte man frühestens
+mit dem Lockdown Ende März davon ausgehen, dass es zu einer großen Krise käme.
+
+Das WEF formuliert ([[https://www.weforum.org/agenda/2020/08/building-blocks-of-the-great-reset][11.8.2020]]): "The World Economic Forum’s Great Reset
+initiative seeks new ideas in order to use this unique moment in history
+provided by the disruption to economics, politics and our everyday life to
+catalyze a new approach to how our societies are run."
+
+Die Verheißung des Great Reset liest sich wie eine Beschreibung des Paradies:
+[[https://time.com/collection/great-reset/5900739/fix-economy-by-2023][Time, 22.10.2020]]. Allerdings wollen die Großkonzerne die Götter dieses
+Paradieses sein.
+
+Man könnte versucht sein, den Sirenengesängen des WEF zu glauben und sich auf
+die schöne neue Welt zu freuen, die das WEF verheißt. Jedoch fällt es schwer,
+Menschen zu vertrauen, die in ihrem bisherigen Leben über Leichen gingen, die
+ihren Aufbruch in eine bessere Zukunft auf einer Lüge aufbauen und die auch
+beim Umbau der Welt wieder Millionen Tote in Kauf nehmen.
+
+** ID2020 / Digital Identity Alliance
+
+https://id2020.org
+
+Alle Menschen sollen eine weltweit eindeutige, zentral verwaltete digitale
+Identität erhalten, die mit allen ihren wichtigen Daten verknüft wird.
+
+- 2020-10-19: Kommt die überwachte Gesellschaft? [[https://www.deutschlandfunkkultur.de/digitale-identitaet-kommt-die-ueberwachte-gesellschaft.976.de.html?dram:article_id=486012][deutschlandfunkkultur.de]]
+- Mitglieder: Microsoft, Rockefeller Foundation, Gavi (The Vaccine Alliance),
+  Mastercard, Care.org, ...
+- 2020-03-24, Bill Gates: 33:25 “Eventually, what we'll have to have is
+  certificates of who is a recovered person, who is a vaccinated person,
+  because you don't want people moving around the world -- where you'll have
+  some countries that won't have it under control, sadly -- you don't want to
+  completely block off the ability for those people to go there and come back
+  and move around.”  [[https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_coronavirus_pandemic/transcript][TED talk]]
+- SRF: Globale E-ID Initiativen – ihre Möglichkeiten und Grenzen. [[https://www.srf.ch/play/radio/kontext/audio/globale-e-id-initiativen---ihre-moeglichkeiten-und-grenzen?id=83db5967-74ff-4cf7-b22a-d7aa7ee712e5][Podcast]]
+- Norbert Häring: [[https://norberthaering.de/die-regenten-der-welt/srf-id2020][Hörempfehlung: Bericht des Schweizer Rundfunks über ID2020,
+  Known Traveller und Co.]]
+
+** Better Than Cash initiative
+
+https://betterthancash.org
+
+Mitglieder: Bill & Melinda Gates Foundation, Care.org, Clinton Development
+Initiative, Mastercard, … (75 total)
+
+Die Initiative bemüht sich um die Verdrängung des Bargelds durch digitale
+Zahlungsmittel. Dies erlaubt eine weitere Überwachung und wiederum neue
+Geschäftsfelder auf Basis der gewonnenen Daten.
+
+** The Commons Project
+
+Die Webseite [[https://thecommonsproject.org][thecommonsproject.org]] enthält keine Informationen über die
+Finanzierung außer einem Hinweis auf der Startseite: "The Commons Project was
+established with support from the Rockefeller Foundation." Trotzdem arbeitet
+diese Organisation an vier Projekten mit globaler Reichweite und sicherlich
+hohen Entwicklungskosten.
+
+*** CommonPass
+
+Das [[https://thecommonsproject.org/commonpass][CommonPass Project]] befindet sich seit Oktober in der Testphase, wie
+aero.de am 12.10.2020 berichtet: [[https://www.aero.de/news-37215/CommonPass-soll-internationales-Reisen-wieder-ermoeglichen.html]["CommonPass" soll internationales Reisen
+wieder ermöglichen]]. Mithilfe des CommonPass können Länder effizient
+Einreisebeschränkungen umsetzen. Nur wer mithilfe eines auf seinem Smartphone
+hochgeladenen negativen Testresultat oder eines Impfnachweises seine
+Ungefährlichkeit nachweisen kann, darf einreisen.
+
+Das WEF [[https://www.weforum.org/projects/commonpass][bewirbt den CommonPass]] auf seiner Covid-Action Plattform.
+
+*** CommonHealth
+
+Mithilfe der [[https://thecommonsproject.org/commonhealth][CommonHealth]] App kann jeder Mensch alle seine
+Gesundheitsinformationen bequem in die Cloud laden und jederzeit mit jedem
+Teilen, der danach fragt.
+
+Die einfache Verfügbarkeit von Gesundheitsinformationen weckt natürlich auch
+Begehrlichkeiten von Arbeitgebern oder Krankenversicherungen. Versicherungen
+werden zunächst auf freiwilliger Basis günstigere Tarife anbieten, wenn der
+Kunde alle seine Krankenakten teilt. Heute schon bietet mir meine
+Krankenversicherung einen Teledoktor an. Würde ich mich verpflichten, mich
+immer zuerst bei der Hotline der Krankenkasse beraten zu lassen, so könnte ich
+von einem günstigeren Tarif profitieren.
+
+Auch Pharmakonzerne haben natürlich ein großes Interesse an den digitalen
+Gesundheitsdaten. Schon heute bekommen Konzerne in Deutschland Zugriff auf die
+pseudonymisierten Daten der verpflichtenden Gesundheitskarte: Nachdenkseiten,
+20.8.2020, [[https://www.nachdenkseiten.de/?p=63919][Der Türöffner: Wie Jens Spahn den gläsernen Patienten
+herbeiregiert]].
+
+*** COVIDcheck
+
+TODO: https://thecommonsproject.org/covidcheck
+
+*** CommonGEO
+
+TODO: https://thecommonsproject.org/commongeo
+
+** Wie kann es sein, dass alle mitmachen?
+
+*** Internationaler Währungsfond
+
+[[https://www.rubikon.news/artikel/der-gekaufte-planet][Der gekaufte Planet]] - Erpressung durch den IWF.
+
+Der "[[https://www.imf.org/en/Topics/imf-and-covid19/COVID-Lending-Tracker][Covid Lending Tracker]]" des Internationalen Währungsfonds verlinkt auf ein
+PDF mit [[https://www.imf.org/en/Topics/imf-and-covid19/-/media/Files/Topics/COVID/Governance-Commitments-in-COVID-19-Rapid-Instruments-as-of-11-10-2020.ashx][Verpflichtungserklärungen]] einzelner Staaten, die Voraussetzung für die
+Gewährung von Krediten waren.
+
+Der Kongo [[https://www.imf.org/~/media/Files/Publications/CR/2020/English/1CODEA2020001.ashx][verpflichtet sich]] (S. 9, Punkt 17), zur Bekämpfung des
+Virusverbreitung Banknoten zu desinfizieren und digitale Zahlungsmittel zu
+fördern.
+
+Im Ägyptischen [[https://www.imf.org/~/media/Files/Publications/CR/2020/English/1EGYEA2020002.ashx][Letter of Intend]] rühmt sich die Executive im ersten Absatz
+ihrer Maßnahmen: "The COVID-19 outbreak has affected the Egyptian economy in
+multiple ways and has necessitated a quick and decisive response. The
+Government of Egypt has made significant progress in expanding laboratory
+testing, conducting sanitation operations, setting up hospitals for treatment
+as well as for quarantine, building personal protective equipment reserves,
+and developing a disease surveillance system, including the use of mobile
+applications for contact tracing. In addition, several precautionary measures
+have been put in place to contain the spread via social distancing, including
+imposing a nighttime curfew, allowing and encouraging working from home,
+requesting physical presence of essential workers only at all government
+entities, canceling all public gatherings, closure of all schools and
+universities as well as historical sites and places of worship, and halting
+international flights. The combination of these domestic measures, the global
+slowdown, and financial market turmoil have significantly affected economic
+growth; the effect is further compounded by capital outflows, the complete
+halt in tourism, reduced remittances, and slower industrial and construction
+activity."
+
+*** Übungen
+
+Mithilfe von Event 201 und vorheriger Übungen wurde die internationale
+Zusammenarbeit aller Akteure, vor allem der Medien und Internetkonzerne geübt,
+siehe Paul Schreyer (Literatur).
+
+** Aber warum liest und hört man nichts?
+
+- Millionenhilfe für Verlage -
+  Deutschland steigt in die direkte Presseförderung ein
+  https://www.deutschlandfunk.de/millionenhilfe-fuer-verlage-deutschland-steigt-in-die.2907.de.html?dram:article_id=486614
+- Spenden der Bill und Melinda Gates Foundation an Verlage
+  - Spiegel Online, 2018, $2,537,294
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2018/12/OPP1203082
+  - Guardian News & Media Ltd, 2011-2020, ca $14.5 Millionen
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database#q/k=guardian
+  - Financial Times Ltd, $503,341 + $1,344,444 + $462,060
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/11/OPP1134848
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/11/OPP1161256
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2020/10/INV-019471
+  - Solutions Journalism Network Inc
+    https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2018/09/OPP1195811
+- "Google hat den europäischen Journalismus seit 2013 mit mehr als 200
+  Millionen Euro gefördert."
+  https://www.diepresse.com/5888372/200-millionen-euro-von-google-fur-journalismus-in-europa
+  "Inzwischen ist die News Initiative sogar ein weltweites Unterfangen,
+  ausgestattet mit weiteren 300 Millionen Dollar."
+  https://netzpolitik.org/2020/wie-der-datenkonzern-den-journalismus-umgarnt/
+
+Medien versagen regelmäßig bei entscheidenden Themen:
+
+- Brutkastenlüge Irakkrieg 1
+- Chemiewaffenlüge Irakkrieg 2
+- Hufeisenplanlüge Kosovokrieg
+- NATO Sichtweise zu Putschen oder Putschversuchen in Bolivien, Venezuela,
+  Syrien, Ukraine, Weißrussland, Hongkong, ...
+- Lügen zur angeblichen Notwendigkeit der privaten Altersvorsorge
+
+** Aber es können doch nicht alle Wissenschaftler falsch liegen?
+
+- Drittmittelabhängigkeit
+- Ohne die BMGF geht im medizinischen Bereich weltweit nichts.
+- Außerdem gibt es viele Wissenschaftler, die widersprechen, vor allem solche,
+  die ihre Karriere hinter sich haben.
+
+* Was tun?
+** Kleine Aktionen
+
+Das wichtigste ist es, mit möglichst vielen Menschen ins Gespräch zu
+kommen. Dabei soll auch diese Zusammenstellung helfen.
+
+Man kann auch dort, wo es unvermeidbar ist, mit einer speziellen Maske seinen
+Protest ausdrücken, z.B. mit einer [[https://www.meinungsmaske.com][Meinungsmaske]]. Auch Masken die
+offensichtlich zu große Maschen haben zeigen Protest. Besonders schön ist auch
+eine rote Clownnase, die auf der Maske mit einer Sicherheitsnadel angebracht
+wird. Es wird berichtet, dass eine Clownnase ein guter Eisbrecher sei, um ins
+Gespräch zu kommen.
+
+** Partei: Die Basis
+
+https://diebasis-partei.de
+
+** Unsere kulturelle Basis wiederbeleben
+
+Es ist zu hoffen, dass es dem Weltwirtschaftsforum nicht gelingt, seine Pläne
+umzusetzen. Doch was dann? Sollten die Machtstrukturen bestehen bleiben, so
+ist es nur eine Frage der Zeit, bis ein neuer Versuch gelingt.
+
+Die Bürger der ehemaligen DDR haben erlebt, wie eine euphorische Wendezeit
+schnell in eine Entäuschung umschlug.
+
+Der Aufbau von Neuem benötigt ein stabiles Fundament aus Wissen, Haltung und
+Gemeinschaft. Wer möchte an diesem Fundament mitarbeiten?
+
+- Was ist der Mensch?
+- Was ist die Würde des Menschen?
+- Was ist christliche Lebenshaltung? (Erst wenn wir über unseren eigenen
+  kulturellen Hintergrund und unsere Prägung wissen, können wir tatsächlich
+  fremde Kulturen würdigen.)
+
+Hauke Ritz, 31.10.2020 [[https://multipolar-magazin.de/artikel/chance-fur-humanismus][Die Krise des Westens: Chance für einen neuen Humanismus?]]
+
+#+BEGIN_EXPORT latex
+\newlength{\saveleftmargini}
+\setlength{\saveleftmargini}{\leftmargini}
+\setlength{\leftmargini}{10em}
+#+END_EXPORT
+#+BEGIN_VERSE
+Wer nicht von dreitausend Jahren
+sich weiß Rechenschaft zu geben,
+bleib im Dunkeln unerfahren,
+mag von Tag zu Tage leben.
+#+END_VERSE
+#+LATEX: \setlength{\leftmargini}{\saveleftmargini}
+
+* Weitere Links
+
+- https://corona-ausschuss.de - Vier Anwälte haben in dutzdenden,
+  mehrstündigen Live-Sitzungen mit Experten untersuchen, warum die Regierungen
+  beispiellose Beschränkungen verhängt haben und welche Folgen diese für die
+  Menschen hatten und haben.
+- Unerhört! Film: https://vimeo.com/471959768
+  - Das volle Interview mit dem spanischen Krankenhausarzt
+    https://www.youtube.com/watch?v=wl9h-7MaLws
+- https://www.ckb-anwaelte.de/blog
+- https://www.initiative-corona.info
+- Film: Profiteure der Angst. Arte Doku
+  https://www.youtube.com/watch?v=ZkyL4NxJJcc
+  https://www.youtube.com/watch?v=1wP4-Z_lvyE
+  Kurzfassung: https://www.youtube.com/watch?v=vCz34z3ymyY
+- https://www.corona-experten.de - TODO noch zu prüfen!
+- https://covileaks.co.uk
+- https://coronainfo-tour.de
+- https://corona-quiz.info
+- Arte Doku: [[https://www.arte.tv/de/videos/098118-000-A/corona-sicherheit-kontra-freiheit][Corona: Sicherheit kontra Freiheit]] - Die Doku gibt zu, dass die
+  Maßnahmen überzogen waren und die Schweden es besser gemacht haben. Auch
+  wird die Gefährlichkeit des Virus in Relation gesetzt. Aber diese
+  Dokumentation kommt Monate zu spät und gibt nur das zu, was nicht mehr
+  geleugnet werden kann. Die inzwischen offensichtlichen kriminellen
+  Hintergründe werden nicht einmal angedeutet.
+- https://www.corodok.de
+
+** Gruppen
+
+- https://elternstehenauf.de
+- https://www.ohiostandsup.org
+- https://www.kritische-polizisten.de - Bundesarbeitsgemeinschaft kritischer
+  PolizistInnen
+- https://t.me/StudentenStehenAuf
+- https://www.friedenskraft.ch
+
+** Nachrichten
+
+- https://2020news.de
+- https://demokratischerwiderstand.de
+- https://lockdownsceptics.org (Englisch)
+
+** Medizin
+
+- https://swprs.org/fakten-zu-covid-19
+- http://www.aerzteklaerenauf.de
+- https://www.ärzte-für-aufklärung.de
+- https://worlddoctorsalliance.com
+- https://acu2020.org
+- [[https://www.mwgfd.de][Mediziner und Wissenschaftler für Gesundheit, Freiheit und Demokratie, e.V.]]
+
+** Petitionen, Initiativen
+
+- Schweiz: [[https://fruehling2020.com][Frühling2020]] - Unabhängige Untersuchung der Corona-Krise
+- Schweiz: [[https://notrecht-referendum.ch][Notrecht Referendum]] - gegen Verlängerung des Notrechts, von
+  [[https://verfassungsfreunde.ch][verfassungsfreunde.ch]]
+
+** Recht
+
+- https://schlussjetzt.org - Netzwerk kritischer Juristen
+- https://dasvolkgegencorona.com
+- https://www.corona-schadensersatzklage.de - Sammelklage für Geschädigte
+- https://klagepaten.eu - Hilfe bei rechtlichen Auseinandersetzungen
+- [[https://www.afa.zone][Anwälte für Aufklärung]]
+
+** Zahlen / Statistiken
+
+- https://www.intensivregister.de - Intensivbetten Deutschland
+- [[https://www.vtg.admin.ch/de/aktuell/coronavirus/spitalkapazitaeten.html][Schweiz: Spitalkapazitäten]], [[https://www.swiss-icu.ch/de/anerkannte-intensivstationen.html][zertifizierte Intensivstationen]]
+- https://www.worldometers.info/de
+- https://www.euromomo.eu - Übersicht europäische Sterblichkeitszahlen
+- https://influenza.rki.de/Wochenberichte.aspx Wochenberichte des
+  Robert-Koch-Instituts
+
+** Alternative Medien
+
+- https://www.nachdenkseiten.de
+- https://www.rubikon.news
+- https://www.fairtalk.tv
+- https://www.reitschuster.de
+- https://www.kla.tv
+- https://bittel.tv - Schweiz mit Blick nach Deutschland
+- http://www.stricker.tv - Schweiz mit Blick nach Deutschland
+
+** Politik
+
+- https://wie-soll-es-weitergehen.de - Sebastian Friebel,
+  ehem. parlamentarischer Berater des Deutschen Bundestages. Die meisten
+  Aussagen seines Dokumentes finden sich auch in dieser
+  Zusammenstellung. Leider sind die Quellennachweise seines Dokumentes keine
+  vollständigen URLs. Der Journalist [[https://miloszmatuschek.substack.com/p/friebelwef][Milosz Matuschek unterstützt den Aufruf]]
+  und bestätigt Friebel's Identität.
+
+* Weitere Themen
+** Epidemien als Folge des Neoliberalismus
+
+Der Freitag, 2.11.2020: [[https://www.freitag.de/autoren/der-freitag/wir-koennen-einpacken?][„Wir können einpacken!“]] - "Die Corona-Pandemie hängt
+eng mit dem Kapitalismus, der Agrar-Industrie und dem Raubbau an der Natur
+zusammen, sagt der Epidemiologe und Biologe Rob Wallace"
+
+** Verdächtige plötzliche Todesfälle
+
+Das folgende ist eine Verschörungstheorie. Trotzdem ist es wert, die Fälle zu
+sammeln und nachzuverfolgen. Leider sind die Todesfälle nicht in Russland
+erfolgt, sonst wüsste die Presse schon, wer dafür verantwortlich sei.
+
+*** Thomas Oppermann, SPD, Vizepräsident des Deutschen Bundestages
+
+[[https://de.wikipedia.org/wiki/Thomas_Oppermann_(Politiker)][Oppermann]] bricht am 25.10.2020 mit 66 Jahren kurz vor einem geplanten Auftritt
+in der Fernsehsendung "Berlin direkt". ([[https://www.n-tv.de/politik/SPD-Politiker-Thomas-Oppermann-ist-tot-article22123973.html][Artikel ntv]]) Er stirbt wenig später im
+Krankenhaus. Wenige Tage vorher forderte Oppermann noch eine Generaldebatte
+des Bundestages zu den Coronamaßnahmen. ([[https://www.spiegel.de/politik/deutschland/sperrstunde-in-berlin-thomas-oppermann-kritisiert-corona-politik-von-bund-und-laendern-a-1db27890-aa14-4a5a-9264-1106c3bce0e0][Artikel Spiegel]])
+
+*** Mario Ohoven, Präsident des Bundesverbandes Mittelständische Wirtschaft
+
+[[https://de.wikipedia.org/wiki/Mario_Ohoven][Ohoven]] kam am Mittag des 31. Oktober 2020 bei einem Alleinunfall mit seinem
+Bentley auf der A44 zwischen dem Tunnel Reichswaldallee und dem Autobahnkreuz
+Düsseldorf-Nord ums Leben. Am 29. Oktober 2020 kritisierte Ohoven die deutsche
+Regierungserklärung vom Vortag betreffend die Verkündung des zweiten
+Lockdowns. Er stellte die Frage nach Verhältnismäßigkeit und
+Verfassungsmäßigkeit der Maßnahmen. Ohoven kündigte an, im Interesse des
+Mittelstandes eine Überprüfung anzustoßen und gegebenenfalls auch das
+Bundesverfassungsgericht anzurufen.
+
+* Literatur
+
+- Paul Schreyer: [[https://www.westendverlag.de/buch/chronik-einer-angekuendigten-krise][Chronik einer angekündigten Krise]] (Spiegel Bestseller)
+  - Rezension: [[https://www.freitag.de/autoren/michael-jaeger/drehbuecher-zum-corona-diskurs][Drehbücher zum Corona-Diskurs]], Michael Jäger, freitag.de,
+    12.11.2020
+- [[https://mediashop.at/buecher/lockdown-2020][Lockdown 2020]], Besprechung [[https://www.nachdenkseiten.de/?p=65867][Nachdenkseiten]], [[https://www.nachdenkseiten.de/?p=65968][Interview]]
+- Karina Reiß und Sucharit Bhakdi: Corona Fehlalarm? Daten, Fakten,
+  Hintergründe. Goldegg Verlag, Berlin/Wien 2020, ISBN 978-3-99060-191-4 (159
+  S.). [[https://de.wikipedia.org/wiki/Corona_Fehlalarm%3F][Wikipedia]] (Spiegel Bestseller)
+- Clemens G. Arvay: Wir können es besser (Spiegel Bestseller)
+- Wolfgang Kubicki: Meinungsunfreiheit (Spiegel Bestseller)
+
+* Lustiges, Schönes, Ermutigendes
+
+Kabarett:
+
+- Die Echse über Sicherheitsmaßnahmen im Tierreich [[https://www.youtube.com/watch?v=zg3rV_vZmsU][YT]]
+- Die Echse spielt die Coronakrise mit Enten nach [[https://www.youtube.com/watch?v=M8cBaXL3QOI&t=1s][YT]]
+- Corona Song von Dieter Hallervorden [[https://www.youtube.com/watch?v=k4OFXkcn24Q][YT]]
+- Drosten-Impfung mit Nebenwirkung: Simone Solga träumt von Steinmeier! [[https://www.youtube.com/watch?v=gLtXT7jAhk4][YT]]
+- Corona und das Grundgesetz - Satire | Die Mathias Richling Show [[https://www.youtube.com/watch?v=KiDRu5hwvI0][YT]]
+- Siehe den Abschnitt über Uwe Steimle
+- Die Möhre über den "Lockdown light" [[https://www.youtube.com/watch?v=D75goRwZ7x4][YT]]
+- Monika Gruber am 5. November 2020 | Nuhr im Ersten [[https://www.youtube.com/watch?v=BNCJsfbr_lc][YT]]
+
+Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
+ist. Ich glaube, "Vodka" hieß der?
+
+Die [[https://biontech.de/connect][Adresse der Firma Biontech]], die auch an einem Impfstoff arbeitet, ist
+tatsächlich "An der Goldgrube 12" in Mainz.
+
+- Das MUTMACH-Video 1: Berlin, 29.08.2020 QUERDENKEN - Die etwas andere Perspektive [[https://www.youtube.com/watch?v=uiTMzA6fnt4][YT]]
+- Das MUTMACH-Video 2: Leipzig, 07.11.2020 - Die etwas andere Perspektive [[https://www.youtube.com/watch?v=sdNqAmCAHYg][YT]]
+
+#+BEGIN_COMMENT
+https://twitter.com/clarecraigpath
+
+https://www.bmj.com/content/371/bmj.m4425 Covid-19: politicisation, “corruption,” and suppression of science
+
+https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938
+
+https://coronadifferenziert.ch
+
+https://www.youtube.com/watch?v=ClhUe53W7xw Polymerase chain reaction Animation
+
+https://www.malteser.de/newsdetails/news/afrika-ueber-30-millionen-menschen-von-hunger-bedroht.html
+
+https://www.heise.de/tp/features/Maskenpflicht-in-der-Grundschule-4959380.html
+
+https://m.focus.de/gesundheit/news/forscher-finden-keine-erklaerung-restaurant-sind-voll-corona-zahlen-sinken-rapide-experten-staunen-ueber-wunder-von-madrid_id_12658968.html
+
+https://www.faz.net/aktuell/politik/ausland/italien-coronavirus-in-lungenproben-vom-september-2019-17053663.html
+
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30208-X/fulltext#fig0002 via
+https://sebastianrushworth.com/2020/11/09/does-lockdown-prevent-covid-deaths/ via https://www.nachdenkseiten.de/?p=66941
+
+https://www.youtube.com/watch?v=BwSrEXYQfJE Die Überlastung des Gesundheitssystems
+
+https://www.rubikon.news/artikel/der-konstruierte-notstand
+
+[[https://docs.google.com/presentation/d/1M-tZ2rxnxv8vCMmX5NwuxeYnNBdfg3lOdZ3Z-rTWluQ/edit][CIDM - Corona und Zurück in die Zukunft]]
+
+#+END_COMMENT
+
+
+
+# Local Variables:
+# org-latex-hyperref-template: "\\hypersetup{ pdftitle={Corona Reader}, colorlinks=true, urlcolor=[rgb]{0.1,0.1,1}, linkcolor=[rgb]{0,0,0} }\n"
+# End:
