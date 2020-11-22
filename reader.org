@@ -414,7 +414,7 @@ Maßnahmen geäußert haben.
    Eppendorf
 9. [[https://medmaldoctors.ca/dr-roger-hodkinson][Dr. Roger Hodkinson]] - Pathologe, Virologe, CEO eines Herstellers von
    Covid-19 Tests, bezeichnet die Coronavirus Panik als "[[https://lockdownsceptics.org/2020/11/19/latest-news-198/#youre-being-led-down-the-garden-path-by-the-chief-medical-officer-of-hell][the greatest hoax
-   ever perpetrated on an unsuspecting public]]"
+   ever perpetrated on an unsuspecting public]]" ([[https://dryburgh.com/narrative-control/2020/11/coronavirus-hoax-roger-hodkinson][transcript]])
 10. [[https://de.wikipedia.org/wiki/John_Ioannidis][Prof. Dr. John Ioannidis]] - Prof. für Medizin und Professor für
     Epidemiologie und Bevölkerungsgesundheit an der Stanford University School
     of Medicine, sowie prof. by courtesy für biomedizinische Datenwissenschaft
@@ -479,7 +479,8 @@ Maßnahmen geäußert haben.
 Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
 Webseite [[https://off-guardian.org/category/covexperts][off Guardian]]. Dort findet man auch Hinweise auf die verschiedenen
 Formen des Drucks, der auf Experten ausgeübt wurde anstatt mit ihnen zu
-debatieren.
+debatieren. Bei nichtohneuns.de gibt es kritische [[https://www.nichtohneuns.de/virus][Statements von über 250
+Experten]].
 
 Es liegt natürlich die Vermutung nahe, dass auch für die gegenteilige Meinung
 eine Reihe von Experten aufgelistet werden kann. Tatsächlich listed z.B. die
@@ -756,6 +757,9 @@ eine Positivrate von etwa zwei Prozent. Das besagt entweder, dass die
 Vermeidung einer Einschleppung und Übertragung des Erregers praktisch ein Ding
 der Unmöglichkeit ist oder der gängige PCR-Test nicht die behauptete
 Verlässlichkeit bietet.
+
+Auf der Bundespressekonferenz im November kann die Bundesregierung auf keine
+Evidenz zur Wirksamkeit von Lockdowns verveisen: [[https://www.youtube.com/watch?v=vXLmOC4x_f0][RT Deutsch]].
 
 *** Maskenpflicht
 
@@ -1532,7 +1536,7 @@ mag von Tag zu Tage leben.
   Hintergründe werden nicht einmal angedeutet.
 - https://www.corodok.de
 
-** Gruppen
+** Organisierter Widerstand, Gruppen
 
 - https://elternstehenauf.de
 - https://www.ohiostandsup.org
@@ -1540,12 +1544,14 @@ mag von Tag zu Tage leben.
   PolizistInnen
 - https://t.me/StudentenStehenAuf
 - https://www.friedenskraft.ch
+- https://www.nichtohneuns.de
 
 ** Nachrichten
 
 - https://2020news.de
 - https://demokratischerwiderstand.de
 - https://lockdownsceptics.org (Englisch)
+- [[https://www.infosperber.ch/Dossier/Coronavirus-Hysterie-oder-Gefahr][Infosperber Coronavirus Dossier]]
 
 ** Medizin
 
@@ -1653,6 +1659,7 @@ Kabarett:
 - Siehe den Abschnitt über Uwe Steimle
 - Die Möhre über den "Lockdown light" [[https://www.youtube.com/watch?v=D75goRwZ7x4][YT]]
 - Monika Gruber am 5. November 2020 | Nuhr im Ersten [[https://www.youtube.com/watch?v=BNCJsfbr_lc][YT]]
+- Debatte über das neue Infektionsschutzgesetz [[https://www.youtube.com/watch?v=uUf2TYBpb5M][YT]]
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
@@ -1690,6 +1697,29 @@ https://www.youtube.com/watch?v=BwSrEXYQfJE Die Überlastung des Gesundheitssyst
 https://www.rubikon.news/artikel/der-konstruierte-notstand
 
 [[https://docs.google.com/presentation/d/1M-tZ2rxnxv8vCMmX5NwuxeYnNBdfg3lOdZ3Z-rTWluQ/edit][CIDM - Corona und Zurück in die Zukunft]]
+
+*** Schweiz
+
+- 4.11.2020 [[https://www.nzz.ch/schweiz/corona-laut-bag-sind-die-intensivstationen-in-fuenf-tagen-besetzt-ld.1585045?reduced=true][Laut BAG sind die Intensivstationen in fünf Tagen besetzt – doch
+  ETH-Prognosen schätzen die Lage weniger drastisch ein]]
+- 10.11.2020 [[https://foreignpolicy.com/2020/11/10/coronavirus-switzerland-is-choosing-austerity-over-life/][Switzerland Is Choosing Austerity Over Life]]
+- 18.11.2020 [[https://www.nzz.ch/international/wir-wuerden-niemals-das-tun-was-die-schweizer-tun-wie-das-ausland-den-hiesigen-umgang-mit-der-pandemie-und-die-triage-diskussion-wahrnimmt-ld.1587646?reduced=true][NZZ über internationale Kritik an Schweizer Corona Politik]]
+- 19.11.2020 [[https://www.nzz.ch/schweiz/intensivbetten-staendige-warnungen-sind-kontraproduktiv-ld.1587836?reduced=true][Fürchtet euch! Warum die ständigen Unkenrufe bezüglich Intensivbetten kontraproduktiv sind]]
+- 21.11.2020 [[https://www.watson.ch/!383581581][«Schweiz braucht robustere Strategie» – WHO-Experte kritisiert
+  Corona-Politik]]
+- 21.11.2020 [[https://www.toponline.ch/news/coronavirus/detail/news/corona-sondergesandter-der-who-warnt-vor-dritter-welle-in-der-schweiz-00145414/][Corona-Sondergesandter der WHO warnt vor dritter Welle in der
+Schweiz]], auch [[https://www.tagblatt.ch/news-service/inland-schweiz/der-grosse-teil-sind-ueber-80-jaehrige-bundesrat-maurer-verteidigt-strategie-in-der-zweiten-coronawelle-trotz-vieler-toter-ld.2066642][Tagblatt]]
+  - "Es überrascht mich, dass es nicht als nationaler Notstand behandelt
+    wird."
+  - "Es braucht eine sehr genaue Überwachung der Menschen, so dass man eine
+  Ansteckung entdeckt."
+- 21.11.2020 [[https://de.euronews.com/2020/11/21/dritte-welle-anfang-2021-harsche-kritik-an-schweizer-corona-strategie][Covid-19-Tote totgeschwiegen? Harsche Kritik an Schweizer
+Corona-Strategie]]
+- 21.11.2020 [[https://www.tagesanzeiger.ch/sommaruga-ruft-zur-staerkung-der-who-auf-669830490387][Sommaruga ruft zur Stärkung der WHO auf]]
+- 21.11.2020 [[https://www.mittellaendische.ch/2020/11/21/covid-19-schweiz-wird-f%C3%BCr-ihre-fehlstrategie-scharf-kritisiert][Covid-19 - Schweiz wird für ihre Fehlstrategie scharf kritisiert]]
+- 21.11.2020 [[https://www.weltwoche.ch/ausgaben/2020-47/diese-woche/erpressung-und-vertruschung-die-weltwoche-ausgabe-47-2020.html][Berset: Erpressung und Vertuschung]]
+- 21.11.2020 [[https://www.bluewin.ch/de/news/schweiz/fast-23000-corona-neuinfektionen-pfizer-beantragt-us-notfallzulassung-fuer-impfstoff-469383.html][US-Impfstart im Dezember möglich— WHO-Kritik an Schweizer
+  Corona-Strategie]]
 
 #+END_COMMENT
 
