@@ -394,7 +394,8 @@ bekommen diese Möglichkeit nicht. Stattdessen wird ihre Reputation angegriffen
 oder sogar Druck ausgeübt. Die folgenden Experten sind eine kleine,
 alphabetische Auswahl derjenigen, die sich bereits sehr früh kritisch über die
 angebliche extrem hohe Gefährlichkeit des Virus oder Angemessenheit der
-Maßnahmen geäußert haben.
+Maßnahmen geäußert haben. Die Liste berücksichtigt bewusst nur besonders
+renomierte Experten aus den wichtigsten Fachbereichen zum Thema Corona.
 
 1. [[https://profiles.stanford.edu/eran-bendavid][Prof. Dr Eran Bendavid]] - Prof. für Medizin und öffentliche Gesundheit,
    Stanford
@@ -433,54 +434,64 @@ Maßnahmen geäußert haben.
     sich]] und kündigt "personellen Wechsel" an
 14. [[https://en.wikipedia.org/wiki/David_L._Katz][Dr. David L. Katz]] - Mitunterzeichner der "Great Barrington
     Declaration"
-15. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie
+15. Prof. Dr. med. Ulrich Keil - Epidemiologe Universität Münster, [[https://www.aerzteblatt.de/archiv/60998/Ulrich-Keil-Fellow-des-Royal-College-of-Physicians][Fellow des
+    Royal College of Physicians]], Taz Artikel 10.8.2020: [[https://taz.de/Streit-um-Corona-Politik/!5701892/][Astronomische
+    Fehlrechnungen]]
+16. [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie
     und Virologie an die Martin-Luther-Universität Halle-Wittenberg
-16. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
+17. Dr Joel Kettner, Prof. of Community Health Sciences and Surgery at
     University of Manitoba
-17. Dr. med. Claus Köhnlein - Internist, Autor des Buches "Virus-Wahn" (2009)
-18. Prof. Dr. Brigitte König - stellv. Direktorin des Institutes für
+18. Dr. med. Claus Köhnlein - Internist, Autor des Buches "Virus-Wahn" (2009)
+19. Prof. Dr. Brigitte König - stellv. Direktorin des Institutes für
     Medizinische Mikrobiologie und Infektionsepidemiologie am
     Universitätsklinikum Leipzig, Interview: [[https://www.youtube.com/watch?v=rU28CfwCBx8][Genauigkeit der PCR- und
     Antikörper-Tests beim Coronavirus]]
-19. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
+20. [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Leiter der Abteilung Epidemiologie am
     Helmholtz-Zentrum für Infektionsforschung in Braunschweig
-20. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
-21. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
+21. [[https://de.wikipedia.org/wiki/Michael_Levitt][Michael Levitt]] - Nobelpreisträger für Chemie
+22. [[https://en.wikipedia.org/wiki/Michael_Osterholm][Prof. Michael Osterholm]] - Epidemiologe, Direktor des Center for Infectious
     Disease Research and Policy an der University of Minnesota
-22. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
-23. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
-24. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
-25. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
+23. Dr Yanis Roussel et al - Studienautor [[https://www.researchgate.net/publication/340046331_SARS-CoV-2_fear_versus_data][SARS-CoV-2: fear versus data]]
+24. [[https://en.wikipedia.org/wiki/John_Oxford][Prof. John Oxford]] - Virologe, führender Experte für Grippe
+25. [[https://de.wikipedia.org/wiki/Klaus_P%C3%BCschel][Prof. Dr. Klaus Püschel]] - Professor für Rechtsmedizin
+26. [[https://de.wikipedia.org/wiki/Karina_Rei%C3%9F][Prof. Dr. Karina Reiß]] - Biochemie, Mitglied Exzellenzcluster zu
     Entzündungserkrankungen, Autorin des Spiegel Bestsellers "Corona
     Fehlalarm?"
-26. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
+27. [[https://de.wikipedia.org/wiki/Matthias_Schrappe][Prof. Dr. med. Matthias Schrappe]] - Internist, ehem. stellv. Vorsitzender
+    des [[https://de.wikipedia.org/wiki/Sachverst%C3%A4ndigenrat_zur_Begutachtung_der_Entwicklung_im_Gesundheitswesen][Sachverständigenrates zur Begutachtung der Entwicklung im
+    Gesundheitswesen]]. Er hat mit einer Expertengruppe [[http://www.schrappe.com/ms2/akt24.htm][Thesenpapiere und
+    Stellungnahmen]] zur fehlenden Datenbasis veröffentlicht.
+28. [[https://www.unimedizin-mainz.de/fileadmin/kliniken/nuklearmedizin/Dokumente/Prof.Spitz_Info.pdf][Prof. Dr. med. Jörg Spitz]] - [[https://www.youtube.com/watch?v=MaWje0AywII][Spitzen-Gespräch mit Uwe Gröber & Prof. Jörg
     Spitz zu Immunonutrition]]
-27. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
+29. [[https://de.wikipedia.org/wiki/Beda_M._Stadler][Prof. Dr. Beda M. Stadler]] - Molekularbiologe sowie emeritierter Professor
     und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
-28. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
+30. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
     Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
     der Universität Bonn
-29. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
+31. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
     öffentliche Gesundheit
-30. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
+32. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
     Kantonsspital St. Gallen
-31. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
+33. Prof. Dr. Pablo Goldschmidt, Professor of Molecular Pharmacology at the
     Université Pierre et Marie Curie in Paris
-32. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
+34. [[https://vitalstoff.blog/tag/knut-m-wittkowski][Prof. Dr. Knut Wittkowski]] - ehem. Leiter der Abteilung für Biostatistik,
     Epidemiologie und Forschungsdesign an der Rockefeller-Universität
-33. [[https://de.wikipedia.org/wiki/Wolfgang_Wodarg][Dr. Wolfgang Wodarg]] - Lungen Facharzt, Initiator des
+35. [[https://de.wikipedia.org/wiki/Wolfgang_Wodarg][Dr. Wolfgang Wodarg]] - Lungen Facharzt, Initiator des
     Untersuchungsausschusses zur Schweinegrippe 2009. [[https://de.wikipedia.org/wiki/Martin_Schwab_(Jurist)][Prof. Dr. Martin Schwab]],
     Juraprofessor Bielefeld hat ein umfangreiches [[http://www.jura.uni-bielefeld.de/lehrstuehle/schwab/Prof.-Schwab-zu-Wodarg.pdf][Dosier]] zur Verteidigung von
     Wodarg erstellt. Das Dossier enthält auch Analysen, welche Aussagen nach
     jetzigem Wissensstand als belegt angesehen werden können.  Nach Wodarg
     eignet sich die Grippe in jedem Jahr, um eine Pandemie auszurufen: [[https://www.youtube.com/watch?v=jKaRvpTW8sE][Wodarg:
     Industrieverbände bestimmen, ob man eine Pandemie ausruft (2013)]]
+36. Dr. Mike Yeadon - Immunologe, ehem. Forschungsleiter und Vizepräsident von
+    Pfizer. Video: [[https://www.bitchute.com/video/LBeo24BvA5PU][UNLOCKED - COVID-19 GOVERNMENT MISMANAGEMENT]].
 
 Die Ursprüngliche Liste der oben genannten Experten stammt aus Listen der
 Webseite [[https://off-guardian.org/category/covexperts][off Guardian]]. Dort findet man auch Hinweise auf die verschiedenen
 Formen des Drucks, der auf Experten ausgeübt wurde anstatt mit ihnen zu
 debatieren. Bei nichtohneuns.de gibt es kritische [[https://www.nichtohneuns.de/virus][Statements von über 250
-Experten]].
+Experten]]. [[https://www.tank-deutschland.de/120-expertenstimmen-zu-corona][120 Expertenstimmen zu Corona]], leider ungeordnet, nicht nur
+Mediziner, manche Doppelnennungen.
 
 Es liegt natürlich die Vermutung nahe, dass auch für die gegenteilige Meinung
 eine Reihe von Experten aufgelistet werden kann. Tatsächlich listed z.B. die
@@ -759,7 +770,7 @@ der Unmöglichkeit ist oder der gängige PCR-Test nicht die behauptete
 Verlässlichkeit bietet.
 
 Auf der Bundespressekonferenz im November kann die Bundesregierung auf keine
-Evidenz zur Wirksamkeit von Lockdowns verveisen: [[https://www.youtube.com/watch?v=vXLmOC4x_f0][RT Deutsch]].
+Evidenz zur Wirksamkeit von Lockdowns verveisen: [[https://deutsch.rt.com/inland/109491-gesundheitsministerium-zu-covid-19-keine-belege-fuer-positive-wirkung-lockdown/][RT Deutsch]].
 
 *** Maskenpflicht
 
@@ -905,6 +916,8 @@ Maßnahmen ausgelöst wird.
 Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=67088][Risiken und Nebenwirkungen, aber keine Packungsbeilage. Die
 Corona-Eindämmung droht mehr Leid zu verursachen, als sie verhindert.]]
 
+SRF, 21.11.2020: [[https://www.srf.ch/news/schweiz/belastende-coronakrise-auffallend-mehr-notfaelle-in-kinder-und-jugendpsychiatrien][Auffallend mehr Notfälle in Kinder- und Jugendpsychiatrien]]
+
 *** Tote in Entwicklungsländern
 
 23.9.2020, Reuters: [[https://de.reuters.com/article/afrika-virus-m-ller-idDEKCN26E0MN][Entwicklungsminister - An Lockdown-Folgen sterben mehr
@@ -1024,6 +1037,9 @@ nicht zu verunreinigen.
 Es gibt inzwischen zahlreiche Beispiele von Spitzensportlern, die zunächst
 positiv und kurz darauf negativ getestet wurden: [[https://www.kicker.de/ad-absurdum-sechs-salzburger-erst-positiv-und-am-ende-doch-negativ-789296/artikel][1]]
 
+Der Bayerische Ärztetag [[https://www.blaek.de/meta/presse/presseinformationen/presseinformationen-2020/aussagekraft-von-pcr-tests-auf-sars-cov-2-erhoehen][stellt am 10.10.2020 fest]], dass PCR Tests mit mehr als
+35 Zyklen keine Aussage über Infetiösität erlauben.
+
 ** Asymptomatische Übertragung
 
 Die umfangreihen Schutzmaßnahmen werden mit der Annahme begründet, dass selbst
@@ -1054,6 +1070,9 @@ Karolinska-Instituts in Stockholm von 2018: [[https://royalsocietypublishing.org
 people and facial cues of sickness]].
 
 [[https://www.corodok.de/die-legende-uebertragung][Die Legende von der asymptomatischen Übertragung]]
+
+20.11.2020 [[https://www.nature.com/articles/s41467-020-19802-w][nature Studie]], Zusammenfassung [[https://deutsch.rt.com/international/109526-studie-aus-wuhan-kein-beweis/][RT deutsch]]: Kein Beweis für
+asymptomatische Übertragung.
 
 * Ist es eine Pandemie?
 ** Letalität von Covid-19
@@ -1548,6 +1567,7 @@ mag von Tag zu Tage leben.
 
 ** Nachrichten
 
+- https://querdenken.international
 - https://2020news.de
 - https://demokratischerwiderstand.de
 - https://lockdownsceptics.org (Englisch)
@@ -1564,9 +1584,18 @@ mag von Tag zu Tage leben.
 
 ** Petitionen, Initiativen
 
-- Schweiz: [[https://fruehling2020.com][Frühling2020]] - Unabhängige Untersuchung der Corona-Krise
-- Schweiz: [[https://notrecht-referendum.ch][Notrecht Referendum]] - gegen Verlängerung des Notrechts, von
+*** Deutschland
+
+- Bayern:   https://buendnis-landtag-abberufen.de
+
+*** Schweiz
+
+- [[https://fruehling2020.com][Frühling2020]] - Unabhängige Untersuchung der Corona-Krise
+- [[https://notrecht-referendum.ch][Notrecht Referendum]] - gegen Verlängerung des Notrechts, von
   [[https://verfassungsfreunde.ch][verfassungsfreunde.ch]]
+- https://www.coronadialog.ch
+- https://coronadifferenziert.ch
+- https://aletheia-scimed.ch
 
 ** Recht
 
@@ -1588,6 +1617,7 @@ mag von Tag zu Tage leben.
 ** Alternative Medien
 
 - https://www.nachdenkseiten.de
+- https://clubderklarenworte.de
 - https://www.rubikon.news
 - https://www.fairtalk.tv
 - https://www.reitschuster.de
@@ -1677,8 +1707,6 @@ https://www.bmj.com/content/371/bmj.m4425 Covid-19: politicisation, “corruptio
 
 https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938
 
-https://coronadifferenziert.ch
-
 https://www.youtube.com/watch?v=ClhUe53W7xw Polymerase chain reaction Animation
 
 https://www.malteser.de/newsdetails/news/afrika-ueber-30-millionen-menschen-von-hunger-bedroht.html
@@ -1697,6 +1725,18 @@ https://www.youtube.com/watch?v=BwSrEXYQfJE Die Überlastung des Gesundheitssyst
 https://www.rubikon.news/artikel/der-konstruierte-notstand
 
 [[https://docs.google.com/presentation/d/1M-tZ2rxnxv8vCMmX5NwuxeYnNBdfg3lOdZ3Z-rTWluQ/edit][CIDM - Corona und Zurück in die Zukunft]]
+
+https://www.reitschuster.de/post/klinik-studie-2020-weniger-beatmete-als-2019
+https://www.helios-health.com/what-we-do/covid-20-german
+
+[[https://clubderklarenworte.de/wp-content/uploads/2020/11/Klage-LG-Berlin.-Eingereicht-231120.pdf][Klageschrift Wodarg vs. Kreißel]]
+
+https://kenfm.de/abgeschaltet-von-dirk-pohlmann
+
+Wolf Wetzel, 26.11.2020, Wenn die Herrschenden den Stier an den Hörner packen und die Linke nicht einmal den Stier sieht.
+https://www.nachdenkseiten.de/?p=67362
+
+https://www.facebook.com/groups/3719041398120284 Konstanz Freidenken
 
 *** Schweiz
 
