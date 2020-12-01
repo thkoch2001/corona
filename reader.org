@@ -555,16 +555,17 @@ neue Namen:
 - [[https://de.wikipedia.org/wiki/G%C3%A9rard_Krause][Prof. Dr. Gérard Krause]] - Epidemiologe, ist für ausbalancieren von Maßnahmen
   und Schutz von Risikogruppen [[https://www.merkur.de/welt/coronavirus-krause-epidemiologe-helmholtz-zentrum-pandemie-stoppen-nicht-moeglich-zr-90065443.html][Merkur]], kritisiert Druck auf Forscher [[https://www.zdf.de/nachrichten/panorama/coronavirus-krause-interview-100.html][ZDF]],
   forderte schnelle Öffnung von Schulen [[https://www.zdf.de/nachrichten/panorama/coronavirus-krause-interview-100.html][ZDF]]
-- [[https://de.wikipedia.org/wiki/Jonas_Schmidt-Chanasit][Prof. Dr. Jonas Schmidt-Chanasit]] - äußert sich auf [[https://twitter.com/ChanasitJonas][Twitter]] sehr modarat und
+- [[https://de.wikipedia.org/wiki/Jonas_Schmidt-Chanasit][Prof. Dr. Jonas Schmidt-Chanasit]] - äußert sich auf [[https://twitter.com/ChanasitJonas][Twitter]] sehr moderat und
   fordert eher weniger Maßnahmen
-- [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kekulé]] - Lehrstuhl für Medizinische Mikrobiologie und
-  Virologie an die Martin-Luther-Universität Halle-Wittenberg. Kekule hatte
+- [[https://de.wikipedia.org/wiki/Alexander_S._Kekul%C3%A9][Prof. Dr. Alexander S. Kékulé]] - Lehrstuhl für Medizinische Mikrobiologie und
+  Virologie an die Martin-Luther-Universität Halle-Wittenberg. Kékulé hatte
   ich zunächst fälschlicherweise als Kritiker der Pandemiepanik gelistet, weil
-  er manche Maßnahmen kritisiert.
+  er manche Maßnahmen kritisiert. Er ist aber nicht wirklich ein Unterstützer
+  der offiziellen Politik.
 
-Also auch in der t-online Liste von Experten gibt es nur vier von acht, auf
-die sich die Politik berufen kann. Von diesen sind mindestens zwei eng mit
-Impfstoffentwicklung verbunden und alle vier sind Virologen.
+Also auch in der t-online Liste von Experten gibt es nur fünf (oder vier) von
+acht, auf die sich die Politik berufen kann. Von diesen sind mindestens zwei
+eng mit Impfstoffentwicklung verbunden und alle vier sind Virologen.
 
 Die Leopoldina hat eine [[https://www.leopoldina.org/publikationen/detailansicht/publication/expertinnen-und-experten-zur-coronavirus-pandemie-2020][Liste von Experten]] veröffentlicht die ernstzunehmender
 aussieht. Allerdings ist nicht ersichtlich, welche Meinung diese Experten
