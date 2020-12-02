@@ -1306,6 +1306,8 @@ Mitschuld.
 
 * Was ist es dann?
 
+Multipolar-Magazin, 2.12.2020: [[https://multipolar-magazin.de/artikel/was-steckt-hinter-der-corona-politik][Was steckt hinter der Corona-Politik?]]
+
 ** Das World Economic Forum
 
 Das World Economic Forum (WEF) ist eine Art Dachverband der reichsten und
@@ -1681,6 +1683,8 @@ mag von Tag zu Tage leben.
   PolizistInnen
 - https://t.me/StudentenStehenAuf
 - https://www.nichtohneuns.de
+- [[https://www.psychotherapeutinnen-und-psychotherapeuten-stehen-auf.net][Psychotherapeutinnen und Psychotherapeuten stehen auf]]
+- [[https://mutigmacher.org][Mutigmacher]] - Unterstütung für Whistleblower
 
 *** Österreich
 
@@ -1713,6 +1717,7 @@ mag von Tag zu Tage leben.
 - https://demokratischerwiderstand.de
 - https://lockdownsceptics.org (Englisch)
 - [[https://www.infosperber.ch/Dossier/Coronavirus-Hysterie-oder-Gefahr][Infosperber Coronavirus Dossier]]
+- [[https://uncut-news.ch][Uncut News]] - Schweiz, deutschsprachig
 
 ** Medizin
 
@@ -1817,6 +1822,7 @@ Kabarett:
 - Monika Gruber am 5. November 2020 | Nuhr im Ersten [[https://www.youtube.com/watch?v=BNCJsfbr_lc][YT]]
 - Debatte über das neue Infektionsschutzgesetz [[https://www.youtube.com/watch?v=uUf2TYBpb5M][YT]]
 - [[https://www.marcorima.ch][Marco Rima]], z.B. Lichterlöschen [[https://www.youtube.com/watch?v=RME8wDdjnSg][1]], [[https://www.youtube.com/watch?v=Dgy_ls_z3eU][2]]
+- Monika Gruber am 26. November 2020 | Nuhr im Ersten [[https://www.youtube.com/watch?v=PVSfry4fTEI][YT]]
 
 Musik:
 
@@ -1880,6 +1886,8 @@ Technocracy INC: https://2020news.de/die-naehe-der-gruenen-zum-great-reset
 
 https://www.achgut.com/artikel/bericht_zur_coronalage_01.12.2020_gefaehrliche_Daten
 
+https://childrenshealthdefense.org/defender/johns-hopkins-plan-to-vaccinate-ethnic-minorities-and-mentally-challenged-first
+
 *** Schweiz
 
 - 4.11.2020 [[https://www.nzz.ch/schweiz/corona-laut-bag-sind-die-intensivstationen-in-fuenf-tagen-besetzt-ld.1585045?reduced=true][Laut BAG sind die Intensivstationen in fünf Tagen besetzt – doch
@@ -1906,8 +1914,3 @@ Corona-Strategie]]
 
 #+END_COMMENT
 
-
-
-# Local Variables:
-# org-latex-hyperref-template: "\\hypersetup{ pdftitle={Corona Reader}, colorlinks=true, urlcolor=[rgb]{0.1,0.1,1}, linkcolor=[rgb]{0,0,0} }\n"
-# End:
