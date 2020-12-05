@@ -405,6 +405,9 @@ Das Österreichische Verfassungsgericht hat die Corona-Verordnungen für
 ungültig erklärt, weil nicht ersichtlich war, auf welcher Basis die Maßnahmen
 beschlossen wurden.
 
+[[https://bastian-barucker.de/corona-petition][Eine Petition für eine offene Diskussion]] in der ARD wird von [[https://www.youtube.com/watch?v=V9wnWI2TavM][Jörg Schönenborn]]
+abgelehnt ([[https://www.nachdenkseiten.de/?p=67692#h02][NDS]]).
+
 *** Experten
 
 Viele Experten würden gerne an einer öffentlichen Debatte mitwirken und
@@ -1069,6 +1072,10 @@ Am 27.11.2020 veröffentlichen 22 Wissenschaftler eine Kritik des
 Drosten-Tests: [[https://cormandrostenreview.com][External peer review of the RTPCR test to detect SARS-CoV-2
 reveals 10 major scientific flaws at the molecular and methodological level:
 consequences for false positive results.]]
+
+3.12.2020 [[https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1764/6018217][Viral cultures for COVID-19 infectious potential assessment – a
+systematic review]] - Es ist anzunehmen, dass PCR-Tests mit mehr als 24 Zyklen
+(Ct) kein Hinweis of Infektiösität sind.
 
 ** Asymptomatische Übertragung
 
@@ -1818,6 +1825,7 @@ Bundesverfassungsgericht anzurufen.
 
 Kabarett:
 
+- Die Echse richtet in der Krise wichtige Worte an die Menschheit [[https://www.youtube.com/watch?v=W6dlyo0RDJ8][YT]]
 - Die Echse über Sicherheitsmaßnahmen im Tierreich [[https://www.youtube.com/watch?v=zg3rV_vZmsU][YT]]
 - Die Echse spielt die Coronakrise mit Enten nach [[https://www.youtube.com/watch?v=M8cBaXL3QOI&t=1s][YT]]
 - Drosten-Impfung mit Nebenwirkung: Simone Solga träumt von Steinmeier! [[https://www.youtube.com/watch?v=gLtXT7jAhk4][YT]]
@@ -1897,6 +1905,10 @@ Technocracy INC: https://2020news.de/die-naehe-der-gruenen-zum-great-reset
 https://www.achgut.com/artikel/bericht_zur_coronalage_01.12.2020_gefaehrliche_Daten
 
 https://childrenshealthdefense.org/defender/johns-hopkins-plan-to-vaccinate-ethnic-minorities-and-mentally-challenged-first
+
+https://visionaere-gesundheit.de/episode-27-jens-spahn-bundesminister-fuer-gesundheit-ueber-digitalisierung-und-innovation
+
+https://www.impfkritik.de/pressespiegel/2020032201.html
 
 *** Schweiz
 
