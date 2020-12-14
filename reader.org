@@ -292,8 +292,7 @@ Millionen US-Dollar von der BMGF.
 29.11.2020, RT: [[https://de.rt.com/gesellschaft/109670-transhumanismus-wef-gruender-schwab-prophezeit][Transhumanismus: WEF-Gründer Schwab prophezeit "Verschmelzung
 physischer und digitaler Identität"]]
 
-TODO:
-https://winteroak.org.uk/2020/10/05/klaus-schwab-and-his-great-fascist-reset
+Rubikon: [[https://www.rubikon.news/artikel/der-technik-faschist][Der Technik-Faschist]], [[https://www.rubikon.news/artikel/der-technik-faschist-2][Teil 2]]
 
 *** Wikipedia
 
@@ -346,7 +345,7 @@ Querdenken-Demonstrationen sind zwei Ereignisse gut dokumentiert:
 - Dr. Friedrich Pürner - Facharzt, Epidemiologe und Chef des Gesundheitsamts
   Aichach-Friedberg bei Augsburg. Leiter Gesundheitsamt, Strafversetzt. Anfang
   November, merkur.de: [[https://www.merkur.de/bayern/coronavirus-bayern-markus-soeder-friedrich-puerner-gesundheitsamt-kritik-strategie-strafe-beamter-zr-13922061.html][Er kritisierte öffentlich Söders Corona-Politik:
-  Gesundheitsamt-Chef wird strafversetzt]].
+  Gesundheitsamt-Chef wird strafversetzt]]. [[https://www.nachdenkseiten.de/?p=67766][Interview NDS]]
 - Rainer Schregel - Amtsarzt Kanton St. Gallen, kritisierte Maßnahmen, wurde
   [[https://www.medinside.ch/de/post/entlassener-arzt-rainer-schregel-wieder-eingestellt][unrechtmäßig gefeuert]]
 - [[https://www.rnd.de/panorama/schulleiterin-auf-querdenkern-demo-in-leipzig-amt-verbietet-kontakt-zu-ihren-schulern-Z7AHULP5OBGE3EVDRMAEPHKY4U.html][Schulleiterin demonstriert mit „Querdenkern“ – Amt verbietet ihr Kontakt zu
@@ -398,6 +397,56 @@ Auch in Österreich ist Angst anscheinend bewusst als Mittel eingesetzt worden:
 
 - meinbezirk.at: [[https://www.meinbezirk.at/wieden/c-politik/bevoelkerung-soll-angst-vor-ansteckung-haben_a4046607][Bevölkerung soll "Angst vor Ansteckung" haben]]
 - Die Presse: [[https://www.diepresse.com/5805870/regierungsprotokoll-angst-vor-ansteckung-erwunscht][Regierungsprotokoll: Angst vor Ansteckung erwünscht?]]
+
+Ein Dokument des CDC erklärt bereits 2010, wie gezielte Angsterzeugung genutzt
+werden solle, um die Nachfrage nach Grippeimpfstoffen zu erhöhen: [[https://archive.org/details/cdc-increasing-awareness-and-uptake-of-influenza-immunization][CDC
+Increasing Awareness And Uptake Of Influenza Immunization]] (via [[https://2020news.de/terrorkommunikation-us-panik-papier-aufgetaucht][2020News]]). Es
+ist auffallend, dass das CDC Dokument nicht diskutiert oder wenigstens darauf
+verweist, welche alternativen Ansätze zur Impfung noch in Frage kommen könnten
+um die Grippe zu bekämpfen. Weiterhin verstört der undemokratische Ansatz. Das
+Volk sei zu dumm und müsse deswegen manipuliert werden.
+
+*** Fehlende Daten
+
+Obwohl die positiven PCR-Tests täglich zur Panikmache genutzt werden, ist die
+Datenerhebung weiterhin kriminell mangelhaft. Ein großer Teil der negativen
+Tests wird nicht gesammelt. Dies hat nun auch die FR bestätigt:
+
+FR, 9.12.2020: [[https://www.fr.de/frankfurt/corona-testzahlen-in-hessen-sind-unbekannt-90126817.html][Corona-Testzahlen sind unbekannt]]
+
+Ohne die negativen Testergebnisse kann man aber die positiven Resultate nicht
+ins Verhältnis setzen. Auch der ehemalige Vize-Vorsitzende des
+Sachverständigenrates Gesundheit, Prof. Dr. med. Matthias Schrappe hält die
+Daten des RKI für "das Papier nicht wert".
+
+ZDF, 23.11.2020: [[https://www.zdf.de/nachrichten/zdfheute-live/videos/schrappe-corona-kritik-video-100.html][Zahlen des RKI sind "nichts wert"]]
+
+TODO: Wo findet man einen Vergleich der absoluten Sterblichkeit im Jahr 2020
+im Vergleich zum Durchschnitt? Es gibt nur unübersichtliche Graphen, die
+schwer zu interpretieren sind.
+
+*** Druck auf Ärzte
+
+https://www.youtube.com/watch?v=woIZPEEk4O8&t=1340
+
+Hier kann man sehen, wie sich Jens Spahn und der Apothekerverbandspräsident
+für die Unabhängigkeit von Ärzten und Apothekern stark machen. Die tragen ja
+eine hohe Verantwortung und werden deswegen auch ganz besonders vor den
+Einflüssen von Lobbyisten und der Politik geschützt.
+
+TODO: Ironie entfernen...
+
+NZZ: "Skeptische Ärzte geraten ins Visier der Behörden"
+https://nzzas.nzz.ch/schweiz/corona-skeptische-aerzte-im-visier-der-behoerden-ld.1578699?reduced=true
+
+WDR: "Ärzten, die Corona leugnen, droht Geldstrafe"
+https://www1.wdr.de/nachrichten/themen/coronavirus/aerzte-coronavirus-verharmlosen-leugnen-folgen-102.html
+
+Der WDR-Artikel endet mit einem Aufruf zur Denunziation: "Hinweise über
+entsprechende Fälle bitte der zuständigen Ärztekammer melden."
+
+Ärztezeitung: "Wie die Kammer auf Corona-kritische Ärzte reagieren will"
+https://www.aerztezeitung.de/Nachrichten/Wie-die-Kammer-auf-Corona-kritische-Aerzte-reagieren-will-414355.html
 
 ** Keine ausreichende Diskussion
 
@@ -490,7 +539,7 @@ renomierte Experten aus den wichtigsten Fachbereichen zum Thema Corona.
 29. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
     Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
     der Universität Bonn
-30. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
+30. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Dr. Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
     öffentliche Gesundheit
 31. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
     Kantonsspital St. Gallen
@@ -867,6 +916,9 @@ keinesfalls mehr als 3 Stunden mit Filtermasken ohne Gebläseunterstützung zu
 arbeiten. Bei Arbeiten mit Atemschutz sind feste Pausen einzuplanen. Die
 Arbeitsunterbrüche sollen mindestens eine halbe Stunde betragen."
 
+14.12.2020, reitschuster.de [[https://reitschuster.de/post/studie-erhoehen-die-masken-die-sterblichkeit][Studie: Erhöhen Masken die Sterblichkeit?]] (Studie
+noch nicht reviewed)
+
 *** Schulschließungen
 
 *** Reisebeschränkungen
@@ -1113,10 +1165,11 @@ erkennen und zu meiden. Dies bestätigt auch eine Studie des
 Karolinska-Instituts in Stockholm von 2018: [[https://royalsocietypublishing.org/doi/10.1098/rspb.2017.2430][Identification of acutely sick
 people and facial cues of sickness]].
 
-[[https://www.corodok.de/die-legende-uebertragung][Die Legende von der asymptomatischen Übertragung]]
-
-20.11.2020 [[https://www.nature.com/articles/s41467-020-19802-w][nature Studie]], Zusammenfassung [[https://deutsch.rt.com/international/109526-studie-aus-wuhan-kein-beweis/][RT deutsch]]: Kein Beweis für
-asymptomatische Übertragung.
+- [[https://www.corodok.de/die-legende-uebertragung][Die Legende von der asymptomatischen Übertragung]]
+- 20.11.2020 [[https://www.nature.com/articles/s41467-020-19802-w][nature Studie]], Zusammenfassung [[https://deutsch.rt.com/international/109526-studie-aus-wuhan-kein-beweis/][RT deutsch]]: Kein Beweis für
+  asymptomatische Übertragung.
+- 1.12.2020, bmj: [[https://www.bmj.com/content/371/bmj.m4695][Covid-19: Asymptomatic cases may not be infectious, Wuhan
+  study indicates]]
 
 * Ist es eine Pandemie?
 ** Letalität von Covid-19
@@ -1556,6 +1609,50 @@ Mithilfe von Event 201 und vorheriger Übungen wurde die internationale
 Zusammenarbeit aller Akteure, vor allem der Medien und Internetkonzerne geübt,
 siehe Paul Schreyer (Literatur).
 
+*** Katholische Kirche
+
+Papst setzt sich auch für die Masken ein.
+
+11.11.2019 [[http://www.vatican.va/content/francesco/de/speeches/2019/november/documents/papa-francesco_20191111_consiglio-capitalismo-inclusivo.html][ANSPRACHE VON PAPST FRANZISKUS AN DIE MITGLIEDER DES RATES FÜR
+EINEN INKLUSIVEN KAPITALISMUS]]
+
+[[https://www.youtube.com/channel/UCkHkhetUQaCO8CAMqS3xaaw/videos][YT Kanal]] der Coalition for Inclusive Capitalism
+
+11.12.2020, uncut-news [[https://uncut-news.ch/the-great-reset-schaltet-eine-gang-hoeher-papst-und-rothschild-praesentieren-council-for-inclusive-capitalism][The Great Reset schaltet eine Gang höher! Papst und
+Rothschild präsentieren „Council for Inclusive Capitalism“]]
+
+https://www.inclusivecapitalism.com
+
+https://www.inclusivecapitalism.com/organizations
+
+Verglichen mit der Mitgliederliste des WEF ist die des Rates für inklusiven
+Kapitalismus sehr kurz:
+
+- ALLIANZ
+- Bank of America
+- BP
+- Brunello Cucinelli S.p.A. - Italienische Luxusmode
+- CalPERS - Kalifornische Rentenkasse für öffentliche Angestellte
+- DuPont
+- Estée Lauder Companies - Schmink- und Pflegeprodukte
+- Ernst & Young - Beratungskonzern
+- Ford Foundation
+- Guardian Life - Versicherungsgesellschaft
+- Inclusive Capital Partners
+- International Trade Union Confederation
+- Johnson & Johnson - Pharma
+- Mastercard
+- Merck
+- Office of the California state treasurer
+- Organisation for Economic Co-operation and Development
+- Salesforce
+- State Street Corporation - Drittgrößte Anlagegesellschaft
+- The Rockefeller Foundation
+- TIAA - Bank
+- Visa
+
+Es macht eher den Eindruck, als wolle der Vatican sich mit dieser Initiative
+einen Platz beim Great Reset sichern anstatt ihn anzuführen?
 ** Aber warum liest und hört man nichts?
 
 - Millionenhilfe für Verlage -
@@ -1600,6 +1697,9 @@ Medien versagen regelmäßig bei entscheidenden Themen:
 
 * Was tun?
 ** Aufklären
+
+Flyer verteilen: [[https://freiheitsboten.org][Freiheitsboten.org]]
+
 *** positiv-getestet.de
 
 Wir wollen möglichst genau die Krankheitssymptome bei Corona positiv
@@ -1627,6 +1727,8 @@ offensichtlich zu große Maschen haben zeigen Protest. Besonders schön ist auch
 eine rote Clownnase, die auf der Maske mit einer Sicherheitsnadel angebracht
 wird. Es wird berichtet, dass eine Clownnase ein guter Eisbrecher sei, um ins
 Gespräch zu kommen.
+
+https://www.rote-nase.com
 
 ** Partei: Die Basis
 
@@ -1696,14 +1798,16 @@ mag von Tag zu Tage leben.
 
 *** Deutschland
 
-- Bayern:   https://buendnis-landtag-abberufen.de
-- https://elternstehenauf.de
-- https://www.kritische-polizisten.de - Bundesarbeitsgemeinschaft kritischer
-  PolizistInnen
-- https://t.me/StudentenStehenAuf
-- https://www.nichtohneuns.de
+- Bayern: [[https://buendnis-landtag-abberufen.de][Bündnis Landtag abberufen]]
+- [[https://elternstehenauf.de][Eltern stehen auf]]
+- [[https://www.kritische-polizisten.de][Bundesarbeitsgemeinschaft kritischer PolizistInnen]]
+- [[https://t.me/StudentenStehenAuf][Studenten stehen auf]]
+- [[https://www.nichtohneuns.de][Nicht Ohne Uns]]
 - [[https://www.psychotherapeutinnen-und-psychotherapeuten-stehen-auf.net][Psychotherapeutinnen und Psychotherapeuten stehen auf]]
 - [[https://mutigmacher.org][Mutigmacher]] - Unterstütung für Whistleblower
+- [[https://lehrer-fuer-aufklaerung.de][Lehrer für Aufklärung]]
+- [[https://unternehmer-stehen-auf.de][Unternehmer stehen auf]] (Plakat "Hier sind auch Menschen ohne Maske
+  willkommen")
 
 *** Österreich
 
@@ -1741,18 +1845,18 @@ mag von Tag zu Tage leben.
 ** Medizin
 
 - https://swprs.org/fakten-zu-covid-19
-- http://www.aerzteklaerenauf.de
-- https://www.ärzte-für-aufklärung.de
-- https://worlddoctorsalliance.com
-- https://acu2020.org
+- [[http://www.aerzteklaerenauf.de][Ärzte klären auf]]
+- [[https://www.ärzte-für-aufklärung.de][Ärzte für Aufklärung]]
+- [[https://worlddoctorsalliance.com][World Doctors Alliance]]
+- [[https://acu2020.org][Außerparlamentarischer Corona Untersuchungsausschuss]]
 - [[https://www.mwgfd.de][Mediziner und Wissenschaftler für Gesundheit, Freiheit und Demokratie, e.V.]]
 
 ** Recht
 
-- https://schlussjetzt.org - Netzwerk kritischer Juristen
-- https://dasvolkgegencorona.com
-- https://www.corona-schadensersatzklage.de - Sammelklage für Geschädigte
-- https://klagepaten.eu - Hilfe bei rechtlichen Auseinandersetzungen
+- [[https://schlussjetzt.org][SchlussJetzt]] - Netzwerk kritischer Juristen
+- [[https://dasvolkgegencorona.com][Das Volk gegen Corona]]
+- [[https://www.corona-schadensersatzklage.de][Corona Schadensersatzklage]] - Sammelklage für Geschädigte
+- [[https://klagepaten.eu][Klagepaten]] - Hilfe bei rechtlichen Auseinandersetzungen
 - [[https://www.afa.zone][Anwälte für Aufklärung]]
 - [[https://www.acu-austria.at][Außerparlamentarischer Corona Untersuchungsausschuss - Austria]]
 
@@ -1764,6 +1868,8 @@ mag von Tag zu Tage leben.
 - https://www.euromomo.eu - Übersicht europäische Sterblichkeitszahlen
 - https://influenza.rki.de/Wochenberichte.aspx Wochenberichte des
   Robert-Koch-Instituts
+- [[https://www.initiative-qualitaetsmedizin.de/covid-19-pandemie][Initiative Qualitätsmedizin]] - mit eindeutigen Beweisen, dass es in
+  Deutschland 2020 keine Pandemie gab, z.B. Vergleich der Jahre 2019 und 2020
 
 ** Alternative Medien
 
@@ -1933,6 +2039,79 @@ ICD-Kode U07.1! COVID-19, Virus nachgewiesen, kodiert wurde, 100,00 Euro."
 
 https://www.bz-berlin.de/berlin/kolumne/die-intensivstationen-waren-auch-vor-corona-schon-am-limit
 
+denis rancourt
+https://en.wikipedia.org/wiki/Denis_Rancourt
+https://www.researchgate.net/publication/343775235_Evaluation_of_the_virulence_of_SARS-CoV-2_in_France_from_all-cause_mortality_1946-2020
+http://activistteacher.blogspot.com/2007/02/global-warming-truth-or-dare.html
+https://dissidentvoice.org/2015/05/climate-stupidity-and-human-survival/
+https://twitter.com/denisrancourt
+https://www.kwesthues.com/Rancourt09.htm
+https://wikispooks.com/wiki/Denis_Rancourt
+https://www.researchgate.net/profile/D_Rancourt
+
+https://covid19criticalcare.com
+https://off-guardian.org/2020/11/10/the-great-viral-debate-dr-rancourts-closing-statement/
+
+Mein Arzt bei dem ich seit Jahren in Behandlung bin musste im Frühjahr seine Praxis für zwei Wochen schließen und in Quarantäne gehen. Er wurde positiv getestet.
+
+Inzwischen ist er lange wieder tätig und zwar ohne Maske.
+Warum? Er lässt sich alle drei Monate eine Antikörperbestimmung machen und einen Nachweis dass T- Zellen vorhanden sind. Und da er wohl Corona tatsächlich hatte sind die Tests positiv. Und damit ist er aus dem Schneider.
+
+Das hat mich interessiert. ich wollte wissen, ob das nicht auch für meinen Sohn in Frage käme statt PCR - Test oder Quarantäne. Denn er war in diesem Jahr zweimal krank und einmal so heftig, dass es durchaus Corona hätte sein können. Außerdem gehe ich ja wie Dr. Bhakdi von Herdenimmunität aus.
+
+Mein Arzt erzählte mir daraufhin, dass es etliche wissenschaftliche Berichte in allen möglichen Fachzeitschriften darüber gegeben habe, aber das solle scheinbar nicht an die Öffentlichkeit, denn dann könne man ja mit Impfstoffen nichts mehr verdienen. Diese Bluttest muss er immer aus eigener Tasche zahlen. Da hat niemand Interesse daran, dass dies der Bevölkerung zur Verfügung gestellt wird.
+
+Ich habe ihn nach einem solchen Bericht gefragt und er hat mich auf die Seite des Labors verwiesen bei dem er sich testen lässt. Ich verlinke Euch das hier.
+
+Auf Seite 6 des Dokumentes könnt Ihr etwas darüber lesen, warum es mehr positiv getestete gibt, wenn der CT - Wert über 30 oder noch höher ist.
+
+Auf Seite 8 geht es um Antikörperbestimmung und auf Seite 11 um T-Zellen.
+
+Am Ende auf Seite 15 wird auf eine mögliche Basisimmunität hingewiesen. Sehr interessant. Hier heißt es zum Abschuss:
+
+"Auch wenn mit der bevorstehenden Grippesaison die SARS-CoV-2-Problematik wieder alle Medien beherrschen wird und die Testzahlen auf neue Höchststände ansteigen werden, haben wir mit den vorgestellten Testverfahren ein ausgewogenes Instrumentarium um sicher analysieren und Angst nehmen zu können. Gerade die neuen Erkenntnisse über eine zelluläre Abwehr gegen SARS-CoV-2 und eine vermutlich bestehende Basisimmunität durch kreuzreagierende T-Zellen lassen für die Zukunft hoffen. Nachweisverfahren hierfür stehen Ihnen schon jetzt bei Biovis zur Verfügung!"
+
+Liebe Grüße
+Ute
+
+http://www.biovis-diagnostik.eu/wp-content/uploads/Biovis_SARS-CoV-2_Teil3_DE.pdf
+
+Die eigentliche Pandemie ist die Angst davor - Monitor über die Schweinegrippe
+https://www.youtube.com/watch?v=ktCI-f3QVM8
+
+https://www.cebm.net/#website centre for evidence-based medicine
+
+https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen.html
+https://docs.google.com/spreadsheets/d/1tzJikvR1eOs-K-Z5vPpeV540syILn_ozc50kyeBQEgs Excess mortality per country
+
+https://www.corona-in-der-schweiz.ch via https://www.unilu.ch/news/alle-news/corona-in-der-schweiz-plaedoyer-fuer-eine-evidenzbasierte-pandemiepolitik-5553/
+https://www.srf.ch/news/international/coronavirus-so-entwickeln-sich-die-fallzahlen-weltweit
+https://evm.min-saude.pt/#shiny-tab-a_total
+
+Holger Thiesen http://www.lotsenstation.de, Corona Ausschuss 31, erklärt wie Änderungen der Spielregeln viel bewirken können, z.B.:
+- Blaue Karte im Fußball - Wenn dieser Spieler noch einmal gefoult wird, hat
+  er das Recht auf einen Freistoss
+- Selbst gewählter Start beim Laufen - Jeder läuft loss wann er will, muss
+  aber pünktlich ankommen. Wer zuletzt losläuft und pünktlich ankommt hat
+  gewonnen.
+
+Behandlungsfehler als Todesursache? Auch https://www.youtube.com/watch?v=-bPXzoH5lfc Dr. Köhnlein
+
+https://www.bethanien-moers.de/krankenhaus-bethanien-moers/ueber-uns/presse/pressemitteilungen/pressearchiv-2020/pe-5720
+
+...So läge die Sterblichkeit von Patient*innen unter Therapie mit invasiver Beatmung in China bei 97 Prozent, in New York bei 88 Prozent und in Deutschland bei 43 Prozent. In Moers liegt laut Statistik die Sterblichkeitsrate bei der nicht-invasiven Therapie, dem Moerser Modell bei 1,6 Prozent. „Das ist nicht nur ein Konzept fürs Land, sondern eines für den gesamten Bund“....
+
+Holt euch die Statistiken. Die müssten mittlerweile aussagekräftig genug sein (leider nicht öffentlich einsehbar, oder ich finde Sie nicht), ansonsten würde der leitende Arzt nicht solch ein Interview geben:
+https://www.t-online.de/gesundheit/krankheiten-symptome/id_88996712/corona-arzt-diese-behandlungsmethode-koennte-patienten-das-leben-retten.html
+...Und ich sage es deshalb zum ersten Mal ganz deutlich: Wir müssen alle Intensivstationen in Deutschland auffordern, auf jeden Fall von der frühen Intubation und künstlichen Beatmung dieser Patienten abzusehen. Wir haben inzwischen so viele Daten, wie hoch die Sterblichkeit ist, wenn wir intubieren, und wenn wir nicht intubieren und die anderen Verfahren anwenden. Einige meiner Kollegen sagen, es sei geradezu ein Kunstfehler, die Menschen früh zu intubieren.....
+
+Ich möchte helfen und hoffe, dass ich das konnte!
+
+https://www.globalresearch.ca/the-second-wave-destroying-peoples-lives-global-coup-detat/5728207
+Deutsche Übersetzung: https://www.rubikon.news/artikel/der-globale-staatsstreich
+
+https://www.timesofisrael.com/top-israeli-prof-claims-simple-stats-show-virus-plays-itself-out-after-70-days/
+
 *** Schweiz
 
 - 4.11.2020 [[https://www.nzz.ch/schweiz/corona-laut-bag-sind-die-intensivstationen-in-fuenf-tagen-besetzt-ld.1585045?reduced=true][Laut BAG sind die Intensivstationen in fünf Tagen besetzt – doch
@@ -1958,4 +2137,3 @@ Corona-Strategie]]
   Corona-Strategie]]
 
 #+END_COMMENT
-
