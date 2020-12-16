@@ -670,6 +670,14 @@ Papst selbst hat am 4.11. dazu aufgerufen, auf die Vorschriften der Behörden
 streng zu achten, "seien es politische oder Gesundheitsbehörden. Wir müssen
 uns vor der Pandemie schützen“. ([[https://volksblatt.at/coronavirus-papst-ruft-zu-einhaltung-der-anti-covid-massnahmen-auf][Artikel Volksblatt]], [[https://www.youtube.com/watch?v=D6PZX3uD8RQ][Video]])
 
+**** 2020-08-29 United Health Professionals
+TODO
+
+- https://corona-transition.org/united-health-professionals-publizieren-internationalen-alarmruf
+- https://covidinfos.net/covid19/stop-manipulations-masques-mensonges-un-collectif-international-de-professionnels-de-sante-denonce-des-mesures-folles-et-disproportionnees/1815/
+- https://peds-ansichten.de/2020/10/united-health-professionals-offener-brief-diktatur
+- https://www.europereloaded.com/united-health-professionals-get-their-own-youtube-channel
+- https://www.presse.online/2020/11/05/aerzte-aus-aller-welt-schlagen-alarm
 
 **** 2020-09-05 Doktoren für offene Debatte (Belgien)
 
@@ -815,6 +823,18 @@ Calls Corona epidemic a global Coup d'etat by Big Data and other companies led
 by Bill Gates.
 
 ** Die Maßnahmen
+
+*** Prämisse: Das Virus ausrotten
+
+TODO: translate
+
+every human carries around 3 Kg of viruses, bacteria and fungi. We are actually a symbiotic lifeform. Viruses can survive in our bodies with low prevalence and are constantly kept down by the immune system. They are often not totally eliminated.
+That is also the reason why there is something like a cold, which is a virus infection but it gets triggered by stress (e.g. too low temperature). The body just lost control over some viruses.
+This kind of scenario is called an opportunistic infection: https://en.wikipedia.org/wiki/Opportunistic_infection
+
+So you can make people ill without actually spreading a virus. You just need to stress them enough.
+
+On the other hand this makes it hard to fully eliminate any virus. It takes years or even generations. Humanity only managed once to fully eliminate one: Smallpox.
 
 *** Ignorieren von Gerichtsurteilen
 
@@ -1170,6 +1190,9 @@ people and facial cues of sickness]].
   asymptomatische Übertragung.
 - 1.12.2020, bmj: [[https://www.bmj.com/content/371/bmj.m4695][Covid-19: Asymptomatic cases may not be infectious, Wuhan
   study indicates]]
+- 14.12.2020, JAMA: [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774102][Household Transmission of SARS-CoV-2]] - Asymptomatische
+  Testpositive können selbst in Haushalten nicht signifikant als Ursache von
+  Infektionen identifiziert werden.
 
 * Ist es eine Pandemie?
 ** Letalität von Covid-19
@@ -1808,6 +1831,7 @@ mag von Tag zu Tage leben.
 - [[https://lehrer-fuer-aufklaerung.de][Lehrer für Aufklärung]]
 - [[https://unternehmer-stehen-auf.de][Unternehmer stehen auf]] (Plakat "Hier sind auch Menschen ohne Maske
   willkommen")
+- [[https://www.freidenken.org][Freidenken]]
 
 *** Österreich
 
@@ -1841,6 +1865,7 @@ mag von Tag zu Tage leben.
 - https://lockdownsceptics.org (Englisch)
 - [[https://www.infosperber.ch/Dossier/Coronavirus-Hysterie-oder-Gefahr][Infosperber Coronavirus Dossier]]
 - [[https://uncut-news.ch][Uncut News]] - Schweiz, deutschsprachig
+- [[https://www.dieostschweiz.ch][Die Ostschweiz]]
 
 ** Medizin
 
@@ -1933,6 +1958,8 @@ Bundesverfassungsgericht anzurufen.
   S.). [[https://de.wikipedia.org/wiki/Corona_Fehlalarm%3F][Wikipedia]] (Spiegel Bestseller)
 - Clemens G. Arvay: Wir können es besser (Spiegel-Bestseller)
 - Wolfgang Kubicki: Meinungsunfreiheit (Spiegel-Bestseller)
+- Albrecht Müller: [[https://www.westendverlag.de/buch/die-im-dunkeln-sieht-man-nicht][70 Zeitzeugen zu den missachteten Folgen der Corona-Politik]]
+  - Rezension: [[https://www.freitag.de/autoren/asansoerpress35/die-im-dunkeln-sieht-man-nicht][Die im Dunkeln sieht man nicht]], freitag.de, 14.12.2020
 
 * Lustiges, Schönes, Ermutigendes
 
@@ -1950,6 +1977,7 @@ Kabarett:
 - [[https://www.marcorima.ch][Marco Rima]], z.B. Lichterlöschen [[https://www.youtube.com/watch?v=RME8wDdjnSg][1]], [[https://www.youtube.com/watch?v=Dgy_ls_z3eU][2]]
 - Monika Gruber am 26. November 2020 | Nuhr im Ersten [[https://www.youtube.com/watch?v=PVSfry4fTEI][YT]]
 - Michl Müller, Michael Hatzius & die Echse über den Impfstoff [[https://www.youtube.com/watch?v=lH2BP6kJlbA][YT]]
+- Lisa Fitz über Verschwörungstheorien | SWR Spätschicht [[https://www.youtube.com/watch?v=mGZuCyw1QCU][YT]]
 
 Sonstige Videos:
 
@@ -1964,6 +1992,7 @@ Musik:
 - Alex Olivari „Deutschland zeig Dein Gesicht“ [[https://www.youtube.com/watch?v=QjiGOsheUn4][YT]]
 - Helden unserer Jugend (Alex Olivari) [[https://www.youtube.com/watch?v=pLQN8pj3m-4][YT]]
 - WIR SIND SOVIEL MEHR - DIE FRIEDENS-HYMNE 2020 [[https://www.youtube.com/watch?v=vtSvnlliwsk][YT]]
+- No More Lockdown - Van Morrison [[https://www.youtube.com/watch?v=yUOWS7arfw4][YT]] [[https://genius.com/Van-morrison-no-more-lockdown-lyrics][Text]] [[https://www.rnd.de/kultur/van-morrison-bringt-corona-protestsongs-raus-schluss-mit-lockdown-PJNUX2FQVG2CZIKIORVRB4FK3I.html][Bericht]]
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
