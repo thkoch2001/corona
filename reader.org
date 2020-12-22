@@ -538,7 +538,7 @@ renomierte Experten aus den wichtigsten Fachbereichen zum Thema Corona.
     und ehemaliger Direktor des Instituts für Immunologie der Universität Bern
 29. [[https://de.wikipedia.org/wiki/Hendrik_Streeck][Prof. Dr. Hendrik Streeck]] - Professor für Virologie und Direktor des
     Institutes für Virologie und HIV-Forschung an der Medizinischen Fakultät
-    der Universität Bonn
+    der Universität Bonn [[https://telegra.ph/Prof-Streeck-und-seine-wirren-Corona-Thesen-09-19][TODO]] - Streeck gehört nicht in diese Liste.
 30. [[https://de.wikipedia.org/wiki/Anders_Tegnell][Dr. Anders Tegnell]] - Staatsepidemiologe der schwedischen Behörde für
     öffentliche Gesundheit
 31. [[https://de.wikipedia.org/wiki/Pietro_Vernazza][Prof. Dr. med. Pietro Vernazza]] - Chefarzt der Infektiologie beim
@@ -670,6 +670,9 @@ Papst selbst hat am 4.11. dazu aufgerufen, auf die Vorschriften der Behörden
 streng zu achten, "seien es politische oder Gesundheitsbehörden. Wir müssen
 uns vor der Pandemie schützen“. ([[https://volksblatt.at/coronavirus-papst-ruft-zu-einhaltung-der-anti-covid-massnahmen-auf][Artikel Volksblatt]], [[https://www.youtube.com/watch?v=D6PZX3uD8RQ][Video]])
 
+Ein [[https://www.lifesitenews.com/images/pdfs/Open_Letter_to_POTUS.pdf][zweiter Brief von Carlo Maria Viganò]] an Trump wurde datiert vom
+25.10.2020.
+
 **** 2020-08-29 United Health Professionals
 TODO
 
@@ -746,6 +749,12 @@ Recht und Gesetz durch Corona-Maßnahmen. [[https://www.youtube.com/watch?v=6Y67
 Die Sprecherin im Video ist die Rechtsanwältin Beate Bahner, die im April
 bereits gegen die Corona Maßnahmen geklagt hat und deswegen in die Psychatrie
 zwangseingewießen wurde. ([[https://www.lto.de/recht/hintergruende/h/rechtsanwaeltin-bahner-heidelberg-corona-skepsis-grdunrechte-psychiatrie-verschwoerung][Artikel]])
+
+**** 2020-11-09 Offener Brief von Ärzte stehen auf
+
+https://www.unzensuriert.at/wp-content/uploads/2020/12/Offenen-Brief.pdf
+
+Bericht: https://www.unzensuriert.at/content/118340-aerzte-stehen-auf-gegen-kanzlerin-merkel-und-gleichgeschaltete-medien/
 
 ** Prominente Kritiker, aber keine Experten
 
@@ -1020,7 +1029,11 @@ Maßnahmen ausgelöst wird.
 Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=67088][Risiken und Nebenwirkungen, aber keine Packungsbeilage. Die
 Corona-Eindämmung droht mehr Leid zu verursachen, als sie verhindert.]]
 
-SRF, 21.11.2020: [[https://www.srf.ch/news/schweiz/belastende-coronakrise-auffallend-mehr-notfaelle-in-kinder-und-jugendpsychiatrien][Auffallend mehr Notfälle in Kinder- und Jugendpsychiatrien]]
+- SRF, 21.11.2020: [[https://www.srf.ch/news/schweiz/belastende-coronakrise-auffallend-mehr-notfaelle-in-kinder-und-jugendpsychiatrien][Auffallend mehr Notfälle in Kinder- und Jugendpsychiatrien]]
+- FAZ, 17.12.2020: [[https://zeitung.faz.net/faz/deutschland-und-die-welt/2020-12-17/412958d722ed1f91313ab452da1bf47d][Depressionen mit der zweiten Welle]] - Immer mehr Menschen
+  begeben sich wegen der Corona-Krise und des Lockdowns nun in psychologische
+  Behandlung.
+
 
 *** Tote in Entwicklungsländern
 
@@ -1155,6 +1168,8 @@ systematic review]] - Es ist anzunehmen, dass PCR-Tests mit mehr als 24 Zyklen
 3790 Quantitative Polymerase Chain Reaction–Positives Samples and Positive
 Cell Cultures, Including 1941 Severe Acute Respiratory Syndrome Coronavirus 2
 Isolates]]
+
+Video: [[https://www.youtube.com/watch?v=k7HRQRNCQiI][Der PCR Test, die Basics]]
 
 ** Asymptomatische Übertragung
 
@@ -1832,6 +1847,14 @@ mag von Tag zu Tage leben.
 - [[https://unternehmer-stehen-auf.de][Unternehmer stehen auf]] (Plakat "Hier sind auch Menschen ohne Maske
   willkommen")
 - [[https://www.freidenken.org][Freidenken]]
+- [[https://christen-im-widerstand.de][Christen im Widerstand]]
+- [[http://www.neustart-deutschland.de][Neustart Deutschland]]
+- [[https://vereinnpolifa.org][Polizisten für Aufklärung e.V.]]
+
+*** Großbrittanien
+
+- https://usforthem.co.uk
+- https://www.usforthemunion.com
 
 *** Österreich
 
@@ -1847,6 +1870,8 @@ mag von Tag zu Tage leben.
 - https://aletheia-scimed.ch
 - https://www.gemeinsam-schweiz.ch
 - https://www.friedenskraft.ch
+- https://wir2020.ch
+- https://www.comm4u.ch
 
 *** Spanien
 
@@ -1866,6 +1891,7 @@ mag von Tag zu Tage leben.
 - [[https://www.infosperber.ch/Dossier/Coronavirus-Hysterie-oder-Gefahr][Infosperber Coronavirus Dossier]]
 - [[https://uncut-news.ch][Uncut News]] - Schweiz, deutschsprachig
 - [[https://www.dieostschweiz.ch][Die Ostschweiz]]
+- [[https://corona-transition.org][Corona Transition]]
 
 ** Medizin
 
@@ -1895,6 +1921,8 @@ mag von Tag zu Tage leben.
   Robert-Koch-Instituts
 - [[https://www.initiative-qualitaetsmedizin.de/covid-19-pandemie][Initiative Qualitätsmedizin]] - mit eindeutigen Beweisen, dass es in
   Deutschland 2020 keine Pandemie gab, z.B. Vergleich der Jahre 2019 und 2020
+- [[https://flensburg-fuer-grundrechte.de/covid-19-dashboard/][Covid 19 Dashboard]] der Initiative Flensburg für Grundrechte, setzt Covid-19
+  Zahlen in Relation
 
 ** Alternative Medien
 
@@ -1922,6 +1950,11 @@ mag von Tag zu Tage leben.
 Der Freitag, 2.11.2020: [[https://www.freitag.de/autoren/der-freitag/wir-koennen-einpacken?][„Wir können einpacken!“]] - "Die Corona-Pandemie hängt
 eng mit dem Kapitalismus, der Agrar-Industrie und dem Raubbau an der Natur
 zusammen, sagt der Epidemiologe und Biologe Rob Wallace"
+
+** Totalitarismus
+
+- https://multipolar-magazin.de/artikel/politische-angst-damals-und-heute
+- https://www.rubikon.news/artikel/der-krieg-der-reichen
 
 ** Verdächtige plötzliche Todesfälle
 
@@ -1960,6 +1993,7 @@ Bundesverfassungsgericht anzurufen.
 - Wolfgang Kubicki: Meinungsunfreiheit (Spiegel-Bestseller)
 - Albrecht Müller: [[https://www.westendverlag.de/buch/die-im-dunkeln-sieht-man-nicht][70 Zeitzeugen zu den missachteten Folgen der Corona-Politik]]
   - Rezension: [[https://www.freitag.de/autoren/asansoerpress35/die-im-dunkeln-sieht-man-nicht][Die im Dunkeln sieht man nicht]], freitag.de, 14.12.2020
+- Walter van Rossum: [[https://www.buchkomplizen.de/buecher-mehr/meine-pandemie-mit-professor-drosten-oxid.html][Meine Pandemie mit Professor Drosten]]
 
 * Lustiges, Schönes, Ermutigendes
 
@@ -1978,6 +2012,8 @@ Kabarett:
 - Monika Gruber am 26. November 2020 | Nuhr im Ersten [[https://www.youtube.com/watch?v=PVSfry4fTEI][YT]]
 - Michl Müller, Michael Hatzius & die Echse über den Impfstoff [[https://www.youtube.com/watch?v=lH2BP6kJlbA][YT]]
 - Lisa Fitz über Verschwörungstheorien | SWR Spätschicht [[https://www.youtube.com/watch?v=mGZuCyw1QCU][YT]]
+- Die Echse erzählt ein Wintermärchen (2020) [[https://www.youtube.com/watch?v=TdZX7Z3b7Dw][YT]]
+- Lauterbach, Wendler, Trump: Richlings Lockdown-Wahnsinn | Die Mathias Richling Show [[https://www.swrfernsehen.de/die-mathias-richling-show/lauterbach-wendler-trump-richlings-lockdown-wahnsinn-100.html][SWR]]
 
 Sonstige Videos:
 
@@ -1993,9 +2029,20 @@ Musik:
 - Helden unserer Jugend (Alex Olivari) [[https://www.youtube.com/watch?v=pLQN8pj3m-4][YT]]
 - WIR SIND SOVIEL MEHR - DIE FRIEDENS-HYMNE 2020 [[https://www.youtube.com/watch?v=vtSvnlliwsk][YT]]
 - No More Lockdown - Van Morrison [[https://www.youtube.com/watch?v=yUOWS7arfw4][YT]] [[https://genius.com/Van-morrison-no-more-lockdown-lyrics][Text]] [[https://www.rnd.de/kultur/van-morrison-bringt-corona-protestsongs-raus-schluss-mit-lockdown-PJNUX2FQVG2CZIKIORVRB4FK3I.html][Bericht]]
+- "Matthias Reim" - Verdammt ich impf mich [[https://www.youtube.com/watch?v=pABEK6t2Ad8][YT]]
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
+
+Gestern wurde ich im Geschäft gefragt, wo meine Maske sei.  Ich antwortete:
+Ich brauche keine. Ich bin schon immun. Denn ich gehöre zu den Freiwilligen,
+die Nachts die Leichenberge wegräumen.
+
+Stell dir eine Impfung vor, die so sicher ist, dass du gezwungen werden musst,
+sie zu nehmen. Gegen eine Krankheit, die so tödlich ist, dass du getestet
+werden musst, um überhaupt zu wissen, dass du sie hast.
+
+Positiv an 2020 ist: Seit März ist niemand mehr an Altersschwäche verstorben.
 
 Die [[https://biontech.de/connect][Adresse der Firma Biontech]], die auch an einem Impfstoff arbeitet, ist
 tatsächlich "An der Goldgrube 12" in Mainz.
@@ -2140,6 +2187,90 @@ https://www.globalresearch.ca/the-second-wave-destroying-peoples-lives-global-co
 Deutsche Übersetzung: https://www.rubikon.news/artikel/der-globale-staatsstreich
 
 https://www.timesofisrael.com/top-israeli-prof-claims-simple-stats-show-virus-plays-itself-out-after-70-days/
+
+https://sciencefiles.org/2020/12/16/offentlich-rechtliche-krisengeilheit-deutsche-studie-zeigt-wie-ard-und-zdf-covid-19-inszenieren/
+
+https://www.rubikon.news/artikel/intellektuelle-bankrotterklarung
+
+https://www.rubikon.news/artikel/auf-hauchdunnem-eis
+
+https://corona-transition.org/exposition-statt-isolation - Isolation schwächt Immunsystem
+
+*** Normalfall Krankenhausüberlastung
+
+“In Sachsen werden die Betten auf den Intensivstationen knapp, das Personal arbeitet über das Limit hinaus. Dass wir solche Schlagzeilen nicht von Grippe-Wellen kennen, dürfte schon ein Hinweis darauf sein, dass Covid-19 und die Influenza sich nur schwer vergleichen lassen.“
+
+https://www.mdr.de/wissen/corona-covid-sterblichkeit-grippe-faktencheck-100.html
+
+Stand: 17. Dezember 2020, 13:00 Uhr
+
+Ein kleiner Vergleich der letzten Jahre...
+
+2015
+
+:bangbang:Grippewelle : Am Rande der Erschöpfung
+
+“Die Influenza wütet in diesem Jahr besonders heftig. Zahlreiche Notaufnahmen sind überlaufen. Dienst nach Vorschrift können sich die Ärzte und Pfleger im Frankfurter Nordwestkrankenhaus nicht mehr leisten.“
+
+https://www.faz.net/aktuell/gesellschaft/gesundheit/notaufnahmen-sind-wegen-grippewelle-ueberlaufen-13454864.html
+
+:bangbang:Grippewelle: Krankenhäuser überlastet
+
+https://www.pharmazeutische-zeitung.de/2015-02/grippewelle-krankenhaeuser-ueberlastet/
+
+2017
+
+:bangbang:Grippewelle sorgt für überlastete Kliniken
+
+„München/Nürnberg – Nachdem die Grippewelle in Frankreich bereits für eine Überlas­tung der Krankenhäuser und zu verschobenen Operationen geführt hat, scheint die Grippewelle nun auch die ersten Kliniken in Deutschland zu treffen. Bereits gestern hatte das Städtische Krankenhaus in Gör­litz Patienten vorerst abweisen müssen. Nun klagen die Notaufnahmen mehrer Kliniken in Nürnberg und München über Überlastung.“
+
+https://www.aerzteblatt.de/nachrichten/72938/Grippewelle-sorgt-fuer-ueberlastete-Kliniken
+
+:bangbang:Kliniken schließen wegen Überlastung ihre Notaufnahmen
+
+https://www.welt.de/regionales/bayern/article161869919/Kliniken-schliessen-wegen-Ueberlastung-ihre-Notaufnahmen.html
+
+:bangbang:Grippepatienten landen auf der Intensivstation
+
+„Die Grippewelle hat auch das Land und die Region Stuttgart erfasst. Häufig ist der Krankheitsverlauf schwerwiegend. Insbesondere ältere Menschen müssen wegen einer Influenza sogar auf der Intensivstation versorgt werden. Dort gerät man immer wieder an die Kapazitätsgrenze.“
+
+https://www.stuttgarter-nachrichten.de/inhalt.influenza-grippepatienten-landen-auf-der-intensivstation.f3575639-eafd-4462-9ad1-aea973b30d7d.html
+
+2018
+
+:bangbang:Intensivstationen meldeten: Nichts geht mehr!
+
+https://www.ruhrnachrichten.de/dortmund/intensivstationen-meldeten-nichts-geht-mehr-1269870.html
+
+:bangbang:Grippe überfordert Krankenhäuser: Influenza-Patienten liegen auf den Fluren
+
+https://www.wunderweib.de/grippe-ueberfordert-krankenhaeuser-influenza-patienten-liegen-auf-den-fluren-102760.html
+
+
+:bangbang:Grippewelle: Krankenhäuser stoßen an Kapazitätsgrenzen
+Viele Pflegekräfte krank - Intensivbetten gefragt
+
+https://www.klinikum-bad-hersfeld.de/upload/files/aktuelles/aktuelles2018/Grippewelle_hz15.3.18.pdf
+
+:bangbang:Grippewelle trifft USA härter als Europa
+
+"In Kalifornien werden Patienten in Zelten isoliert, weil dort aggressive Influenzaviren kursieren. Ob Europa Ähnliches bevorsteht, ist offen."
+
+https://www.tagesspiegel.de/wissen/saisonale-influenza-grippewelle-trifft-usa-haerter-als-europa/20912844.html
+
+Kinderarzt Eugen Janzen, Maskentests https://www.kinderarzteugenjanzen.com
+
+*** 2020-11-30 UN und WEF gegen Desinformation
+
+https://www.lifesitenews.com/news/un-enlists-110000-volunteers-to-push-approved-covid-19-information-online
+
+https://www.weforum.org/agenda/2020/11/misinformation-infodemic-world-vs-virus-podcast/
+
+https://news.un.org/en/story/2020/10/1075742
+
+https://www.un.org/sites/un2.un.org/files/un_verified_pause_press_release_201020.pdf
+
+https://www.un.org/en/coronavirus/%E2%80%98verified%E2%80%99-initiative-aims-flood-digital-space-facts-amid-covid-19-crisis
 
 *** Schweiz
 
