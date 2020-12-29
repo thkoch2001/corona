@@ -320,6 +320,13 @@ Faktencheckern zusammen. Die Faktenchecker orientieren sich an NewsGuard. Am
 Ende benutzen dann Journalisten die Wikipedia als Informationsquelle und Leser
 bekommen von Google die Wikipedia als erstes Suchergebnis präsentiert.
 
+*** Jens Spahn
+
+"Hartz IV bedeutet keine Armut", 2018
+
+22.12.2020, Stern: [[https://www.stern.de/politik/deutschland/jens-spahn-hat-mehr-immobilien-als-bisher-bekannt-9542138.html][Jens Spahn besitzt mehr Immobilien in Berlin als bisher
+bekannt]]
+
 ** Art der Kommunikation
 
 - Diffamierung
@@ -457,6 +464,9 @@ https://www.ckb-anwaelte.de/corona-update-17-august-2020
 Das Österreichische Verfassungsgericht hat die Corona-Verordnungen für
 ungültig erklärt, weil nicht ersichtlich war, auf welcher Basis die Maßnahmen
 beschlossen wurden.
+
+27.12.2020, Reitschuster: [[https://reitschuster.de/post/verfassungsgericht-maskenpflicht-an-schulen-war-gesetzwidrig][Verfassungsgericht: Maskenpflicht an Schulen war
+gesetzwidrig]]
 
 [[https://bastian-barucker.de/corona-petition][Eine Petition für eine offene Diskussion]] in der ARD wird von [[https://www.youtube.com/watch?v=V9wnWI2TavM][Jörg Schönenborn]]
 abgelehnt ([[https://www.nachdenkseiten.de/?p=67692#h02][NDS]]).
@@ -882,6 +892,10 @@ Evidenz zur Wirksamkeit von Lockdowns verveisen: [[https://deutsch.rt.com/inland
 2.12.2020, airlines.de: [[https://www.airliners.de/eu-behoerden-halten-reisebeschraenkungen-weitgehend-sinnlos/58478][EU-Behörden halten Reisebeschränkungen für weitgehend
 sinnlos]]
 
+10.12.2020, medRxiv: [[https://www.medrxiv.org/content/10.1101/2020.07.22.20160341v3][Effects of non-pharmaceutical interventions on COVID-19:
+A Tale of Three Models]] - Lockdowns haben keinen Effekt auf das
+Infektionsgeschehen.
+
 *** Maskenpflicht
 
 Es gibt große Variationen in der Wirksamkeit zwischen Stoffmasken und
@@ -1029,11 +1043,15 @@ Maßnahmen ausgelöst wird.
 Nachdenkseiten: [[https://www.nachdenkseiten.de/?p=67088][Risiken und Nebenwirkungen, aber keine Packungsbeilage. Die
 Corona-Eindämmung droht mehr Leid zu verursachen, als sie verhindert.]]
 
+Weihnachtsbotschaft von Betty Wiedemann 97 Jahre alt: Was Sie von den
+Corona-Maßnahmen hält [[https://www.youtube.com/watch?v=Mlz2sRwz-bU][YT]].
+
+*** Psychologische Folgen
+
 - SRF, 21.11.2020: [[https://www.srf.ch/news/schweiz/belastende-coronakrise-auffallend-mehr-notfaelle-in-kinder-und-jugendpsychiatrien][Auffallend mehr Notfälle in Kinder- und Jugendpsychiatrien]]
 - FAZ, 17.12.2020: [[https://zeitung.faz.net/faz/deutschland-und-die-welt/2020-12-17/412958d722ed1f91313ab452da1bf47d][Depressionen mit der zweiten Welle]] - Immer mehr Menschen
   begeben sich wegen der Corona-Krise und des Lockdowns nun in psychologische
   Behandlung.
-
 
 *** Tote in Entwicklungsländern
 
@@ -1208,6 +1226,8 @@ people and facial cues of sickness]].
 - 14.12.2020, JAMA: [[https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774102][Household Transmission of SARS-CoV-2]] - Asymptomatische
   Testpositive können selbst in Haushalten nicht signifikant als Ursache von
   Infektionen identifiziert werden.
+- 21.12.2020, BMJ: [[https://www.bmj.com/content/371/bmj.m4851][Asymptomatic transmission of covid-19]] - Es gibt immer noch
+  keine Evidenz für asymptomatische Übertragung.
 
 * Ist es eine Pandemie?
 ** Letalität von Covid-19
@@ -1274,6 +1294,9 @@ https://www.bsnews.it/2020/01/18/meningite-vaccinate-34mila-persone-tra-brescia-
 
 *** Schweden
 
+Schweden hatte [[https://www.statista.com/statistics/525353/sweden-number-of-deaths/][2020 keine Übersterblichkeit]] obwohl nur minimale Maßnahmen
+getroffen wurden.
+
 - https://www.heise.de/tp/features/Macht-es-noch-einmal-Schweden-4944159.html
 - https://sebastianrushworth.com/2020/10/31/a-history-of-the-swedish-covid-response
 - https://www.nachdenkseiten.de/?p=66378
@@ -1324,6 +1347,10 @@ stehen. So seien die abschließenden Zahlen des Jahres 2019 erst im April 2020
 festgesetzt worden und hätten auch dann noch auf Schätzungen beruht.
 
 #+BEGIN_COMMENT
+
+Nord- vs. Süd-Dakota
+https://twitter.com/holmenkollin/status/1340583769246490624
+
 - US-Staaten, in denen Behandlung mit Hydroxychloroquin untersagt wurde:
   ([[https://www.nashp.org/wp-content/uploads/2020/03/State-covid-drug-chart-3-27-2020.pdf][National Academy for State Health Policy]]): New York, Nevada, Ohio, Idaho,
   Kentucky, North Carolina, Texas. In Louisiana, Kansas und Missouri wurde
@@ -1597,6 +1624,10 @@ Gehirn seinen Überwachungschip]]
 
 ** Wie kann es sein, dass alle mitmachen?
 
+Paul Schreyer erklärt in einem Vortrag die vielen Vorübungen für die Pandemie
+und die Netzwerke: [[https://www.youtube.com/watch?v=SSnJhHOU_28][Paul Schreyer: Pandemie-Planspiele – Vorbereitung einer
+neuen Ära?]]
+
 Weil alle dabei sind, auch die sogenannte "Opposition":
 
 - Die Grünen-Vorsitzende Annalena Baerbook ist Mitglied im “Young Global
@@ -1850,11 +1881,14 @@ mag von Tag zu Tage leben.
 - [[https://christen-im-widerstand.de][Christen im Widerstand]]
 - [[http://www.neustart-deutschland.de][Neustart Deutschland]]
 - [[https://vereinnpolifa.org][Polizisten für Aufklärung e.V.]]
+- [[https://www.mfmr.de][Ministerium für Menschenrechte]]
+- [[https://1bis19.de][1bis19]] - Für Grundrechte und Rechtsstaat
 
 *** Großbrittanien
 
 - https://usforthem.co.uk
 - https://www.usforthemunion.com
+- https://pcrclaims.co.uk
 
 *** Österreich
 
@@ -1872,6 +1906,7 @@ mag von Tag zu Tage leben.
 - https://www.friedenskraft.ch
 - https://wir2020.ch
 - https://www.comm4u.ch
+- https://verein-itus.ch
 
 *** Spanien
 
@@ -1892,6 +1927,7 @@ mag von Tag zu Tage leben.
 - [[https://uncut-news.ch][Uncut News]] - Schweiz, deutschsprachig
 - [[https://www.dieostschweiz.ch][Die Ostschweiz]]
 - [[https://corona-transition.org][Corona Transition]]
+- https://www.frischesicht.de
 
 ** Medizin
 
@@ -1901,6 +1937,7 @@ mag von Tag zu Tage leben.
 - [[https://worlddoctorsalliance.com][World Doctors Alliance]]
 - [[https://acu2020.org][Außerparlamentarischer Corona Untersuchungsausschuss]]
 - [[https://www.mwgfd.de][Mediziner und Wissenschaftler für Gesundheit, Freiheit und Demokratie, e.V.]]
+- [[https://aerzte-stehen-auf.de][Ärzte stehen auf]]
 
 ** Recht
 
@@ -1923,6 +1960,7 @@ mag von Tag zu Tage leben.
   Deutschland 2020 keine Pandemie gab, z.B. Vergleich der Jahre 2019 und 2020
 - [[https://flensburg-fuer-grundrechte.de/covid-19-dashboard/][Covid 19 Dashboard]] der Initiative Flensburg für Grundrechte, setzt Covid-19
   Zahlen in Relation
+- Tagesaktuelle [[https://www.helios-gesundheit.de/qualitaet/auslastung][Auslastung der Helios Kliniken]]
 
 ** Alternative Medien
 
@@ -1985,6 +2023,8 @@ Bundesverfassungsgericht anzurufen.
 - Paul Schreyer: [[https://www.westendverlag.de/buch/chronik-einer-angekuendigten-krise][Chronik einer angekündigten Krise]] (Spiegel-Bestseller)
   - Rezension: [[https://www.freitag.de/autoren/michael-jaeger/drehbuecher-zum-corona-diskurs][Drehbücher zum Corona-Diskurs]], Michael Jäger, freitag.de,
     12.11.2020
+  - Vortrag von Paul Schreyer: Pandemie-Planspiele – Vorbereitung einer neuen
+    Ära? [[https://www.youtube.com/watch?v=SSnJhHOU_28][YT]]
 - [[https://mediashop.at/buecher/lockdown-2020][Lockdown 2020]], Besprechung [[https://www.nachdenkseiten.de/?p=65867][Nachdenkseiten]], [[https://www.nachdenkseiten.de/?p=65968][Interview]]
 - Karina Reiß und Sucharit Bhakdi: Corona Fehlalarm? Daten, Fakten,
   Hintergründe. Goldegg Verlag, Berlin/Wien 2020, ISBN 978-3-99060-191-4 (159
@@ -2030,6 +2070,8 @@ Musik:
 - WIR SIND SOVIEL MEHR - DIE FRIEDENS-HYMNE 2020 [[https://www.youtube.com/watch?v=vtSvnlliwsk][YT]]
 - No More Lockdown - Van Morrison [[https://www.youtube.com/watch?v=yUOWS7arfw4][YT]] [[https://genius.com/Van-morrison-no-more-lockdown-lyrics][Text]] [[https://www.rnd.de/kultur/van-morrison-bringt-corona-protestsongs-raus-schluss-mit-lockdown-PJNUX2FQVG2CZIKIORVRB4FK3I.html][Bericht]]
 - "Matthias Reim" - Verdammt ich impf mich [[https://www.youtube.com/watch?v=pABEK6t2Ad8][YT]]
+- Eric Clapton - "Stand and Deliver" [[https://www.youtube.com/watch?v=L3LXBbSPbm0][YT]]
+- VITA - ALS OB [[https://www.youtube.com/watch?v=taro0Syj_X0][YT]]
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
@@ -2195,6 +2237,14 @@ https://www.rubikon.news/artikel/intellektuelle-bankrotterklarung
 https://www.rubikon.news/artikel/auf-hauchdunnem-eis
 
 https://corona-transition.org/exposition-statt-isolation - Isolation schwächt Immunsystem
+
+https://harald-walach.de/22-epidemiologie-und-infektiologie-fallstricke-der-nackten-zahlen/
+
+https://www.youtube.com/watch?v=qkalMUBjezo Dr. Eugen Drewermann: "Aufstehen gegen Hass!" Ein Appell in Zeiten von Corona - Gesundheitstage GGB
+
+https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/maq.12599
+
+https://twitter.com/holmenkollin Corona Realism
 
 *** Normalfall Krankenhausüberlastung
 
