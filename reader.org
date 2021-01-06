@@ -241,6 +241,8 @@ noch ein Klick, um "Zuwendungen nach Jahren" aufzuklappen, die Hauptgeldgeber:
 [[https://meinungsfreiheit.steinhoefel.de/2020/10/29/fall-35-achse-des-guten-triumphiert-ueber-correctiv-oberlandesgericht-karlsruhe-untersagt-rechtswidrigen-faktencheck][Fall 35: „Achse des Guten“ triumphiert über Correctiv: Oberlandesgericht
 Karlsruhe untersagt rechtswidrigen „Faktencheck“]]
 
+2.1.2021: [[https://www.corodok.de/wie-finanzierung-fakten][Wie war das noch… mit der Finanzierung der "Fakten-Checker"]]
+
 *** Bill Gates
 
 - 2016-01-31, Telepolis: [[https://www.heise.de/tp/features/Bill-Gates-zwischen-Schein-und-Sein-3378037.html][Bill Gates zwischen Schein und Sein]]
@@ -1746,7 +1748,8 @@ einen Platz beim Great Reset sichern anstatt ihn anzuführen?
   https://www.diepresse.com/5888372/200-millionen-euro-von-google-fur-journalismus-in-europa
   "Inzwischen ist die News Initiative sogar ein weltweites Unterfangen,
   ausgestattet mit weiteren 300 Millionen Dollar."
-  https://netzpolitik.org/2020/wie-der-datenkonzern-den-journalismus-umgarnt/
+  https://netzpolitik.org/2020/wie-der-datenkonzern-den-journalismus-umgarnt
+- [[https://www.unzensuriert.at/content/119546-1-milliarde-euro-fuer-die-medien][1 Milliarde Euro für die Medien – täglich 2,7 Millionen]] in Österreich
 
 Medien versagen regelmäßig bei entscheidenden Themen:
 
@@ -1862,12 +1865,13 @@ mag von Tag zu Tage leben.
   geleugnet werden kann. Die inzwischen offensichtlichen kriminellen
   Hintergründe werden nicht einmal angedeutet.
 - https://www.corodok.de
+- https://www.martin-hirte.de/coronavirus
+- https://maskenpflichtkarte.wordpress.com
 
 ** Organisierter Widerstand, Gruppen, Petitionen, Initiativen
 
 *** Deutschland
 
-- Bayern: [[https://buendnis-landtag-abberufen.de][Bündnis Landtag abberufen]]
 - [[https://elternstehenauf.de][Eltern stehen auf]]
 - [[https://www.kritische-polizisten.de][Bundesarbeitsgemeinschaft kritischer PolizistInnen]]
 - [[https://t.me/StudentenStehenAuf][Studenten stehen auf]]
@@ -1883,6 +1887,16 @@ mag von Tag zu Tage leben.
 - [[https://vereinnpolifa.org][Polizisten für Aufklärung e.V.]]
 - [[https://www.mfmr.de][Ministerium für Menschenrechte]]
 - [[https://1bis19.de][1bis19]] - Für Grundrechte und Rechtsstaat
+
+*** Baden-Würtemberg
+
+- https://www.demokratischer-widerstand-ueberlingen.de
+- https://querdenken-711.de (Stuttgart)
+- https://querdenken-731.de (Ulm)
+
+*** Bayern
+
+- [[https://buendnis-landtag-abberufen.de][Bündnis Landtag abberufen]]
 
 *** Großbrittanien
 
@@ -1907,6 +1921,18 @@ mag von Tag zu Tage leben.
 - https://wir2020.ch
 - https://www.comm4u.ch
 - https://verein-itus.ch
+- https://stopreset.ch
+- https://wirklagenan.org
+- https://www.buergerforum-schweiz.com
+- https://www.lovb.ch
+- https://www.zeitpunkt.ch
+- https://fbschweiz.ch
+- https://www.aargau-zuerich.ch
+- https://www.ur-kantone.ch
+- https://www.corona-rebellen.ch
+- https://www.reaktion.org
+- https://wirsindanderermeinung.ch
+- https://unsererechte.ch
 
 *** Spanien
 
@@ -1928,6 +1954,7 @@ mag von Tag zu Tage leben.
 - [[https://www.dieostschweiz.ch][Die Ostschweiz]]
 - [[https://corona-transition.org][Corona Transition]]
 - https://www.frischesicht.de
+- https://corona-blog.net
 
 ** Medizin
 
@@ -1981,6 +2008,12 @@ mag von Tag zu Tage leben.
   Zusammenstellung. Leider sind die Quellennachweise seines Dokumentes keine
   vollständigen URLs. Der Journalist [[https://miloszmatuschek.substack.com/p/friebelwef][Milosz Matuschek unterstützt den Aufruf]]
   und bestätigt Friebel's Identität.
+
+** Kritische Blogs
+
+- https://sascha313.wordpress.com
+- https://coronahysterie.blog
+- https://rotefahne.eu
 
 * Weitere Themen
 ** Epidemien als Folge des Neoliberalismus
@@ -2054,6 +2087,7 @@ Kabarett:
 - Lisa Fitz über Verschwörungstheorien | SWR Spätschicht [[https://www.youtube.com/watch?v=mGZuCyw1QCU][YT]]
 - Die Echse erzählt ein Wintermärchen (2020) [[https://www.youtube.com/watch?v=TdZX7Z3b7Dw][YT]]
 - Lauterbach, Wendler, Trump: Richlings Lockdown-Wahnsinn | Die Mathias Richling Show [[https://www.swrfernsehen.de/die-mathias-richling-show/lauterbach-wendler-trump-richlings-lockdown-wahnsinn-100.html][SWR]]
+- Volker Pispers - Wovor haben Sie Angst - Bis neulich 2007 [[https://www.youtube.com/watch?v=aGEE5OePZxo][YT]]
 
 Sonstige Videos:
 
@@ -2072,6 +2106,7 @@ Musik:
 - "Matthias Reim" - Verdammt ich impf mich [[https://www.youtube.com/watch?v=pABEK6t2Ad8][YT]]
 - Eric Clapton - "Stand and Deliver" [[https://www.youtube.com/watch?v=L3LXBbSPbm0][YT]]
 - VITA - ALS OB [[https://www.youtube.com/watch?v=taro0Syj_X0][YT]]
+- Der Partybiker - Steh auf [[https://www.youtube.com/watch?v=eI_NywizLSk][YT]]
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
@@ -2245,6 +2280,74 @@ https://www.youtube.com/watch?v=qkalMUBjezo Dr. Eugen Drewermann: "Aufstehen geg
 https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/maq.12599
 
 https://twitter.com/holmenkollin Corona Realism
+
+Melanie Brinkmann
+https://www.facebook.com/83788386909/posts/10157302634631910/
+
+TODO: Linksammlung https://stopreset.ch/Links
+
+https://principia-scientific.com/irish-government-admits-covid-19-does-not-exist
+
+https://www.deutschlandfunkkultur.de/pandemie-und-freiheitsrechte-die-offene-gesellschaft-steht.1005.de.html?dram:article_id=488282
+
+5 Säulen des neuen Sklavensystems nach [[https://www.youtube.com/watch?v=C1-0XKYAZII][Catherine Austin Fitts]] (16:00):
+
+- Big Tech
+- Militär
+- Big Pharma
+- Medien
+- Zentralbanken
+
+TABULA RASA - TECHNOKRATEN DRÜCKEN AUF NEUSTART (FRANKREICH 2020) https://www.bitchute.com/video/6wixtOMRFY7Z
+
+Infektologen im Gespräch https://www.youtube.com/watch?v=XgAiUj40xlE
+
+https://freie-linke.de
+https://ichbinanderermeinung.de
+https://www.handelstehtzusammen.de
+
+
+
+Wie ist eigentlich das Risiko durch Sars-CoV-2 zu bewerten?
+
+Das RKI schätzt in seiner Risikobewertung  die Gefährdung für die Gesundheit der Bevölkerung in Deutschland insgesamt als sehr hoch ein.
+
+Quelle: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikobewertung.html;jsessionid=2F566EA2014AF8D049946F86FBCEF6C1.internet071?nn=2386228
+
+Aufgabe des Ausschuss für Biologische Arbeitsstoffe (ABAS) beim Bundesarbeitsministerium ist es, eine Einstufung von Biostoffen in Risikogruppen gemäß der Biostoffverordnung vorzunehmen. Es gibt vier Gefahrenklassen:
+
+Risikogruppe 1: Biostoffe, bei denen es unwahrscheinlich ist, dass sie beim Menschen eine Krankheit hervorrufen,
+
+Risikogruppe 2: Biostoffe, die eine Krankheit beim Menschen hervorrufen können und eine Gefahr für Beschäftigte darstellen könnten; eine Verbreitung in der Bevölkerung ist unwahrscheinlich; eine wirksame Vorbeugung oder Behandlung ist normalerweise möglich,
+
+Risikogruppe 3: Biostoffe, die eine schwere Krankheit beim Menschen hervorrufen und eine ernste Gefahr für Beschäftigte darstellen können; die Gefahr einer Verbreitung in der Bevölkerung kann bestehen, doch ist normalerweise eine wirksame Vorbeugung oder Behandlung möglich,
+
+Risikogruppe 4: Biostoffe, die eine schwere Krankheit beim Menschen hervorrufen und eine ernste Gefahr für Beschäftigte darstellen; die Gefahr einer Verbreitung in der Bevölkerung ist unter Umständen groß; normalerweise ist eine wirksame Vorbeugung oder Behandlung nicht möglich.
+
+Am 8.12.2020 hat die ABAS eine Einstufung des Sars-CoV-2-Erregers vorgenommen.
+Wer den Einstufungsbeschluss liest, erkennt zwischen den Zeilen, dass hier offensichtlich nicht das "gewünschte" Ergebnis herausgekommen ist. Die Arbeitsgruppe begründet nämlich nachdrücklich, warum Sars-CoV-2 "nur" in die Klasse 3 und nicht in die Klasse 4 eingestuft werden konnte:
+
+"Auch die neueren Daten bestätigen die Einstufung von SARS-CoV-2 in die Risikogruppe 3.  Eine Einstufung in Risikogruppe 4 ist aufgrund der derzeitigen Epidemiologie und Klinik der COVID-19 unter Berücksichtigung der Einstufungskriterien wissenschaftlich nicht begründbar."
+
+Quelle: https://www.baua.de/DE/Aufgaben/Geschaeftsfuehrung-von-Ausschuessen/ABAS/pdf/SARS-CoV-2.pdf?__blob=publicationFile&v=13
+
+Und wie kommt ABAS darauf?
+
+1. Schwere Verläufe der Erkrankung findet man nicht bei allen Infizierten, sondern
+überwiegend bei bestimmten Patientengruppen. Die Daten des RKI belegen, dass bundesweit 86 % der an COVID-19 verstorbenen Personen 70 Jahre und älter waren. Ihr Altersdurchschnitt liegt bei 82 Jahren.
+
+2.  Es zeigte sich weiterhin, dass fast alle Verstorbenen, wie bei der Altersgruppe zu
+erwarten, an Co-Morbiditäten wie Übergewicht, koronaren Herzerkrankungen, Asthma, COPD, Diabetes mellitus Typ 2, peripheren arteriellen oder neurodegenerativen Erkrankungen litten.
+
+3. Des Weiteren ist davon auszugehen, dass ein erheblicher Teil der SARS-CoV-2- Infizierten keine oder eine nur leichte, erkältungsähnliche Erkrankung entwickeln. Es kann folglich davon ausgegangen werden, dass ein großer Teil der SARS-CoV-2 infizierten Personen nicht oder nicht schwer erkrankt.
+
+4. Der hauptsächlich aerogenen Übertragung von SARS-CoV-2 kann zudem bei ordnungsgemäßem Gebrauch von persönlicher Schutzmaßnahmen (u.a. Atemschutz) wirkungsvoll entgegengetreten werden.
+
+Juristisch ist bei diesen Annahmen bereits die Einstufung in Klasse 3 zweifelhaft. Denn die ermittelten Tatsachen geben kaum mehr als Klasse 2 her.  Influenzaviren sind beispielsweise in Klassen 2 - 3 eingestuft, es dürfte unstreitig sein, dass diese auch schwere Erkrankungen auslösen können.
+
+Die Einstufungskriterien findet man hier. Interessant dabei auch das Glossar.
+
+ https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-450.pdf?__blob=publicationFile&v=2
 
 *** Normalfall Krankenhausüberlastung
 
