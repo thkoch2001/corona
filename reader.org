@@ -641,6 +641,19 @@ Die Leopoldina hat eine [[https://www.leopoldina.org/publikationen/detailansicht
 aussieht. Allerdings ist nicht ersichtlich, welche Meinung diese Experten
 vertreten. Die Nachdenkseiten über die [[https://www.nachdenkseiten.de/?p=60193][Leopoldina]] und [[https://www.nachdenkseiten.de/?p=60325][Leserbriefe]] dazu.
 
+6.1.2021, Reitschuster: [[https://reitschuster.de/post/nur-sechs-mediziner-berieten-regierung-zum-lockdown][Nur sechs Wissenschaftler berieten Regierung zum
+Lockdown]]:
+
+- Prof. Dr. Lothar Wieler (Präsident RKI), Tierarzt
+- Prof. Dr. Christian Drosten (Institutsdirektor für Virologie der Berliner
+  Charite), Virologe
+- Prof. Dr. Heyo Kroemer (Vorstandsvorsitzender der Berliner Charite),
+  Pharmakologe
+- Prof. Dr. Michael Meyer-Hermann (Leiter der Abteilung System Immunologie am
+  Helmholtz-Zentrum für Infektionsforschung in Braunschweig), Physiker
+- Dr. Viola Priesemann (Max-Planck-Institut Göttingen), Physikerin
+- Prof. Dr. Reinhard Berner (Uni Klinikum Dresden), Kinderarzt
+
 *** Positionspapiere, Gruppen, Verbände
 
 TODO: [[https://de.wikipedia.org/wiki/Great-Barrington-Erkl%C3%A4rung][Great Barrington Declaration]]
@@ -1047,6 +1060,9 @@ Corona-Eindämmung droht mehr Leid zu verursachen, als sie verhindert.]]
 
 Weihnachtsbotschaft von Betty Wiedemann 97 Jahre alt: Was Sie von den
 Corona-Maßnahmen hält [[https://www.youtube.com/watch?v=Mlz2sRwz-bU][YT]].
+
+Die Nachdenkseiten haben Berichte über die [[https://www.nachdenkseiten.de/?p=66716][Folgen der Corona-Politik]] gesammelt
+und auch als Buch veröffentlicht: [[https://www.westendverlag.de/buch/die-im-dunkeln-sieht-man-nicht][Die im Dunkeln sieht man nicht]].
 
 *** Psychologische Folgen
 
@@ -2088,6 +2104,8 @@ Kabarett:
 - Die Echse erzählt ein Wintermärchen (2020) [[https://www.youtube.com/watch?v=TdZX7Z3b7Dw][YT]]
 - Lauterbach, Wendler, Trump: Richlings Lockdown-Wahnsinn | Die Mathias Richling Show [[https://www.swrfernsehen.de/die-mathias-richling-show/lauterbach-wendler-trump-richlings-lockdown-wahnsinn-100.html][SWR]]
 - Volker Pispers - Wovor haben Sie Angst - Bis neulich 2007 [[https://www.youtube.com/watch?v=aGEE5OePZxo][YT]]
+- Die Möhre über die Verschärfung der Maßnahmen, Skifahrer, Kitas, Impfstoff
+  und Jesus Christus [[https://www.youtube.com/watch?v=Oo9tstPnw8I][YT]]
 
 Sonstige Videos:
 
@@ -2348,6 +2366,8 @@ Juristisch ist bei diesen Annahmen bereits die Einstufung in Klasse 3 zweifelhaf
 Die Einstufungskriterien findet man hier. Interessant dabei auch das Glossar.
 
  https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-450.pdf?__blob=publicationFile&v=2
+
+Immunität statt Impfung: https://tkp.at/2021/01/06/aufhebung-von-corona-massnahmen-fuer-immunitaet-nach-infektion/
 
 *** Normalfall Krankenhausüberlastung
 
