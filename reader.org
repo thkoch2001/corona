@@ -911,6 +911,10 @@ sinnlos]]
 A Tale of Three Models]] - Lockdowns haben keinen Effekt auf das
 Infektionsgeschehen.
 
+Lockdowns haben keinen Effekt: [[https://onlinelibrary.wiley.com/doi/epdf/10.1111/eci.13484][ASSESSING MANDATORY STAY-AT-HOME AND BUSINESS
+CLOSURE EFFECTS ON THE SPREAD OF COVID-19]], Eran Bendavid, Christopher Oh, Jay
+Bhattacharya, John P.A. Ioannidis
+
 *** Maskenpflicht
 
 Es gibt große Variationen in der Wirksamkeit zwischen Stoffmasken und
@@ -2125,6 +2129,7 @@ Musik:
 - Eric Clapton - "Stand and Deliver" [[https://www.youtube.com/watch?v=L3LXBbSPbm0][YT]]
 - VITA - ALS OB [[https://www.youtube.com/watch?v=taro0Syj_X0][YT]]
 - Der Partybiker - Steh auf [[https://www.youtube.com/watch?v=eI_NywizLSk][YT]]
+- Hans Söllner - Söder Maskenpflicht Corona [[https://www.youtube.com/watch?v=izRwgS5b9bU][YT]]
 
 Ich präferiere ja diesen neuen Russischen Impfstoff, der Oral einzunehmen
 ist. Ich glaube, "Vodka" hieß der?
@@ -2368,6 +2373,12 @@ Die Einstufungskriterien findet man hier. Interessant dabei auch das Glossar.
  https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-450.pdf?__blob=publicationFile&v=2
 
 Immunität statt Impfung: https://tkp.at/2021/01/06/aufhebung-von-corona-massnahmen-fuer-immunitaet-nach-infektion/
+
+2020-01-11, FAZ: [[https://zeitung.faz.net/faz/feuilleton/2021-01-11/7979f1570d1984476e2df3f3ff4dc306/?GEPC=s5][Wissenschaftlern folgen? Ja doch, aber welchen?]]
+
+https://www.thomasbinder.ch/amp/das-herrschende-corona-narrativ-ein-tot-geborener-ewig-lebender-untoter - gute Zusammenfassung
+
+https://telegra.ph/Corona-Fakten-Liste-der-wichtigsten-Artikel-09-08
 
 *** Normalfall Krankenhausüberlastung
 
